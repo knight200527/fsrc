@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"http://gg.gg/tvboxjar",
+"spider":"https://knight200527.github.io/fsrc/qiaoji07061026.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
