@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://knight200527.github.io/fsrc/0706.jar",
+"spider":"https://knight200527.github.io/fsrc/07061533.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
