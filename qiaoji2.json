@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://shuyuan.miaogongzi.net/shuyuan/1659230860.txt;md5;e470fb16926ae5c2961358b167b155f5",
+"spider":"https://knight200527.github.io/fsrc/qj0731.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
