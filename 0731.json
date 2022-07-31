@@ -1,5 +1,5 @@
 {
-  "spider":"https://knight200527.github.io/fsrc/top94.jar",
+  "spider":"http://home.jundie.top:81/jar/top94.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"
+      "ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
     },
     {"key": "csp_Bliyc","name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
