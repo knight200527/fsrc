@@ -1,6 +1,6 @@
 
 {
-"spider":"clan://TVBox/jar/box.jar",
+"spider":"https://knight200527.github.io/fsrc/OriginPush.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
