@@ -1,16 +1,16 @@
 
 {
-	"spider": "https://gitee.com/zzzlllmmm1/tvboxt/raw/master/zzz.jar",
-	"lives": [{
+	//"spider": "https://gitea.com/Mike906/jar/src/branch/main//合集.jar",
+	"spider": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/jar/mainjar.jar",
+		"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWWhe91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]
 		}]
 	}],
 	"sites": [
 	    
-
 
 {
       "key": "Gitcafe",
@@ -22,10 +22,9 @@
       "filterable": 1,
       "ext": "3781469b13074e4cac1e0e7113e4fa20"
     },
-	    
-	    
-{"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
-
+	    	    	    
+{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
+ 
 {"key": "演唱会","name": "云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"},
 
 	    
@@ -39,7 +38,7 @@
 			"filterable": 1
 		}, {
 			"key": "360_spider",
-			"name": "🎞️️360影视（官）",
+			"name": "🎞️️360影视官",
 			"api": "csp_SP360",
 			"type": 3,
 			"filterable": 1,
@@ -125,7 +124,7 @@
 			"searchable": 1,
 			"ext": ""
 		},
-		{"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+		{"key":"csp_293","name":"293假","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 		
 	  {
 			"key": "csp_DiDuan",
@@ -286,7 +285,7 @@
 		
 {"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
 {"key": "演唱会","name": "云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"},
-//{"key": "戏曲","name": "云星戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json"},
+
 {"key": "少儿","name": "少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"},
 {"key": "学堂","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},
 {"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"},
@@ -316,7 +315,7 @@
 	
 
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+
 		
 		{
 			"key": "csp_AppYsV2",
