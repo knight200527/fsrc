@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0823w.jar;md5;E055B9187B24386D52D93CF23EE8BA76",
+	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0823w.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
