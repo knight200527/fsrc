@@ -1,7 +1,7 @@
 
 {
 	//"spider": "https://gitea.com/Mike906/jar/src/branch/main//合集.jar",
-	"spider": "https://raw.githubusercontent.com/bjdaxiongmao/00000/main/jar/mainjar.jar",
+	"spider": "https://gitea.com/Mike906/jar/src/commit/ce5b75fc2909d843d0ad48e1687d593b3b5f2500/gg0826.jar",
 		"lives": [{
 		"group": "redirect",
 		"channels": [{
