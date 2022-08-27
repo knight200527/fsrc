@@ -31,8 +31,8 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
-		{
-			"key": "Ikan",
+		{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-r718nr53-1313516851.cd.apigw.tencentcs.com/release/vod?ali_token=4acb3ad2f2254ba1b566279f7cd98ba3","searchable": 1,"quickSearch": 1,"filterable": 1},
+			{"key": "Ikan",
 			"name": "爱看影视（SP）",
 			"type": 3,
 			"api": "csp_IKan",
@@ -120,6 +120,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		    
 		{
 			"key": "csp_Jianying",
 			"name": "简影（SP）",
@@ -130,6 +131,7 @@
 			"filterable": 0,
 			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4"
 		},
+	
         {
 			"key": "csp_剧荒",
 			"name": "剧荒（SP）",
@@ -647,7 +649,19 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%BE%8E%E9%A3%9F.json"
     },
 	
+
+	{"key": "体育","name": "💋体育合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1 ,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json"},
+{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable" : 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"},
+{"key": "游戏电竞","name": "🎮游戏电竞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable ": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/电竞.json"},
+{"key": "棋牌","name": "💔棋牌娱乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1 ,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/棋牌.json"},
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1 ,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"},
+{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"},	
+{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},
+{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"},
+
 		{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
+	
+		
 		{
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
