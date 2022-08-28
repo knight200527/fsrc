@@ -93,6 +93,9 @@
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, 
+		{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
+		
+		
 		{"key":"t4public",
 "name":"T4公共",
 "type":4,            "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
@@ -688,7 +691,39 @@
   "filterable": 0,
   "ext": "http://8.219.150.174:5244"
  },
-		
+ {"key": "csp_Alist11",
+  "name": "Alist11七米蓝(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://al.chirmyram.com"
+ },
+
+ {"key": "csp_Alist12",
+  "name": "Alist12神族九帝(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.shenzjd.com"
+ },
+ {"key": "csp_Alist13",
+  "name": "Alist13菊花盘(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+   "jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "https://pan.142856.xyz"
+ },
+
+		{"key":"sp_听书网"      ,"name":"听书网【XB】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://d.zaix.ru/uSPu.txt"},
+{"key":"csp_XYQBiu_短视频","name":"短视频【YXQ】","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cv.yi2a.com/b/MnnD","jar":"https://cv.yi2a.com/b/tsIM"},
+
 		{
 			"key": "csp_biubiu_ting",
 			"name": "听书网（无画面）",
@@ -728,6 +763,18 @@
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, 
+{
+      "key": "csp_xpath_cls",
+      "name": "🍭磁力搜索(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",\r\n  \"scVodMark\": \"\"\r\n}"
+    },
+
+
 {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33110/%E5%93%94%E5%93%A9.json?sign=bfFrA3Ub4BqSYHavVzc5BVYQuvwuGROwx8QLWbKbb3A%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "戏曲","name": "🅱️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33115/%E6%88%8F%E6%9B%B2.json?sign=dKQjA0Cnr7RHc3NkFbhjCLD7AmXE6SD5OF8pDlONKxs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
