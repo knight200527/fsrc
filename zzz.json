@@ -191,7 +191,13 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{"key":"csp_biubiu_AB影院","name":"🆎AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable": 0,"jar":""spider":"http://52bsj.vip:81/api/v3/file/get/42820/0826.jar?sign=WQrLG36YYYaEDkPHwqXe93q1oMSkEYx41GToU4k_yJQ%3D%3A0;md5;3550969fb9a34fa1136d98c3e33f03a1",","ext":"http://52bsj.vip:81/api/v3/file/get/30701/AB%E5%BD%B1%E9%99%A2.json?sign=809lbQ-G8IIdmmywH5q_BLf9UeV8tGn0YTY9vlAKJkE%3D %3A0"},
+		{"key":"csp_biubiu_AB影院",
+		"name":"🆎AB影院","type":3,
+		"api":"csp_XBiubiu",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable": 0,
+		"jar":"http://52bsj.vip:81/api/v3/file/get/42820/0826.jar?sign=WQrLG36YYYaEDkPHwqXe93q1oMSkEYx41GToU4k_yJQ%3D%3A0;md5;3550969fb9a34fa1136d98c3e33f03a1","ext":"http://52bsj.vip:81/api/v3/file/get/30701/AB%E5%BD%B1%E9%99%A2.json?sign=809lbQ-G8IIdmmywH5q_BLf9UeV8tGn0YTY9vlAKJkE%3D %3A0"},
 
 		{
 			"key": "csp_CZSPP",
