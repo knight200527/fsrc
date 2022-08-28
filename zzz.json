@@ -602,7 +602,7 @@
 		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
 		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
 		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},
-		{"key":"csp_Alist2","name":"🐞Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
+		{"key":"csp_Alist2","name":"🐞Alist2Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
 
  
  
@@ -638,7 +638,7 @@
   "ext": "http://www.feifwp.top"
 },
 {"key": "csp_Alist5",
-  "name": "Alist5(SP)",
+  "name": "Alist5一只鱼(SP)",
   "type": 3,
   "api": "csp_Alist",
   "searchable": 0,
@@ -720,6 +720,28 @@
    "jar":"http://xn--4bra.live/jar2/jar0828.jar",
   "ext": "https://pan.142856.xyz"
  },
+ {
+  "key": "csp_Alist14",
+  "name": "Alist14讯维云盘",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://pan.xwbeta.com"
+ },
+{
+  "key": "csp_Alist15",
+  "name": "Alist15梓澪の妙妙屋",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://xn--i0v44m.xyz/"
+ },
+
+
 
 		{"key":"sp_听书网"      ,"name":"听书网【XB】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://d.zaix.ru/uSPu.txt"},
 {"key":"csp_XYQBiu_短视频","name":"短视频【YXQ】","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cv.yi2a.com/b/MnnD","jar":"https://cv.yi2a.com/b/tsIM"},
