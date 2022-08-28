@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvMDgyNnpiLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvMDgyOHpiLnR4dA=="
           ]
         }
       ]
@@ -272,8 +272,28 @@
       "filterable": 1
     },
     {
-      "key": "学堂",
-      "name": "🐯学习园地",
+      "key": "csp_BBB",
+      "name": "🅱️哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+    },
+    {
+      "key": "儿童",
+      "name": "🐯儿童乐园",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+    },
+    {
+      "key": "学习",
+      "name": "📝学习园地",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -292,16 +312,6 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
     },
     {
-      "key": "csp_BBB",
-      "name": "🅱️哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
-    },
-    {
       "key": "美食",
       "name": "🍔美食合集",
       "type": 3,
@@ -312,24 +322,24 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
     },
     {
-      "key": "演唱",
-      "name": "🎤演唱现场",
+      "key": "音乐",
+      "name": "🎤音乐现场",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
     },
     {
-      "key": "歌曲",
-      "name": "💃女团音乐",
+      "key": "热舞",
+      "name": "💃女团热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E9%9F%B3%E4%B9%90.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
     },
     {
       "key": "戏曲",
