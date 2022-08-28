@@ -191,14 +191,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{"key":"csp_biubiu_AB影院",
-		"name":"🆎AB影院","type":3,
-		"api":"csp_XBiubiu",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable": 0,
-		"jar":"http://52bsj.vip:81/api/v3/file/get/42820/0826.jar?sign=WQrLG36YYYaEDkPHwqXe93q1oMSkEYx41GToU4k_yJQ%3D%3A0;md5;3550969fb9a34fa1136d98c3e33f03a1","ext":"http://52bsj.vip:81/api/v3/file/get/30701/AB%E5%BD%B1%E9%99%A2.json?sign=809lbQ-G8IIdmmywH5q_BLf9UeV8tGn0YTY9vlAKJkE%3D %3A0"},
-
+		
 		{
 			"key": "csp_CZSPP",
 			"name": "厂长资源（SP）",
@@ -613,13 +606,16 @@
 		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
 		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
 		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},
-		{"key":"csp_Alist2","name":"🐞Alist2Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
+		
+{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/38532/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+ {"key": "UP主","name": " 🖤UP主","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/17090/%E5%90%BE%E7%88%B1UP%E4%B8%BB%E5%90%88%E9%9B%86.json?sign=DeQdPrG46oni5nhoRk_RENrU0Mp6jGaD6jMUFh_ung4%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 
+{"key": "演唱会自定义","name": " 💛演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
  
- 
+ {"key":"csp_Alist1","name":"🐞Alist1Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
  {
-  "key": "csp_Alist1",
-  "name": "Alist1(SP)",
+  "key": "csp_Alist2",
+  "name": "Alist2(SP)",
   "type": 3,
   "api": "csp_Alist",
   "searchable": 1,
