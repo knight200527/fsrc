@@ -612,6 +612,17 @@
 
 {"key": "演唱会自定义","name": " 💛演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
  
+
+ //{"key": "csp_Alist",
+ // "name": "Alist集合",
+ // "type": 3,
+ // "api": "csp_Alist",
+ // "searchable": 0,
+ // "quickSearch": 0,
+ // "filterable": 0,
+//  "ext": "🐞Adult$https://drive.9t.ee#Alist2$https://alist.52qy.repl.co#Alist3$https://wangpan.sangxuesheng.com#非盘$http://www.feifwp.top#一只鱼$https://alist.youte.ml#小棉袄仓库$http://pan.haikuoshijie.cn#嗨翻$https://pan.hikerfans.com#姬路白雪$https://pan.jlbx.xyz#听闻$https://wangpan.sangxuesheng.com#Joe自用$http://8.219.150.174:5244#七米蓝$https://al.chirmyram.com#神族九帝$https://alist.shenzjd.com#菊花盘$https://pan.142856.xyz#讯维云盘$https://pan.xwbeta.com#梓澪の妙妙屋$https://xn--i0v44m.xyz"},
+ 
+ 
  {"key":"csp_Alist1","name":"🐞Alist1Adult(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://xn--4bra.live/jar2/jar0828.jar","ext":"https://drive.9t.ee"},
  {
   "key": "csp_Alist2",
