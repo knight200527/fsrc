@@ -98,6 +98,39 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":0}, 
+{"key":"csp_Alist2","name":"🐞Alist2(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitea.com/Mike906/jar/src/branch/main/gg0826.jar","ext":"https://drive.9t.ee"},
+{
+  "key": "csp_Alist1",
+  "name": "Alist3(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://drive.9t.ee"
+ },{
+  "key": "csp_Alist3",
+  "name": "Alist2(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.youte.ml"
+ },
+ {
+  "key": "csp_Alist4",
+  "name": "Alist2(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "jar":"https://gitea.com/Mike906/jar/src/branch/main/gg0826.jar",
+  "ext": "https://alist.52qy.repl.co"
+},
+ 
+
 		{
 			"key": "csp_DiDuan",
 			"name": "低端影视（SP）",
