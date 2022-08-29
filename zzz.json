@@ -1,6 +1,6 @@
 
 {
-	
+	//http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar(唐三的jar，修复了酷云77）
 	"spider": "http://刚刚.live/jar2/jar0828.jar",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
@@ -23,7 +23,8 @@
 		//	"searchable": 1}, 
 
 		{"key":"csp_SP360","name":"360影视〔SP官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
-		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar"}, 
+		{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar"},
 		{
 			"key": "csp_Wmkk",
 			"name": "完美看看（SP）",
