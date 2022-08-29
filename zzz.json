@@ -790,6 +790,17 @@
   "jar":"http://xn--4bra.live/jar2/jar0828.jar",
   "ext": "https://alist.52qy.repl.co"
 },
+{
+  "key": "csp_Alist17",
+  "name": "Alist小兵组网盘影视",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://6vv.app"
+},
+
 
 
 		{"key":"sp_听书网"      ,"name":"听书网【XB】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://d.zaix.ru/uSPu.txt"},
