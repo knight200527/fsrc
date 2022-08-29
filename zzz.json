@@ -97,8 +97,6 @@
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}, 
-		//{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
-		
 		
 		{"key":"t4public",
 "name":"T4公共",
@@ -106,7 +104,8 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":0}, 
-
+  {"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
+//{"key": "T4","name": "T4搜索","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
 		
 		{
 			"key": "csp_DiDuan",
@@ -314,6 +313,17 @@
 			"ext": "http://刚刚.live/jar2/tvjs/ysgc2.json"
 		},
 	//	{"key":"csp_biubiu_555电影","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/555.json"},
+			{
+      "key": "csp_appysv2_amhys",
+      "name": "爱麻花影视〔V2〕",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+    },
+		
 		{
 			"key": "诺讯资源",
 			"name": "诺讯资源（采集官解）",
@@ -550,6 +560,17 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
+		{"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/达达龟.json"},
+		{"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/花猫TV.json"},
+{"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/口袋影院.json"},
+{"key":"csp_biubiu_YYDS影院","name":"YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/YYDS影院.json"},
+{"key":"csp_biubiu_如如影视","name":"如如影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/如如影视.json"},
+{"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/VIP1280.json"},
+{"key":"csp_biubiu_创艺影视","name":"创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
+{"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dandanzan10.json"},
+{"key":"csp_biubiu_手机看剧","name":"手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/手机看剧.json"},
+
+{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xfeiji.json"},
 		{"key":"mtv_zh_ccchys","name":"CV影视（有广告）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 		{
 			"key": "csp_app_小鸟动漫",
@@ -758,7 +779,17 @@
   "filterable": 0,
   "ext": "https://xn--i0v44m.xyz/"
  },
-
+{
+  "key": "csp_Alist16",
+  "name": "Alist16米奇妙妙屋(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"http://xn--4bra.live/jar2/jar0828.jar",
+  "ext": "https://alist.52qy.repl.co"
+},
 
 
 		{"key":"sp_听书网"      ,"name":"听书网【XB】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://d.zaix.ru/uSPu.txt"},
