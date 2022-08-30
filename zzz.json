@@ -6,13 +6,7 @@
 	//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
 	"spider": "http://刚刚.live/jar2/jar0828.jar",
 	"wallpaper": "http://刚刚.live/图",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi9saXZlLnR4dA=="]
-		}]
-	}],
+	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
 	"sites": [	    
 	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
 		{"key":"csp_SP360","name":"360影视〔SP官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
