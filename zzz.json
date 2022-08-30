@@ -1,6 +1,6 @@
 
 {
-	//http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar(唐三的jar，修复了酷云77）
+	//http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar(唐三的jar，修复了酷云77）
 	"spider": "http://刚刚.live/jar2/jar0828.jar",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
@@ -23,8 +23,8 @@
 		//	"searchable": 1}, 
 
 		{"key":"csp_SP360","name":"360影视〔SP官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
-		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar"}, 
-		{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f2ddfd684736b506ea37f8b7ed12b1d.jar"},
+		{"key":"csp_77","name":"七七（稳快画质一般）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"}, 
+		//{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
 		{
 			"key": "csp_Wmkk",
 			"name": "完美看看（SP）",
@@ -651,7 +651,7 @@
 //{"key":"csp_Alistx","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 
  {"key":"csp_Alistx","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"🐞9T(Adult)$https://drive.9t.ee#米奇妙妙屋$https://anime.mqmmw.ga#小兵组网盘影视$https://6vv.app#小光盘$https://alist.xiaoguanxiaocheng.life#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#梓澪の妙妙屋(H)$https://xn--i0v44m.xyz#嗨翻$https://pan.hikerfans.com#非盘$http://www.feifwp.top#sangxuesheng$https://wangpan.sangxuesheng.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
-
+//{"key":"csp_Alist2","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
  
 
 		//{"key":"sp_听书网"      ,"name":"听书网【XB】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://d.zaix.ru/uSPu.txt"},
@@ -765,6 +765,11 @@
 	{"name": "油果","type": 1,"url": "http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
 	{"name": "爱豆","type": 1,"url": "http://id190.tpddns.cn:81/jsonch/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	{
+		"name": "OKjx综合",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	},
+	{
 		"name": "m3u8tv高清",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
@@ -792,11 +797,31 @@
 		"type": 0,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
 	},
-	{
-		"name": "OKjx综合",
-		"type": 0,
-		"url": "https://okjx.cc/?url="
-	}],
+	{"name":"纯净1","type":0,"url":"https://z1.m1907.cn/?jx="},
+{"name":"B站1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"BL","type":0,"url":"https://vip.bljiex.com/?v="},
+{"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"H8","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+{"name":"解析","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+{"name":"解析la","type":0,"url":"https://api.jiexi.la/?url="},
+{"name":"老板","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
+{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+{"name":"PM","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+{"name":"盘古","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
+{"name":"全民","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+{"name":"七哥","type":0,"url":"https://jx.mmkv.cn/tv.php?url="},
+{"name":"RDHK","type":0,"url":"https://jx.rdhk.net/?v="},
+{"name":"人人迷","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+{"name":"思古3","type":0,"url":"https://jsap.attakids.com/?url="},
+{"name":"云端","type":0,"url":"https://js.52jx.top:2525/?url="},
+{"name":"云端","type":0,"url":"https://sb.5gseo.net/?url="},
+{"name":"云析","type":0,"url":"https://jx.yparse.com/index.php?url="},
+{"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
+{"name":"8090","type":0,"url":"https://www.8090g.cn/?url="}
+	],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk": [{
 		"group": "软解码",
