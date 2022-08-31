@@ -6,11 +6,16 @@
 	//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
 	"spider": "http://刚刚.live/jar2/jar0828.jar",
 	"wallpaper": "http://刚刚.live/图",
-	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
+	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
+	//"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcGxheWdheW1lL2JveFJlcG9zaXRvcnkvcmF3L2JyYW5jaC9tYWluL1RWQm94L3p5L3R2L3piLnR4dA=="]}]}],（备份直播源）
+
+	
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 	"sites": [	    
 	    {"key":"csp_BBB","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
 		{"key":"csp_SP360","name":"360影视〔SP官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
-		{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable" :1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/77.jar;md5;3FF273ADC74924748C820B8F15FB8C49"},
+		{"key":"csp_Kunyu77","name":"酷云七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+		//{"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable" :1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/77.jar;md5;3FF273ADC74924748C820B8F15FB8C49"},
 		{
 			"key": "csp_Wmkk",
 			"name": "完美看看（SP）",
@@ -28,7 +33,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-		
+		{"key": "追剧喵","name": "🐞追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 		//{"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "天堂资源",
