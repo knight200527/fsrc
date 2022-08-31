@@ -211,6 +211,8 @@
 {"key":"csp_MGTV","name":"芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"youku","name":"优酷（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
+{"key":"PpTV","name":"📺PPTV（官）","type":0,"api":"https://www.zycaiji.net:7788/ api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片《恐怖片》、《喜剧片》、《爱情片》、《战争片》、《国产片》、《剧情片》、《国产片》、《港台剧》、《日剧》、 《欧美剧》、《悬疑片冒险片》、《悬疑片冒险》、《惊儿》、《武侠片》、《少侠》、《其他片》]}、{“钥匙” :"csp_xpath_1","name":"⚽🏀1","type":3,"api":,"sp_XPath":0,"filterable":1,""ext":"https://gitcode. net/qq_2689823/TVBox/-/raw/json/%E%90%83E8%BF%B71.json"}/main{"key":"csp_xpath_2","name":"⚽🏀 “2”，“type”，“api”，“3”，“csp_XPathFiltersearchable”：“1”，“可过滤的”：1，“ext”：“https://code.net/qq_26898231 /TVBox/-/raw/main/json/%E7%90%83%E8%BF%B72.json"},
+
 //{"key":"PpTV","name":"PPTV（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 
 		{
@@ -596,6 +598,7 @@
 //{"key":"csp_Alist2","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
 {"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
 {"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},		
+		{"key":"bdys","name":"🧲磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json /%E7%A3%81%E5%8A%9B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"},
 		{
 			"key": "Yiso",
 			"name": "易搜(云盘仅搜索)",
