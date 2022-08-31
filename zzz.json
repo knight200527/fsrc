@@ -179,6 +179,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 		{
 			"key": "csp_Mjxq",
 			"name": "美剧星球（SP）",
@@ -305,26 +306,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		{
-			"key": "csp_xpath_网络搜集库88",
-			"name": "球迷专场一",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/88kanqiu.json"
-		}, 
-		{
-			"key": "csp_xpath_网络搜集库qiumi",
-			"name": "球迷专场二",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://刚刚.live/jar2/tvjs/qiumi.json"
-		},
+	
 //		{"key": "csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/12292/%E7%90%83%E8%B5%9B.json?sign=6pF4l-gytzv_S8LEIMozr1mVnkcLMYUAV_D7v3Z4Ejc%3D%3A0"},
 {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
 {"key": "csp_XYQBiu_虎牙代理直链","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙代理直链.json"},
