@@ -254,16 +254,7 @@
 		
 		{"key":"csp_biubiu_看片网","name":"看 片 网〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/看片网.json"},
 
-		{
-			"key": "csp_AppYsV2",
-			"name": "优众影视（SP）",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
-		},
+	{"key":"优众影视","name":"优众影视（SP）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 		{"key":"csp_xpath_6d","name":"六度TV（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/6d.json"},
 	{
 			"key": "csp_biubiu_影视工厂",
