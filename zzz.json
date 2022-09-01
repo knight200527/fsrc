@@ -4,7 +4,8 @@
 
 
 	//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
-	"spider": "http://刚刚.live/jar2/jar0828.jar",
+	//"spider": "http://刚刚.live/jar2/jar0828.jar",
+	"spider": "http://刚刚.live/jar2/jar0901.jar",
 	"wallpaper": "http://刚刚.live/图",
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
 	//"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcGxheWdheW1lL2JveFJlcG9zaXRvcnkvcmF3L2JyYW5jaC9tYWluL1RWQm94L3p5L3R2L3piLnR4dA=="]}]}],（备份直播源）
@@ -34,14 +35,13 @@
 		}, 
 		{"key": "追剧喵","name": "追  剧  喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 		//{"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-		{
-			"key": "天堂资源",
-			"name": "天堂资源(官解)",
-			"type": 1,
-			"api": "http://vipmv.cc/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		}, 
+		//{
+		//	"key": "天堂资源",
+		//	"name": "天堂资源(官解)",
+		//	"type": 1,
+		//	"api": "http://vipmv.cc/api.php/provide/vod/",
+		//	"searchable": 1,
+		//	"quickSearch": 1}, 
 		{
 			"key": "Lezhu_spider",
 			"name": "乐猪影视（SP）",
@@ -281,21 +281,21 @@
       "filterable": 1,
       "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
     },	
-		{
-			"key": "诺讯资源",
-			"name": "诺讯资源（官解）",
-			"type": 1,
-			"api": "http://caiji.nxflv.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		}, {
-			"key": "M3U8资源",
-			"name": "M3U8资源（官解）",
-			"type": 1,
-			"api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
+	//	{
+	//		"key": "诺讯资源",
+	//		"name": "诺讯资源（官解）",
+	//		"type": 1,
+	//		"api": "http://caiji.nxflv.com/api.php/provide/vod/",
+	//		"searchable": 1,
+	//		"quickSearch": 1
+	//	}, {
+	//		"key": "M3U8资源",
+	//		"name": "M3U8资源（官解）",
+	//		"type": 1,
+	//		"api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
+	//		"searchable": 1,
+	//		"quickSearch": 1
+	//	},
 	
 //		{"key": "csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/12292/%E7%90%83%E8%B5%9B.json?sign=6pF4l-gytzv_S8LEIMozr1mVnkcLMYUAV_D7v3Z4Ejc%3D%3A0"},
 {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
@@ -481,14 +481,15 @@
 			"filterable": 0,
 			"ext": "http://刚刚.live/jar2/tvjs/pianku.json"
 		},
-		{
-			"key": "多多资源",
-			"name": "多多资源(切)",
-			"type": 1,
-			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		}, {
+	//	{
+	//		"key": "多多资源",
+	//		"name": "多多资源(切)",
+	//		"type": 1,
+	//		"api": "https://www.ddzyz1.com/api.php/provide/vod/",
+	//		"searchable": 1,
+	//		"quickSearch": 1
+	//	}, 
+	{
 			"key": "金鹰资源",
 			"name": "金鹰资源(切)",
 			"type": 1,
@@ -576,7 +577,7 @@
 			"ext": "http://刚刚.live/jar2/tvjs/dm84.json"
 		},
 		
-		{"key":"多多","name":"多多资源（有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
+	//	{"key":"多多","name":"多多资源（有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
 		{"key":"bdys","name":"磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json /%E7%A3%81%E5%8A%9B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"},
 		{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
 		 {"key":"csp_Alistx","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"🐞9T(Adult)$https://drive.9t.ee#米奇妙妙屋$https://anime.mqmmw.ga#小兵组网盘影视$https://6vv.app#晴园的宝藏库$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#梓澪の妙妙屋(H)$https://xn--i0v44m.xyz#嗨翻$https://pan.hikerfans.com#非盘$http://www.feifwp.top#sangxuesheng$https://wangpan.sangxuesheng.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
@@ -621,7 +622,30 @@
 {"key": "教程","name": "🅱️教程合集（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"},	
 {"key": "学堂","name": "🅱️学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},
 {"key": "少儿","name": "🅰️少  儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"},
-				
+
+
+			//{"key":"csp_AppYsV2_美剧范","name":"美剧范(优)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
+{"key":"多多","name":"多多影视(优)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"鑫总资源","name":"鑫总资源(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
+{"key":"QC 影视","name":"QC 影视(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
+{"key":"刺猬影视","name":"刺猬影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key":"玖卿乐播","name":"玖卿乐播(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
+{"key":"尘云影视","name":"尘云影视(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
+{"key":"万能影院","name":"万能影院(优)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+{"key":"波比影视","name":"波比影视(优)","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"西柚影视","name":"西柚影视(优)","type":1,"api":"http://43.135.75.180:9999/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"多多资源","name":"多多资源(优)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"多多资源2","name":"多多资源2(优)","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"每天看看","name":"每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"木子看剧","name":"木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"考拉资源","name":"考拉资源(官)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"忆梦资源","name":"忆梦资源(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"江湖官采","name":"江湖官采(官)","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"土狗 360","name":"土狗 360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":0,"quickSearch":0},
+{"key":"M3U8资源","name":"M3U8资源(官)","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 			{
 			"key": "Yiso",
 			"name": "易  搜(仅搜索)",
