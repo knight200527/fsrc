@@ -289,9 +289,8 @@
 	
 //		{"key": "csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/12292/%E7%90%83%E8%B5%9B.json?sign=6pF4l-gytzv_S8LEIMozr1mVnkcLMYUAV_D7v3Z4Ejc%3D%3A0"},
 {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
+{"key": "csp_XYQBiu_dsp","name": "短视频通道(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/duanshipin.json"},
 {"key": "csp_XYQBiu_虎牙代理直链","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙代理直链.json"},
-
-
 {
 		"key": "csp_xpath_huya",
 		"name": "虎牙(XP)",
@@ -301,11 +300,10 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"
-
 },
-
 {"key":"csp_xbb_斗鱼","name":"斗鱼直播(XYQ)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/斗鱼.json"},
 {"key":"csp_biubiu_斗鱼","name":" 斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/523/%E6%96%97%E9%B1%BC0813.json?sign=-6q_EpdinkTnEGPQBmad2skT-0LeELv-iYorZabYDWs%3D%3A0"},
+
 {"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://out.zxglife.top/down.php/d3d51421c9f2408e177128c105647834.json"},
 //{"key": "csp_XYQBiu_凌云影视","name": "🍀凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
 {"key": "csp_XYQBiu_万能影院","name": "万能影院(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},		
@@ -591,11 +589,13 @@
 		},
 		
 	//	{"key":"多多","name":"多多资源（有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
-		{"key":"bdys","name":"磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json /%E7%A3%81%E5%8A%9B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"},
+		//{"key":"bdys","name":"磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json /%E7%A3%81%E5%8A%9B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"},
+		{"key":"bdys","name":"磁力高清（XP）","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://刚刚.live/jar2/tvjs/bdyscl.json"},
+		
 		{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
 {"key":"csp_Alistx","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"4K影视$https://quanzi.laoxianghuijia.cn#小兵$https://6vv.app#DISK$http://124.222.140.243:8080#云播放$https://quanzi.laoxianghuijia.cn#星梦$https://pan.bashroot.top#A2$http://37.16.3.89#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#米奇$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#嗨翻$https://pan.hikerfans.com#非盘$http://www.feifwp.top#sangxuesheng$https://wangpan.sangxuesheng.com#Auney$http://121.227.25.116:8008","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 //{"key":"csp_Alist2","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
-{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
+//{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
 {"key":"csp_biubiu_tingshuxb","name":"🎧听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 		{"key": "csp_xpath_88kanqiu","name": "⚽88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
 {"key": "csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/qiumi.json"},
