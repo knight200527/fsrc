@@ -6,8 +6,8 @@
 
 	//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
 	//"spider": "http://刚刚.live/jar2/jar0828.jar",
-	"spider": "http://刚刚.live/jar2/jar0901.jar",
-	
+	//"spider": "http://刚刚.live/jar2/jar0901.jar",
+	"spider": "http://刚刚.live/jar2/0903.jar", 
 	//"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/0828.jpg;md5;1C1482FF646CC40E1F924EBE320822BC",
 	"wallpaper": "http://刚刚.live/图",
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
@@ -90,6 +90,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":0},
+
 //  {"key": "T4","name": "T4 爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key": "T4","name": "T4 搜索","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
 	//	{"key": "csp_xpath_mjc","name":"美剧虫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://XYQ/美剧虫.json"},
@@ -706,6 +707,11 @@
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="
 	}, 
+	{
+		"name": "GGTV自用",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
+	},
 	{"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	{"name":"爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
 	{"name": "油果","type": 1,"url": "http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
@@ -723,7 +729,13 @@
 		"name": "parwix稳定",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
-	}, {
+	}, 
+	{
+		"name": "搬运",
+		"type": 1,
+		"url": "https://jx.bynote.top/API.php?url="
+	},
+	{
 		"name": "云you解析①",
 		"type": 1,
 		"url": "https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
