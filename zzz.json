@@ -597,6 +597,17 @@
 			"filterable": 0,
 			"ext": "http://刚刚.live/jar2/tvjs/dm84.json"
 		},
+
+		{"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch ":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_小七影视","name":"小七影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
+{"key":"csp_appysv2_群鑫影视","name":"群鑫影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
+{"key":"csp_appysv2_铭轩影视","name":"铭轩影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"http://lz0716.com/api.php/v1.vod"},
+{"key":"csp_appysv2_可乐影视","name":"可乐影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "可过滤":1,"ext":"http://klyingshi.com/api.php/v1.vod"},
+{"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_百淘影视","name":"百淘影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_啊玲影视","name":"啊玲影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch": 1,"可过滤":1,"ext":"http://520dml.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_醉璃笙TV","name":"醉铃笙TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1," quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"},
 		
 	//	{"key":"多多","name":"多多资源（有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
 		//{"key":"bdys","name":"磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json /%E7%A3%81%E5%8A%9B.json","jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"},
