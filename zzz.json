@@ -67,7 +67,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-		//{"key": "在线之家","name": "在线之家（SP）","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+		//{"key": "在线之家","name": "在线之家（SP）","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/在线之家.json"},
 		{"key":"csp_xp_zxzj2","name":"在线之家（SP）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"},
 		{
 			"key": "Gitcafe",
