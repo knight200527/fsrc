@@ -66,15 +66,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
-			"key": "在线之家",
-			"name": "在线之家（SP）",
-			"type": 3,
-			"api": "csp_Zxzj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		}, 
+		//{"key": "在线之家","name": "在线之家（SP）","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+		{"key":"csp_xp_zxzj2","name":"在线之家（SP）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"},
 		{
 			"key": "Gitcafe",
 			"name": "️小 纸 条（云盘）",
@@ -440,7 +434,7 @@
 		{"key":"极品影视","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%9E%81%E5%93%81%E5%BD%B1%E8%A7%86.json"},
 		{"key":"csp_xp_nmys","name":"农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/nmys2.json"},
         {"key":"csp_xp_gongreng","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/gongreng.json"},
-		{"key":"csp_xp_bidiys","name":"Bidi影视(专线)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/bidiys2.json"},
+		{"key":"csp_xp_bidiys","name":"Bidi影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/bidiys2.json"},
 		{"key":"csp_xp_mozhatu","name":"莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/mozhatu.json"},
 
 		{"key":"csp_xp_jLgyy","name":"蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"},
@@ -529,6 +523,7 @@
 
 {"key":"csp_biubiu_完美看看影视","name":"完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
 
+{"key":"csp_biubiu_在线之家","name":"🏠在线之家〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zxzj.json"},
 		{"key":"csp_biubiu_达达龟","name":"达 达 龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/达达龟.json"},
 		{"key":"csp_biubiu_花猫TV","name":"花  猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/花猫TV.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/口袋影院.json"},
