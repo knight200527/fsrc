@@ -810,11 +810,6 @@
 		"url": "https://hc.izny.cn/json.php?url="
 	},		
 	{
-	    "name":"OK",
-	    "type":0,
-	    "url":"https://okjx.cc/?url="
-	},
-	{
 		"name": "解析03",
 		"type": 0,
 		"url": "https://www.nxflv.com/?url="
@@ -845,6 +840,8 @@
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	},
+  {"name":"解析13","type":0,"url":"http://api.wpsseo.cn/?v="},
+  {"name":"解析14","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"B站1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
 {"name":"H8","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
