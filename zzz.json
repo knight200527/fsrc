@@ -226,6 +226,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		
 		{
 			"key": "csp_dd5555",
 			"name": "555影视（SP）",
@@ -268,22 +269,7 @@
       "filterable": 1,
       "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
     },	
-	//	{
-	//		"key": "诺讯资源",
-	//		"name": "诺讯资源（官解）",
-	//		"type": 1,
-	//		"api": "http://caiji.nxflv.com/api.php/provide/vod/",
-	//		"searchable": 1,
-	//		"quickSearch": 1
-	//	}, {
-	//		"key": "M3U8资源",
-	//		"name": "M3U8资源（官解）",
-	//		"type": 1,
-	//		"api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
-	//		"searchable": 1,
-	//		"quickSearch": 1
-	//	},
-	
+
 //		{"key": "csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/12292/%E7%90%83%E8%B5%9B.json?sign=6pF4l-gytzv_S8LEIMozr1mVnkcLMYUAV_D7v3Z4Ejc%3D%3A0"},
 {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
 {"key": "csp_XYQBiu_dsp","name": "短视频通道(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/duanshipin.json"},
