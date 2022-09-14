@@ -233,8 +233,9 @@
 			"searchable": 1
 		},
 		{"key":"KanSJ_spider","name":"看 视 界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-		{"key":"293视频","name":"293视频（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+		//{"key":"293视频","name":"293视频（SP）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		
+{"key":"293视频","name":"293视频（SP）","type":3,"api":"csp_SP293","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://wailian.icu/data/f_65055236.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6"},
 		{"key":"csp_biubiu_看片网","name":"看 片 网〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/看片网.json"},
 
 	{"key":"优众影视","name":"优众影视（SP）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
