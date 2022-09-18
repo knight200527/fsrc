@@ -2,6 +2,7 @@
 //本接口只分享给小白免费体验,接口全部出自网络和大佬资源，如有冒犯请联系删除
 {
   "spider":"https://gitcode.net/q284855646/diy/-/raw/root/jar/cs.jar;md5;a37cc2d2ea049fdb3e6791f57cbd3ebe",
+  "spider":"https://gitcode.net/q284855646/diy/-/raw/root/jar/666.png;md5;7BF81EB29F54645E289066EF7071A76C",
   "spider":"https://gitcode.net/q284855646/diy/-/raw/root/jar/888.png;md5;7B65FF61E7B6887F975D9D83909361D5",
   "wallpaper":"https://bg.s.welsun.win/api",
   "lives": [{"group": "redirect","channels": [{"name": 
@@ -10,8 +11,8 @@
   "sites": [
   {"key":"","name":"🌈关注公众号应用多多，获取VIP直播密码","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "csp_77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},  
-  {"key": "KanSJ_spider","name": "🦅看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
   {"key":"csp_Kuaikan","name":"🔥快看影院","type": 3,"api":"csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "KanSJ_spider","name": "🦅看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
   {"key": "360_spider","name": "️️🏵️360影视","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
   {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_MGTV","name":"🍊芒果TV","type": 3,"api":"csp_MGTV","searchable":1,"quickSearch": 1,"filterable": 1}, 
