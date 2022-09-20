@@ -3,9 +3,7 @@
 9月19日更新,https://share.nite07.com/api/v3/file/source/19596/tv.mp4?sign=HWfJjbifv3WLr0ASQRVDMrgyVW2kmdVvu28aR0sEQik%3D%3A0
 
 🇨🇳｜央视频道,#genre#
-CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.184.31.110&timestamp=20220913144756&encrypt=5c7df915991c8d67a75815f766acce64&ContentId=265183188&timezone=UTC$超清1080P
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
-CCTV1,http://yingliu.8866.org:8181/tsfile/live/0001_1.m3u8$超清1080P
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8$超清1080P
 CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8$超清1080P
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
@@ -617,12 +615,16 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
 
 🚀｜山东,#genre#
+山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
+山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8$超清1080P
+山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8$超清1080P
+山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
+山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
 山东教育卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-shandongjy/1.m3u8?IASHttpSessionId=OTT?shandd
 山东教育卫视,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8?shandd
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
 济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
-山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
-山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
 济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
