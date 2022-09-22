@@ -11,17 +11,26 @@
             "filterable": 1
         },
         {
-            "key": "TT",
-            "name": "TT(爬虫)",
-            "api": "csp_AppTT",
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1
         },
         {
+            "key": "看视界",
+            "name": "看视界(爬虫)",
+            "type": 3,
+            "api": "csp_KanSJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Coke",
-            "name": "Cokemv(爬虫)",
+            "name": "Cokemv(不好用中)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -38,31 +47,13 @@
             "filterable": 1
         },
         {
-            "key": "哔滴影视",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "剧荒",
@@ -74,19 +65,19 @@
             "filterable": 1
         },
         {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
+            "key": "哔滴影视",
+            "name": "哔滴影视(爬虫)",
             "type": 3,
-            "api": "csp_KanSJ",
+            "api": "csp_Bdys01",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "追剧喵",
-            "name": "追剧喵(爬虫)",
+            "key": "神马影院",
+            "name": "神马(爬虫)",
             "type": 3,
-            "api": "csp_ZJMiao",
+            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -101,13 +92,13 @@
             "searchable":1
         },
         {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "追剧喵",
+            "name": "追剧喵(爬虫)",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Kuaikan",
