@@ -20,15 +20,6 @@
             "searchable": 1
         },
         {
-            "key": "看视界",
-            "name": "看视界(爬虫)",
-            "type": 3,
-            "api": "csp_KanSJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "AppTT",
             "name": "TT(爬虫)",
             "type": 3,
