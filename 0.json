@@ -93,6 +93,33 @@
             "searchable":1
         },
         {
+            "key": "ZJMiao",
+            "name": "追剧喵(爬虫)",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Auete",
+            "name": "Auete(爬虫)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Kuaikan",
             "name": "快看(爬虫)",
             "type": 3,
@@ -102,10 +129,10 @@
             "filterable": 1
         },
         {
-            "key": "555",
-            "name": "555(爬虫)",
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
             "type": 3,
-            "api": "csp_Dy555",
+            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -163,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f114d82f1d0c4c74b4c49b4ceb3a1973"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "zhaozy",
@@ -173,7 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "f114d82f1d0c4c74b4c49b4ceb3a1973"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "AliPS",
@@ -183,7 +210,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "f114d82f1d0c4c74b4c49b4ceb3a1973"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "Yiso",
@@ -193,7 +220,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f114d82f1d0c4c74b4c49b4ceb3a1973"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "Upyunso",
@@ -203,7 +230,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "f114d82f1d0c4c74b4c49b4ceb3a1973"
+            "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
             "key": "csp_xpath_dm84",
@@ -215,16 +242,6 @@
             "filterable":0,
             "ext":"https://agit.ai/dxawi/6/raw/branch/main/dm84.json"
         }, 
-          {
-            "key": "csp_XYQHiker_氢视频",
-            "name": "氢视频(XYQH)",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/xyqqsp.json"
-        },
         {
             "key": "csp_XBPQ极品影视",
             "name": "极品影视(XBPQ)",
@@ -233,7 +250,17 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/xbpqjpys.json"
+            "ext":"https://dxawi.github.io/1/json/xbpqjpys.json"
+        },
+        {
+            "key": "csp_xBPQ真不卡",
+            "name": "️真不卡(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"https://dxawi.github.io/1/json/bk.json"
         },
         {
             "key": "csp_XYQBiu_凌云影视",
@@ -704,5 +731,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://agit.ai/dxawi/0/raw/branch/main/jar/cs.jar;md5;fba3e121a785d0f9241ba30fad859b59"
+       "spider":"https://agit.ai/dxawi/0/raw/branch/main/jar/cs.jar"
 }
