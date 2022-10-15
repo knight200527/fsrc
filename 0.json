@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key": "农民",
             "name": "农民(爬虫)",
             "type": 3,
@@ -39,14 +48,32 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },
         {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
+            "key": "Coke",
+            "name": "Cokemv(不好用中)",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
+        },
+        {
+            "key": "Ddrk",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
         {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
@@ -64,15 +91,6 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家(爬虫)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "LiteApple",
@@ -102,23 +120,23 @@
             "filterable": 1
         },
         {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "Anime1",
+            "name": "日漫(爬虫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
         {
             "key": "QQ",
             "name": "QQ(不好用)",
@@ -213,28 +231,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/dm84.json"
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/dm84.json"
         }, 
-        {
-            "key": "多多",
-            "name": "多多资源(采集)",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
-        },
-        {
-            "key": "csp_XYQBiu_凌云影视",
-            "name": "凌云影视(XYQB)",
-            "type":3,
-            "api":"csp_XYQBiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xyqlyys.json"
-        },
         {
             "key": "csp_XBPQ极品影视",
             "name": "极品影视(XBPQ)",
@@ -256,6 +254,15 @@
             "ext":"https://dxawi.github.io/1/json/bk.json"
         },
         {
+            "key": "csp_XYQBiu_凌云影视",
+            "name": "凌云影视(XYQ)",
+            "type":3,
+            "api":"csp_XYQBiu","searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/xyqlyys.json"
+        },
+        {
             "key": "Voflix",
             "name": "Voflix(XB)",
             "type": 3,
@@ -263,7 +270,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/voflix.json"
         },
         {
             "key": "蓝光影院",
@@ -273,7 +280,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/lgyy.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/lgyy.json"
         },
         {
             "key": "ysgc",
@@ -283,7 +290,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/ysgc.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -293,7 +300,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/gptv.json"
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -303,7 +310,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/kdyy.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/kdyy.json"
+        },
+        {
+            "key": "多多",
+            "name": "多多资源(采集)",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
+        },
+        {
+            "key": "XB Cokemv",
+            "name": "Cokemv(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/coke.json"
+        },
+        {
+            "key":"csp_xpath_coke",
+            "name": "Cokemv(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/cokep.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -313,7 +350,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -323,8 +360,38 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/zxzjp.json"
         },
+        {
+            "key":"csp_xpath_lezhutv",
+            "name": "乐猪TV(XP)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/lztv.json"
+        },
+        {
+            "key":"csp_xpath_cokemv",
+            "name": "Cokemv(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/cokep.json"
+        },
+        {
+            "key": "蓝光影院XPF",
+            "name": "蓝光影院(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/dxawi/6/raw/branch/main/lgyyp.json"
+        }, 
         {   
             "key": "在线直播",
             "name": "在线直播(爬虫)",
@@ -342,7 +409,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/bili.json"
         },
         {
             "key": "知识",
@@ -352,7 +419,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/xx1.json"
         },
         {
             "key": "儿童",
@@ -362,7 +429,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/xx2.json"
         },
         {
             "key": "小学",
@@ -372,7 +439,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/xx3.json"
         },
         {
             "key": "初中",
@@ -382,7 +449,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/xx4.json"
         },
         {
             "key": "高中",
@@ -392,7 +459,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://agit.ai/dxawi/6/raw/branch/main/xx5.json"
         },
         {
             "key": "推送",
@@ -402,13 +469,13 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "81461f2e9d0b4ffb86612db403824b8a"
+            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
         }
     ],
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2R4YXdpLzAvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -675,5 +742,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
+       "spider":"https://agit.ai/dxawi/0/raw/branch/main/jar/cs.jar"
 }
