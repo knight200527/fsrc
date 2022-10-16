@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top97.jar",
+  "spider": "https://knight200527.github.io/fsrc/top97.jar",
   "lives": [
     {
       "group": "redirect",
