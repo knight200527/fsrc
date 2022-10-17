@@ -1,7 +1,7 @@
 {
 	// "spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
-
-  "spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
+ "spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
+  //"spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
   //  "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/Your.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
 	//"spider":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
 //	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
@@ -906,9 +906,27 @@
 {"key":"csp_XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk//XYQxb/斗鱼直播.json"},      
 
   
+
+
+ {"key":"csp_xBPQ_七小时影院","name":"xBPQ | 七小时影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/七小时影院.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
+   {"key":"csp_xBPQ_在线之家","name":"xBPQ | 在线之家 ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/在线之家.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},		  
+{"key":"csp_xBPQ_小小影视","name":" 🍂小小影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/xfeiji.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},   
+   {"key":"csp_xBPQ_天天影视","name":" 🍂天天影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/ttsp.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
+   {"key":"csp_xBPQ_抓饭体育","name":" 🍂抓饭体育 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XBPQ/抓饭体育.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
+
+  {
+        "key": "csp_xb_7xiady",
+        "name": "xBPQ | 秋霞影视",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "分类url:https://www.7xiady.cc/show/{cateId}--------{catePg}---,免嗅:1","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"
+        },
   {
             "key":"csp_xBPQ_ 吼吼TV",
-            "name":"xBPQ |  吼吼TV",
+            "name":"xBPQ | 吼吼TV",
             "type":3,
             "api":"csp_xBPQ",
             "searchable":1,
