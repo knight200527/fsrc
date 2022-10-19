@@ -1,9 +1,5 @@
-{
-	// "spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
- "spider":"https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0",
-  //"spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
-  //"spider":"https://agit.ai/zbweb/TVBOX/src/branch/master/jar/1008.jar;md5;FE13757D0192343BF008736A5E6DFBD2",
-  //  "spider":"https://agit.ai/suanjin/tv/raw/branch/master/TVJAR/Your.jar;md5;710d9aa3aee4f6abc0bdea1a630a4a9b", 
+{ "spider":"https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0",
+//"spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
 	//"spider":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b",
 //	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
     
@@ -177,7 +173,7 @@
 			"api": "csp_Czsapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0
+			"filterable": 0,"jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar"
 		},
 		{
 			"key": "csp_LibVio",
@@ -218,10 +214,10 @@
 		},
 	{"key":"csp_Bd","name":"Bidi（SP）","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://神器每日推送.tk/jar;md5;d10443e6765d1630624ffeca9ae3b179"},
 		{"key":"csp_appysv2_萌蛋蛋〔APP〕","name":"萌蛋蛋〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1," quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
-//	{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
-//{"key":"csp_MGTV","name":"芒        果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
-//{"key":"csp_IQIYI","name":"爱  奇  艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "hhttp://刚刚.live/jar2/gg0925.jar"},
-{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/0922.jar"},
+
+
+
+{"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/branch/master/jar/0925.jar"},
 		{"key":"csp_MGTV","name":"芒        果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 		{"key":"csp_IQIYI","name":"爱  奇  艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://刚刚.live/jar2/gg0925.jar"},
 
@@ -359,7 +355,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar" },
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar" },
 {
   "key": "csp_xb_yueq",
   "name": "💠云雀(R)",
@@ -369,7 +365,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_liao",
   "name": "💠利奥影视(R)",
@@ -379,7 +375,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_heitao",
   "name": "💠核桃影视(R)",
@@ -388,7 +384,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 
 {
 "key":"csp_xb_98ys",
@@ -399,7 +395,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -413,7 +409,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -426,7 +422,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.555yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -439,7 +435,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -452,7 +448,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -466,7 +462,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -479,7 +475,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.pbpb.tv/class/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -492,7 +488,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -505,7 +501,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -518,7 +514,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.ajeee.com/show/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -531,7 +527,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.ftcgj.com/{cateId}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -544,7 +540,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -557,7 +553,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -570,7 +566,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -583,7 +579,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -596,7 +592,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -609,7 +605,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.huamaotv.com/type/{cateId}-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -622,7 +618,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -635,7 +631,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://6d.wpwpzm.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -648,7 +644,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -661,7 +657,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -674,7 +670,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -687,7 +683,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -700,7 +696,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -713,7 +709,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -726,7 +722,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -740,7 +736,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -754,7 +750,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -767,7 +763,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -781,7 +777,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -795,7 +791,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -809,7 +805,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -823,7 +819,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 }
 
 ,
@@ -837,7 +833,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"
 },
 {
 "key": "dr_酷云777", "name": "💠酷云77(道长)", "type": 1, "api": "http://43.139.29.179:5705/vod?rule=酷云77", "searchable": 2, "quickSearch": 0, "filterable": 1
@@ -853,7 +849,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 
 {
   "key": "csp_xb_23ys",
@@ -864,7 +860,7 @@
   "quickSearch": 1,
   "filterable": 0,
 "ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 {
   "key": "csp_xb_kyk",
   "name": "💠看一看(R)",
@@ -874,7 +870,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html",
-"jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"},
+"jar": "https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/jar/XBiu.jar"},
 
      {
   "key": "csp_xb_543ys",
@@ -903,6 +899,36 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk//XYQxb/斗鱼直播.json"},      
 
+{
+"key": "csp_xBPQ_野荷塘",
+"name": "xBPQ | 野荷塘影视",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+	"ext": "{
+\"免嗅\":\"0\",
+
+\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",
+
+\"副标题\": \"vod_remarks*>&&<\",
+
+\"播放数组\": \"mdui-panel-item-body&&</div\",
+\"线路数组\": \"mdui-panel-item-title&&/div\",
+
+
+\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",
+
+\"分类url\":\"https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",
+
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}",
+"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
+
+
+
   
 { 
  "key": "csp_xBPQ_快看影视", 
@@ -918,13 +944,18 @@
 \"分类url\":\"http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html\", 
 \"免嗅\": \"0\", 
 \"副标题\":\"class=\\\"score\\\">&&</span>\", 
-\"播放数组\":\"class=\\\"playlist&&</ul>\"}"},
+\"播放数组\":\"class=\\\"playlist&&</ul>\"}",
+"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
 
- {"key":"csp_xBPQ_七小时影院","name":"xBPQ | 七小时影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/七小时影院.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
-   {"key":"csp_xBPQ_在线之家","name":"xBPQ | 在线之家 ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/在线之家.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},		  
-{"key":"csp_xBPQ_小小影视","name":" xBPQ | 小小影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/xfeiji.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},   
-   {"key":"csp_xBPQ_天天影视","name":" xBPQ | 天天影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/ttsp.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
-   {"key":"csp_xBPQ_抓饭体育","name":"xBPQ | 抓饭体育 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/抓饭体育.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
+{"key":"nkdyw","name":"xBPQ | 南柯电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nkdywPQ.json"
+},
+
+ {"key":"csp_xBPQ_七小时影院","name":"xBPQ | 七小时影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/七小时影院.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
+   {"key":"csp_xBPQ_在线之家","name":"xBPQ | 在线之家 ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/在线之家.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},		  
+{"key":"csp_xBPQ_小小影视","name":" xBPQ | 小小影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/xfeiji.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},   
+   {"key":"csp_xBPQ_天天影视","name":" xBPQ | 天天影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/ttsp.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
+   {"key":"csp_xBPQ_抓饭体育","name":"xBPQ | 抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/抓饭体育.json","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
 
   {
         "key": "csp_xb_7xiady",
@@ -934,7 +965,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "分类url:https://www.7xiady.cc/show/{cateId}--------{catePg}---,免嗅:1","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"
+        "ext": "分类url:https://www.7xiady.cc/show/{cateId}--------{catePg}---,免嗅:1","jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"
         },
   {
             "key":"csp_xBPQ_ 吼吼TV",
@@ -994,7 +1025,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/changzzy.json"
+            "ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/changzzy.json","jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar"
         },
         {
             "key":"csp_xBPQ_极品影视",
