@@ -2,7 +2,6 @@
 //Q裙：711368232
 //搜索加群第一时间了解最新消息：https://jq.qq.com/?_wv=1027&k=Ml8bJRFQ
 
-
 {
     "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;BE90FDC7290AE1A22EBEDE807AD9E959",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -42,7 +41,7 @@
 {"key":"csp_Yj1211","name":"📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name":"🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Alist","name":"🅰Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#🦀9T(Adult)$https://drive.9t.ee#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"},
-{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_A33","name":"🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 {"key": "csp_xpath_qiumi","name":"🏀球赛直播(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
@@ -74,6 +73,16 @@
 {"key":"樱花资源","name":"🐝樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快播资源","name":"🐝快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/88%E7%9C%8B%E7%90%83.js"},
+{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
+{"key": "dr_JJRS看比赛","name": "JRS看比赛(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E7%9C%8B%E6%AF%94%E8%B5%9B.js"},
+{"key": "dr_JRS看球网","name": "JRS看球网(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E7%9C%8B%E7%90%83%E7%BD%91.js"},
+{"key": "dr_抓饭体育","name": "抓饭体育(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/%E6%8A%93%E9%A5%AD%E4%BD%93%E8%82%B2.js"},
+{"key": "dr_JRS录像","name": "JRS录像(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E5%BD%95%E5%83%8F.js"},
+{"key": "dr_比赛录像","name": "比赛录像(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/%E6%AF%94%E8%B5%9B%E5%BD%95%E5%83%8F.js"},
+{"key": "dr_JRS看直播","name": "JRS看直播(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E7%9C%8B%E7%9B%B4%E6%92%AD.js"},
+{"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js"},
 
 {"key":"csp_xBPQ_极品","name":"🍀极品（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html\",\"年份\":\"2000-2022\",\"筛选\":\"1\"}"},	
 {"key":"csp_xBPQ_um","name":"🍀UM影（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"},
@@ -199,24 +208,16 @@
 		"type": 3,
 		"url": "Demo"
 	}, {
-		"name": "刘兵",
-		"type": 1,
-		"url": "http://newjiexi.gotka.top/keyu3.php?url="
-	}, {
-		"name": "云you",
-		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
-	}, {
-		"name": "未知",
-		"type": 1,
-		"url": "http://api.ckflv.cn/?url="
-	}, {
 		"name": "可与",
 		"type": 1,
 		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
+	}, {
+		"name": "云you",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
 	}, {
 		"name": "融兴",
 		"type": 1,
@@ -232,7 +233,7 @@
 			"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]
 		}  
 	}, {
-		"name": "未知2",
+		"name": "未知",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
