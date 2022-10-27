@@ -99,6 +99,15 @@
 			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		},	
 
+{
+     "key": "T4a",
+     "name": "T4聚合",
+     "type": 4,
+     "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+     },{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
 	//	{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   //{"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -140,7 +149,7 @@
         },
             
  //{"key" : "csp_AppTT","name" : "图     图（SP）","type" : 3,"api" : "csp_AppTT","searchable" : 1,"quickSearch" : 1,"filterable" : 1 ,"jar": "https://pan.szfx.top/down.php/3cb691124b8eb36f20ec7a42bf6af292.jar"},
-  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/TT.jar"},
 //{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/图图.jar"},
 
 
