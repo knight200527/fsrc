@@ -864,6 +864,17 @@
 \"主演\": \"主演：&&</p\",
 \"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\", \"年份\":\"1990-2022\",
 \"筛选\":\"1\"}"},
+ {
+            "key":"csp_xBPQ_ 动漫岛",
+            "name":"xBPQ | 动漫岛",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/动漫岛.json"
+        },
+
 
 {
 "key": "csp_xBPQ_野荷塘",
@@ -2921,16 +2932,11 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		}, 
-		 {
-			"key": "AliPS",
-			"name": "盘  搜(仅搜索)",
-			"type": 3,
-			"api": "csp_AliPS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-		},
+		 
+         {"key":"AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://刚刚.live/json/alitoken.json","jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/tang.jar"},
+         
+         
+         
 		{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
 		//{"key":"Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
 	{
