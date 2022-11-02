@@ -1,23 +1,19 @@
-{  "spider":"https://share.nite07.com/api/v3/file/source/27762/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
+{  //"spider":"https://share.nite07.com/api/v3/file/source/27762/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
    //  "spider":"https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0",
-//"spider":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1008-2.jar",
-//	"spider": "http://刚刚.live/jar2/gg0925.jar", 	
+"spider":"https://cp1.awardspace.net/file-manager/downloadFile?filePath=%2F1028.jar&fileName=1028.jar&archiveType=",
+//	"spider": "http://刚刚.live/jar2/gg0925.jar", 
+//	"spider": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1028.jar", 	
+
     
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
-	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],
-	//"lives": [{"group": "redirect","channels": [{"name": "live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcGxheWdheW1lL2JveFJlcG9zaXRvcnkvcmF3L2JyYW5jaC9tYWluL1RWQm94L3p5L3R2L3piLnR4dA=="]}]}],（备份直播源）
-	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vTWlrZTkwNi96eWsvcmF3L2JyYW5jaC9tYWluL2xpdmVzL3oxLnR4dA=="]}]}],
 	
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xMjg0ODU1NjQ2L3l5ZHN5cy8tL3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}] }],(ziyong直播）
 
 	//	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC96enpsbGxtbW0xL3p5eC8tL3Jhdy9tYXN0ZXIvbGl2ZXMvbGl2ZS50eHQ="]}] }],
 	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3p6emxsbG1tbTEvYi9yYXcvYnJhbmNoL21hc3Rlci9saXZlLnR4dA=="]}] }],
-	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}] }],
-
-	
-    
+	//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}] }],
+    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96enpsbGxtbW0ubmVvY2l0aWVzLm9yZy9saXZlLnR4dA=="]}] }],
     
     "sites": [	    
 	    {"key":"csp_SP360","name":"360影视〔官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -864,6 +860,16 @@
 \"主演\": \"主演：&&</p\",
 \"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\", \"年份\":\"1990-2022\",
 \"筛选\":\"1\"}"},
+ 
+ {"key":"FosiPQ","name":"xBPQ | Fosit影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/FosiPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
+},
+
+{"key":"xinyaoPQ","name":"xBPQ | 新尧影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xinyaoPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
+},
  {
             "key":"csp_xBPQ_ 动漫岛",
             "name":"xBPQ | 动漫岛",
@@ -2322,6 +2328,21 @@
 
 
   //js J版
+       {
+            "key" : "drpy_js_南瓜影院",
+            "name" : "南瓜影院[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://agit.ai/171448637/77/raw/branch/master/南瓜影院.js"
+        },
+     {
+            "key" : "drpy_js_看看电影",
+            "name" : "看看电影[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
+        },
+
 {"key": "dr_四个圈影视","name": "四个圈影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/四个圈影视.js"},
 {"key": "dr_冲TMTV[飞]","name": "冲TMTV[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/冲TMTV[飞].js"},
 {"key": "dr_独播库[飞]","name": "独播库[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/独播库[飞].js"},
@@ -2395,7 +2416,6 @@
 	{"key": "drpy_js_映迷影院","name": " 映迷影院[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/映迷影院.js"},
 	{"key": "drpy_js_蛋蛋魔法","name": " 蛋蛋魔法[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/蛋蛋魔法.js"},
 	{"key": "drpy_js_捷华影视","name": " 捷华影视[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/捷华影视.js"},
-	{"key": "drpy_js_JustLive","name": " JustLive[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "hhttps://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/JustLive.js"},
 	{"key": "drpy_js_Voflix","name": " Voflix[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/Voflix.js"},
         {"key": "drpy_js_厂长资源","name": " 厂长资源[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/厂长资源.js"},
         {"key": "drpy_js_来看点播","name": " 来看点播[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/来看点播.js"},
@@ -2890,6 +2910,34 @@
             "type" : 3,
             "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
             "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/AGE动漫.js"
+        },
+            {
+            "key" : "drpy_js_omofun动漫",
+            "name" : "omofun动漫[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/omofun动漫.js"
+        },
+            {
+            "key" : "drpy_js_异世界动漫",
+            "name" : "异世界动漫[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"
+        },
+            {
+            "key" : "drpy_js_爱车MV",
+            "name" : "爱车MV[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱车MV.js"
+        },
+          {
+            "key" : "drpy_js_AnFuns",
+            "name" : "AnFuns[DRPY]",
+            "type" : 3,
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
         },
 
         //道长
