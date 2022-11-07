@@ -1,9 +1,9 @@
-{  //"spider":"https://share.nite07.com/api/v3/file/source/27762/1028.jar?sign=K7Kd9pBTGxEOYWhnmbDLxU9Q1_N5ajn9JMY-q8_8UtY%3D%3A0",
+{  //"spider":"https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0",
    //  "spider":"https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0",
-"spider":"https://gitee.com/zzzlllmmm1/tv/blob/master/1028.jar",
+"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/1028.jar",
 //	"spider": "http://刚刚.live/jar2/gg0925.jar", 
 //	"spider": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/1028.jar", 	
-
+//	"spider": "https://神器每日推送.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc", 
     
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
@@ -17,7 +17,7 @@
     
     "sites": [	    
 	    {"key":"csp_SP360","name":"360影视〔官解〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_BBB1","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"},
+		{"key":"csp_BBB1","name":"哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
 		{"key":"T4_douban","name":"豆瓣推荐〔搜索〕","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},	
 		//{"key":"csp_Kunyu77","name":"酷云七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {
@@ -28,59 +28,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1},
-            {
-    "key": "Hei",
-    "name": "石榴影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
-  },
-  {
-    "key": "Pang",
-    "name": "胖虎影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
-  },
 
-    {
-    "key": "Smdyy",
-    "name": "神马影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "16705ee9f4764be8499806f52d4bf1e7","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
-  },
-  {
-    "key": "Auete",
-    "name": "奥特影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
- 
-  },
-  {
-    "key": "Cokemv",
-    "name": "可乐影视（SP）",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "b88de1329655cca1beba45aa9776de70","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
- 
-  },
 
 //	{"key": "csp_Wmkk","name": "完美看看（SP）","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 //{"key": "csp_xpath_wanmeikk","name":" 完美看看（XP）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/895322156/Q/raw/branch/master/XB/WMKK.json"},
@@ -136,19 +84,99 @@
 			"filterable": 1,
 			"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
 		},	
+            {"key":"csp_Lgyy","name":"蓝光影视（SP）","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_fant","name":"饭团影视（SP）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
+            {"key":"csp_Xxys","name":"小熊影视（SP）","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+            {"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
+{"key":"csp_Tkys","name": "天空影视（SP）","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"csp_Nkdy","name":"南柯影视（SP）","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29486/%E7%A5%9E%E5%99%A8.jar?sign=r21vxU6em1FrLozvyk1T0QQZO3ivyc3VuSKFBbk-aX8%3D%3A0"},
+{"key":"csp_Mjxq","name":"美剧星球（SP）","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "t4","name": "T4公共（搜索）","type": 4,"api": "http://155.94.146.213:8080/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=8","searchable": 1,"quickSearch": 1,"filterable": 0},
 	//	{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   //{"key":"t4_搜片","name":"搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites= all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_bendi","name":"本地文件（视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
-//{"key":"csp_bendi","name":"本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://神器每日推送.tk/jar;md5;5c69d5c0f11765373f35d2078e892d0c"},
+//{"key":"csp_bendi","name":"本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc"},
 //  {"key": "T4","name": "T4 爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key": "T4","name": "T4 搜索","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
 		
 		{"key": "csp_DiDuan","name": "低端影视（SP）","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 	
-   // {"key":"Smdyy","name":"神马影院（SP）","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1 ,"jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%ac.jar"}, 
-		
+    {"key":"Smdyy","name":"神马影院（SP）","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"}, 
+		{
+    "key": "Yanet",
+    "name": "奈飞影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "a369b1f623fe86605f1b029f0cf66349","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+   {
+    "key": "Lgyy",
+    "name": "蓝光影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "b2e573ff040fcd54b50475660ee1a7d1","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+
+
+            {
+    "key": "Hei",
+    "name": "石榴影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+  {
+    "key": "Pang",
+    "name": "胖虎影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+
+    {
+    "key": "Smdyy",
+    "name": "神马影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "16705ee9f4764be8499806f52d4bf1e7","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+  {
+    "key": "Auete",
+    "name": "奥特影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+  {
+    "key": "Cokemv",
+    "name": "可乐影视（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "b88de1329655cca1beba45aa9776de70","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  
+  },
 		{
 			"key": "csp_Bttoo",
 			"name": "两 个 BT（SP）",
@@ -167,11 +195,28 @@
             "quickSearch": 1,
             "filterable": 1
         },
-            
+    
  //{"key" : "csp_AppTT","name" : "图     图（SP）","type" : 3,"api" : "csp_AppTT","searchable" : 1,"quickSearch" : 1,"filterable" : 1 },
- // {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/TT.jar"},
-{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-
+  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"},
+//{"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+  {
+            "key": "Anfuns",
+            "name": "Anfuns（SP）",
+            "type": 3,
+            "api": "csp_Anfuns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"
+        },
+          {
+            "key": "Nkdy",
+            "name": "难看电影（SP）",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/29489/cc.jar?sign=Z0dFxoM0Fz6p3hO4HTjf48nkPW3nsgJBHqPxkaK3Nio%3D%3A0"
+        },
 
   {"key":"csp_xpath_007","name":"玲玲影视（SP）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/XB/007.json"},
 
@@ -180,23 +225,18 @@
  //"jar":"http://神器每日推送.tk/vod;md5;4557d6e0774da16484b31c2ad0a98c4b"},
 {"key": "csp_xBPQ_buka","name":"️不卡影院（SP）","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://神器每日推送.tk/xbpq/不卡.json"},
 {"key":"csp_xBPQ_极品","name":"极品影视（SP）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/极品.json"},
-	{
-			"key": "csp_Mjxq",
-			"name": "美剧星球（SP）",
-			"type": 3,
-			"api": "csp_Mjxq",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,"jar": "https://agit.ai/66666/mao/raw/branch/master/jar/0925.jar"
-		},
-		{
-			"key": "csp_CZSPP",
-			"name": "厂长资源（SP）",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0},
+	
+ {
+    "key": "Czsapp",
+    "name": "厂长资源（SP）",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "ext": "8ee655f702d0d21f3643504783babbc3","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
+  },
+		
 		{
 			"key": "csp_LibVio",
 			"name": "LibVio（SP）",
@@ -204,8 +244,7 @@
 			"api": "csp_Lib",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,"jar": "https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0r"
-		}, 
+			"filterable": 0}, 
 		{
 			"key": "csp_Cokemv",
 			"name": "Cokemv（SP）",
@@ -232,8 +271,7 @@
 			"api": "csp_EEEDY",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,"jar": "https://share.nite07.com/api/v3/file/source/26148/1008-2.jar?sign=zYv3W0-m9Kiz7b8VlALCO7bAqs0EeU3x8MijqozUmA8%3D%3A0"
-		},
+			"filterable": 1},
 		{"key":"csp_appysv2_萌蛋蛋〔APP〕","name":"萌蛋蛋〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1," quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 
 
@@ -3044,9 +3082,8 @@
     "searchable": "1",
     "quickSearch": "1",
     "filterable": "1",
-    "ext": "http://api.lengniuge.eu.org/al.txt","jar": "http://api.lengniuge.eu.org/cs.jar;md5;96f2e9d946c082363d314fb8ab84de49"
+    "ext": "http://api.lengniuge.eu.org/al.txt","jar": "https://share.nite07.com/api/v3/file/source/29492/cs.jar?sign=6DfuoK1mlCtNgTm9hVm6m2aDzYcofcvel8zKKobvrIg%3D%3A0"
   },
-         //{"key":"AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://刚刚.live/json/alitoken.json","jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/tang.jar"},
          
          
          
