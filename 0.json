@@ -2,15 +2,6 @@
 {
     "sites": [ 
         {
-            "key": "77",
-            "name": "77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Kuaikan",
             "name": "快看(爬虫)",
             "type": 3,
@@ -20,28 +11,10 @@
             "filterable": 1
         },
         {
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-         {
             "key": "Fantuan",
             "name": "饭团(爬虫)",
             "type": 3,
             "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -57,6 +30,24 @@
             "filterable": 1
         },
         {
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Voflix",
+            "name": "Voflix(爬虫)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bdys01",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -65,11 +56,11 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
+        {
+            "key": "Kunyu77",
+            "name": "鲲鱼77(爬虫)",
             "type": 3,
-            "api": "csp_Cokemv",
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -84,15 +75,6 @@
             "filterable": 1
         },
         {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
-        {
             "key": "农民",
             "name": "农民(爬虫)",
             "type": 3,
@@ -103,26 +85,17 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },
         {
-            "key": "Nianying",
-            "name": "念影(爬虫)",
-            "type":3,
-            "api":"csp_Nianying",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
-        {
-            "key": "LiteApple",
-            "name": "小苹果(爬虫)",
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
+        },
         {
             "key": "Bttoo",
-            "name": "两个变态(爬虫)",
+            "name": "Bttoo(爬虫)",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -130,28 +103,65 @@
             "filterable": 1
         },
         {
-            "key": "ZJMiao",
-            "name": "追剧喵(爬虫)",
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
             "type": 3,
-            "api": "csp_ZJMiao",
+            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
+        {
+            "key": "Lgyy",
+            "name": "蓝光影院(爬虫)",
             "type": 3,
-            "api": "csp_Ysgc",
+            "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Smdyy",
-            "name": "神马(爬虫)",
+            "key": "Juhuang",
+            "name": "剧荒(爬虫)",
             "type": 3,
-            "api": "csp_Smdyy",
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Jianying",
+            "name": "简影(爬虫)",
+            "api":"csp_JianYing",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"
+        },
+        {
+            "key": "🍎",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -173,30 +183,30 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Juhuang",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(不太好用)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        },    
         {
             "key": "Dy555",
             "name": "555(爬虫)",
             "type": 3,
             "api": "csp_Dy555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Dy1010",
+            "name": "电影1010(爬虫)",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Wmkk",
+            "name": "完美看看(爬虫)",
+            "type": 3,
+            "api": "csp_Wmkk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -210,7 +220,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "Dm84",
             "name": "动漫巴士(爬虫)",
             "type": 3,
@@ -259,7 +269,7 @@
             "key": "MGTV",
             "name": "芒(解析)",
             "type": 3,
-            "api": "csp_MGTV",
+            "api": "csp_Mgtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -331,16 +341,6 @@
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
             "key": "Yisou",
             "name": "一搜(仅搜索)",
             "type":3,
@@ -351,13 +351,23 @@
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
-            "key": "Voflix",
+            "key": "Upyunso",
+            "name": "Upyunso(仅搜索)",
+            "type":3,
+            "api":"csp_Upyunso",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+        },
+        {
+            "key": "Vof",
             "name": "Voflix(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/voflix.json"
         },
         {
@@ -434,9 +444,9 @@
             "name": "推送",
             "type":3,
             "api":"csp_PushAgent",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         }
     ],
@@ -451,7 +461,9 @@
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "可遇不可求","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
     {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-    {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+    {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+    {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
+    {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
     ],
     "flags":[
 "youku",
@@ -707,5 +719,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;7fdf839e36aa18bc1dd09d911b564e06"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;8c6eda1688c439f7634a96648c41bd57"
 }
