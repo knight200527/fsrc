@@ -121,15 +121,6 @@
             "filterable": 1
         },
         {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
-        {
             "key": "Lgyy",
             "name": "蓝光影院(爬虫)",
             "type": 3,
@@ -193,15 +184,6 @@
             "filterable": 1
         },
         {
-            "key": "Wmkk",
-            "name": "完美看看(爬虫)",
-            "type": 3,
-            "api": "csp_Wmkk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "在线之家",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -239,7 +221,7 @@
         },
         {
             "key": "IQIYI",
-            "name": "爱(解析)",
+            "name": "奇异果(解析)",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -248,7 +230,7 @@
         },
         {
             "key": "QQ",
-            "name": "腾(解析)",
+            "name": "企鹅(解析)",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -257,7 +239,7 @@
         },
         {
             "key": "MGTV",
-            "name": "芒(解析)",
+            "name": "芒果(解析)",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
@@ -342,7 +324,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "Upyunso(仅搜索)",
+            "name": "云搜(仅搜索)",
             "type":3,
             "api":"csp_Upyunso",
             "searchable":1,
@@ -719,5 +701,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;059fd8597de553521ec64555c4e5c932"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;2986a0b32e718c9f0fe5b3c97b49edd5"
 }
