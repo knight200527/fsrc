@@ -20,16 +20,6 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -43,6 +33,43 @@
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lgyy",
+            "name": "蓝光影院(爬虫)",
+            "type": 3,
+            "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -102,33 +129,6 @@
             "filterable": 1,
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },  
-        {
-            "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Juhuang",
             "name": "剧荒(爬虫)",
