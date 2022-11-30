@@ -20,6 +20,54 @@
             "filterable": 1
         },
         {
+            "key": "Voflix",
+            "name": "Voflix(爬虫)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长(爬虫)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Fantuan",
+            "name": "饭团(爬虫)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -33,16 +81,6 @@
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -70,33 +108,6 @@
             "name": "蓝光影院(爬虫)",
             "type": 3,
             "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Fantuan",
-            "name": "饭团(爬虫)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
-            "type": 3,
-            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -165,15 +176,6 @@
             "quickSearch": 1,
             "filterable": 1
         },    
-        {
-            "key": "Dy555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Dy1010",
             "name": "电影1010(爬虫)",
@@ -290,7 +292,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "zhaozy",
@@ -300,7 +302,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "AliPS",
@@ -310,7 +312,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Yisou",
@@ -320,7 +322,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Upyunso",
@@ -330,27 +332,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
-        },
-        {
-            "key":"csp_xBPQ_dszb",
-            "name":"电视直播",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/dszb.json"
-        },
-        {
-            "key": "Vof",
-            "name": "Voflix(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Bili",
@@ -429,7 +411,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "http://ali.饭太硬.ml/tok"
         }
     ],
        "lives":[
@@ -701,5 +683,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;2986a0b32e718c9f0fe5b3c97b49edd5"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;71f2d2a6ccf8e6eb59fc828146a4a665"
 }
