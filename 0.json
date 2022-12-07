@@ -20,6 +20,16 @@
             "filterable": 1
         },
         {
+            "key": "Voflix",
+            "name": "Voflix(爬虫)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_AppTT",
             "name": "图图(爬虫)",
             "type": 3,
@@ -28,7 +38,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+            "ext": "http://121.205.88.126:7788"
         },
         {
             "key": "csp_Czsapp",
@@ -77,6 +87,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Xinsj",
+            "name": "新视觉(爬虫)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "playerType":2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
@@ -90,6 +110,7 @@
             "name": "Cokemv(爬虫)",
             "type": 3,
             "api": "csp_Cokemv",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -102,17 +123,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Jianying",
-            "name": "简影(爬虫)",
-            "api": "csp_JianYing",
-            "type": 3,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"
         },
         {
             "key": "Voflix",
@@ -694,5 +704,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;168b9d9a04626b660674fb0d97e2a80d"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"
 }

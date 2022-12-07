@@ -1,6 +1,6 @@
-{ // "spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/%E4%B9%9D%E9%98%B4.jar;md5; e80798750eca57470f29d1942bce39bb",
-//"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1.jar;md5; 066fdf150e2a61ab263626883cc06be4",
- "spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1130.jar;md5; 0dc58d891df4d82e473813f426453f42",
+{ // "spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/qf1204.jar;md5; 411f28c993c73da3bbc40133e8092b3c",
+"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/qf1205.jar;md5; 57c5d7c4239d1a39a094a5edc49aaf81",
+ //"spider":"https://gitee.com/zzzlllmmm1/a1/raw/master/fm1130.jar;md5; 0dc58d891df4d82e473813f426453f42",
 	"wallpaper":"http://壁纸.神器每日推送.tk",
 	//"wallpaper": "http://刚刚.live/图",
 	
@@ -9,17 +9,29 @@
     "sites": [	   
     {"key":"douban","name":"豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
+ 
+	{
+	    "key":"Alist",
+	    "name":"Alist┃可搜索",
+	    "type":3,
+	    "api":"http://101.34.67.237/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://101.34.67.237/txt/json/alist.json"
+	},
   {"key":"YQK_spider","name":"一起看TV（世界杯）","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-	   	{
-			"key": "Lezhu_spider",
-			"name": "乐猪影视（SP）",
-			"api": "csp_Lezhu",
+   {
+			"key": "小苹果",
+			"name": "小  苹  果（SP）",
 			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
+			"api": "csp_LiteApple",
 			"searchable": 1,
-			"ext": ""
+			"quickSearch": 1,
+			"filterable": 1
 		},
+  	{"key":"csp_Nmys","name":"农民影视（SP）","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json"},
+	  
          {
             "key": "csp_Kunyu77",
             "name": "酷云七七（SP）",
@@ -35,13 +47,8 @@
 //{"key":"csp_Biliych1","name":"哔哩合集（B站）","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ga/x/json/biliych.json"},
 {"key":"csp_Bili","name":"哔哩套餐（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json"},
 
-   {
-            "key" : "drpy_js_Alist",
-            "name" : "Alist（支持搜索）",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json"
-        },
+ 
+  
 
 {"key":"csp_GitCafe","name":"小 纸 条1（云盘）","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我是.肥猫.love:63/token.php"},
             	{"key": "Gitcafe1","name": "️小 纸 条2（云盘）","type": 3,
@@ -56,14 +63,12 @@
 {"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"Upyunso","name":"云     搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"Alips","name":"盘搜索(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
- //{"key":"csp_Jianying1","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"},
- {"key":"csp_Jianying","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
-{"key":"csp_293","name":"293视频（SP）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1, "jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/293.jar;md5;0dc58d891df4d82e473813f426453f42"},
-//{"key":"csp_hbys",		"name":"简影影视（SP）",		"type":3,"api":"csp_JianYing","filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjkwNTA3NTEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.u4u99j0k5dJE5Dad_8MO53jkta13Me4D16Qfv0lkeAc"},
-//{"key":"csp_Jianying","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
+{"key":"csp_Jianying1","name":"简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozOTUxMCwiQ3JlYXRlZEF0IjoiMjAyMi0xMi0wMVQxMTozMjozNi4yMzcrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEyLTAxVDExOjMyOjM2LjIzNyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjQxNzY0OTA4QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjFlODRhOTYyLWExNjItNGE4NC1iOGQ3LWI0MDI4MTdjM2QzZCIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjcwNjc2MzEwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.C9fJHBEs5ZFnd6bWM6Qd7NHcY8EAquQL-gfMSQBt8u0"},
+
  { "key": "AppTT","name": "图图影视（SP）","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
-  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
- {"key":"新视觉","name":"新  视  觉（SP）","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Xsj.jar;md5;1C572CFC27EB4E334E12A22BFC60B64B"},
+//  {"key":"csp_AppTT","name":"图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
+  {"key":"csp_ZJMiao","name":"新  视  觉（SP）","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+// {"key":"新视觉","name":"新  视  觉（SP）","type":3,"api":"csp_Dy6080","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"厂长资源（SP）","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},	
 	{"key":"dm77_spider", "name":"齐齐动漫（SP）", "type":3,"api":"csp_DM77", "filterable":1,"quickSearch":1,"searchable": 1},
 	{"key":"棉花影视","name":"棉花影视（SP）","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
@@ -75,20 +80,22 @@
 {"key":"csp_fant","name":"饭团影视（SP）","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
             {"key":"csp_Xxys","name":"小熊影视（SP）","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
             {"key":"csp_Dy1010","name":"双十电影（SP）","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"csp_Nmys","name":"农民影视（SP）","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json"},
+
+	 	{
+			"key": "Lezhu_spider",
+			"name": "乐猪影视（SP）",
+			"api": "csp_Lezhu",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": ""
+		},
         {"key":"csp_Zjdr","name":"追剧影视（SP）","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Bd","name":"Bidi影 视（SP）","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Ysgc","name":"工厂影视（SP）","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Auete","name":"奥特影视（SP）","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},     
-        {
-			"key": "小苹果",
-			"name": "小  苹  果（SP）",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+       
  {"key":"csp_zxzj","name":"在线之家（SP）","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "Kuaikan",
@@ -175,7 +182,22 @@
      {"key":"Tbook","name":"听  书  网（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
     {"key":"Bili","name":"哔哩哔哩（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
     {"key":"Cokemv","name":"可乐影院（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
-
+{ "key": "速优影视",
+      "name": "速优影视（SP）",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
+    },
+    
+    
+      { "key": "星海资源",
+      "name": "星海资源（SP）",
+      "type": 1,
+      "api": "https://www.xhzy01.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,"quickSearch": 1,"filterable": 1
+    },
+    
+   
  {"key":"csp_QQ","name":"腾        讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_MGTV","name":"芒        果（官）","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_IQIYI","name":"爱  奇  艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -531,31 +553,38 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
-      "key": "zhibo10",
-      "name": "电视直播十",
-      "type": 4,
-      "api": "http://120.53.102.254/live2?url=aHR0cHM6Ly96enpsbGxtbW0ubmVvY2l0aWVzLm9yZy85OS50eHQ=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
      
 {"key":"csp_biubiu_骚火电影","name":"骚火电影（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json"},
+
+
+
 
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"
 },
+{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/nmysPH.json"
+},
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"
 },
-
+{"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/40yPH.json"
+},
 {"key":" czsppPH","name":"厂长资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/czsppPH.json"
+},
+{"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/zjdrPH.json"
 },
 {"key":"imaxwPH","name":"imax影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/imaxwPH.json"
 },
+{"key":"白嫖联盟","name":"白嫖联盟(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/bpzlmPH.json"
+},
+
 {
   "key": "csp_xb_shdy",
   "name": "💠骚火电影(R)",
@@ -827,7 +856,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"xBPQ | 斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk//XYQxb/斗鱼直播.json"},      
 {
 			"key": "csp_555",
-			"name": "555影院┃xBPQ",
+			"name": "xBPQ | 555影院",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"searchable": 1,
@@ -1619,36 +1648,6 @@
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, "filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},	
 
 
- {
-      "key": "csp_Alist3",
-      "name": "🅿Alist(SP)",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 0,
-      "playerType": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "🦀9T(Adult)": "https://drive.9t.ee",
-        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-        "💂小兵组网盘影视": "https://6vv.app",
-        "🐋一只鱼": "https://alist.youte.ml",
-        "🌊七米蓝": "https://al.chirmyram.com",
-        "🥼帅盘": "https://hi.shuaipeng.wang",
-        "🐉神族九帝": "https://alist.shenzjd.com",
-        "☃️姬路白雪": "https://pan.jlbx.xyz",
-        "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
-        "💾DISK": "http://124.222.140.243:8080",
-        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
-        "✨星梦": "https://pan.bashroot.top",
-        "💫触光": "https://pan.ichuguang.com",
-        "🕵️好汉吧": "https://8023.haohanba.cn",
-        "💢repl": "https://ali.liucn.repl.co",
-        "🌨秋雨分享": "https://share.laowang.me",
-        "💦讯维云盘": "https://pan.xwbeta.com"
-      }
-    },
   
 {"key":"csp_biubiu_tingshuxb","name":"🎧听  书  网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json"},
 		{"key": "csp_xpath_88kanqiu","name": "⚽88 看  球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
@@ -1717,634 +1716,835 @@
 
   //js J版
 
+  
   {
-"key": "drpy_js_豆瓣", "name": "🎐豆瓣首页[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/ master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"
-},
+        "key": "js豆瓣",
+            "name":"🎐豆瓣首页[DRPY]",
+            "type":3,
+            "api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"
+    }
 
-
-        {  "key":"csp_TVBOX","name":"TVBOX课堂[DRPY]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/TVkt.js"
-},
-
-        {
-            "key" : "drpy_js_盛世电影网",
-            "name" : "盛世电影网[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/盛世电影网.js"
-        },
-       
-       {
-            "key" : "drpy_js_南瓜影院",
-            "name" : "南瓜影院[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://agit.ai/171448637/77/raw/branch/master/南瓜影院.js"
-        },
-     {
-            "key" : "drpy_js_看看电影",
-            "name" : "看看电影[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看看电影.js"
-        },
-
-{"key": "dr_四个圈影视","name": "四个圈影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/四个圈影视.js"},
-{"key": "dr_冲TMTV[飞]","name": "冲TMTV[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/冲TMTV[飞].js"},
-{"key": "dr_独播库[飞]","name": "独播库[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/独播库[飞].js"},
-{"key": "dr_豆芽影院","name": "豆芽影院(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/豆芽影院.js"},
-{"key": "dr_趣享星趣","name": "趣享星趣(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/趣享星趣.js"},
-{"key": "dr_蛋蛋赞","name": "蛋蛋赞(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/蛋蛋赞.js"},
-{"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/蜻蜓FM.js"},
-{"key": "dr_追剧达人","name": "追剧达人(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/追剧达人.js"},
-{"key": "dr_酷奇MV","name": "酷奇MV(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/酷奇MV.js"},
-{"key": "dr_量子影视","name": "量子影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/量子影视.js"},
-{"key": "dr_饭团","name": "饭团(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/饭团.js"},
-{"key": "dr_NY影院","name": "NY影院(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/NY影院.js"},
-{"key": "dr_兰花影院","name": "兰花影院(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/兰花影院.js"},
-{"key": "dr_我爱电影网","name": "我爱电影网(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/我爱电影网.js"},
-{"key": "dr_爱酷影视","name": "爱酷影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/爱酷影视.js"},
-{"key": "dr_星辰","name": "星辰(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/星辰.js"},
-{"key": "dr_小宝影院[飞]","name": "小宝影院[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/小宝影院[飞].js"},
-{"key": "dr_小白菜电影","name": "小白菜电影(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/小白菜电影.js"},
-{"key": "dr_唐人街影视","name": "唐人街影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/唐人街影视.js"},
-{"key": "dr_188看","name": "188看(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/188看.js"},
-{"key": "dr_310直播","name": "310直播(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/310直播.js"},
-{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/88看球.js"},
-{"key": "dr_8号影院","name": "8号影院(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/8号影院.js"},
-{"key": "dr_DJ音乐","name": "DJ音乐(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/DJ音乐.js"},
-{"key": "dr_Fun4K","name": "Fun4K(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/Fun4K.js"},
-{"key": "dr_HDmoli","name": "HDmoli(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/HDmoli.js"},
-{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/JRKAN直播.js"},
-{"key": "dr_JRS录像","name": "JRS录像(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/JRS录像.js"},
-{"key": "dr_JRS看球网","name": "JRS看球网(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/JRS看球网.js"},
-{"key": "dr_JRS看直播","name": "JRS看直播(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/JRS看直播.js"},
-{"key": "dr_JustLive","name": "JustLive(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/JustLive.js"},
-{"key": "dr_KUBO影视[飞]","name": "KUBO影视[飞](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/KUBO影视[飞].js"},
-{"key": "dr_TV蜂","name": "TV蜂(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/TV蜂.js"},
-{"key": "dr_gaze","name": "gaze(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/gaze.js"},
-{"key": "dr_短视频","name": "短视频(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/短视频.js"},
-{"key": "dr_秋霞","name": "秋霞(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/秋霞.js"},
-{"key": "dr_素白白","name": "素白白(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/素白白.js"},
-{"key": "dr_麦豆","name": "麦豆(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/麦豆.js"},
-{"key": "dr_麦豆com","name": "麦豆com(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/麦豆com.js"},
-{"key": "dr_子子影视","name": "子子影视(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/子子影视.js"},
-{"key": "dr_学生球赛录像[js1]","name": "学生球赛录像[js1](drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/学生球赛录像[js1].js"},
-
- {
-            "key" : "drpy_js_新视觉影视",
-            "name" : "新视觉影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/js_新视觉影视.js"},
-{"key": "dr_豆芽影院","name": "豆芽影院(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/豆芽影院.js"},
-   
-       
-         {
-            "key" : "drpy_js_尘落影视",
-            "name" : "尘落影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/尘落影视.js"
-        },
-{"key": "drpy_js_KUBO影视","name": " KUBO影视[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/KUBO影视[飞].js"},  	    
-	
-  {"key": "drpy_js_追剧啦","name": " 追剧啦[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/追剧啦.js"},  
-	{"key": "drpy_js_TV蜂","name": " TV蜂[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/TV蜂.js"},  
-	{"key": "drpy_js_if101","name": " If101[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/if101[飞].js"},    
-
-    { "key" : " drpy_js_海兔影院" , "name" : " 海兔影院[DRPY] " , "type" : 3 , "api" : " https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js " , "ext" : " https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/海兔影院.js "},   
-	{ "key" : " drpy_js_起飞影院" , "name" : " 起飞影院[DRPY] " , "type" : 3 , "api" : " https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js" , "ext" : " https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/起飞影院.js " },   
-	  
-{"key": "drpy_js_if101","name": " If101[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/if101.js"},  
- {"key": "drpy_js_HoHo影视","name": " HoHo影视[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/HoHo影视.js"},  
-	{"key": "drpy_js_多瑙影视","name": " 多瑙影视[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/多瑙影视.js"},
-	{"key": "drpy_js_映迷影院","name": " 映迷影院[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/映迷影院.js"},
-	{"key": "drpy_js_蛋蛋魔法","name": " 蛋蛋魔法[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/蛋蛋魔法.js"},
-	{"key": "drpy_js_捷华影视","name": " 捷华影视[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/捷华影视.js"},
-	{"key": "drpy_js_Voflix","name": " Voflix[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/Voflix.js"},
-        {"key": "drpy_js_厂长资源","name": " 厂长资源[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/厂长资源.js"},
-        {"key": "drpy_js_来看点播","name": " 来看点播[DRPY]","type": 3,"api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/来看点播.js"},
-
-
+    ,
     {
-      "key": "drpy_js_DDYS",
-      "name": "DDYS[DRPY]",
-      "type": 3,
-      "api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-      "ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/ddys.js"
-    },
-    {
-      "key": "drpy_js_ 小品网",
-      "name": " 小品网[DRPY]",
-      "type": 3,
-      "api": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-      "ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/小品网.js"
-    },
-    {
-      "key": "drpy_js_猫了个咪",
-      "name": "猫了个咪[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/猫了个咪.js"
-    },
-    {
-      "key": "drpy_js_喵喵",
-      "name": "喵喵[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"
-    },
+    "key": "drpy_js_百忙无果",
+        "name": "🎐豆瓣首页[DRPY]",
+        "type": 3,
+        "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+        "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"
+}
+
+,
 {
-            "key" : "drpy_js_360影视",
-            "name" : "360影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/360影视.js"
+"key": "drpy_js_奇珍异兽",
+    "name": "🎐奇异TV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"
+}
+
+,
+{
+"key": "drpy_js_优酷",
+    "name": "🎐优酷TV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"
+}
+
+,
+{
+"key": "drpy_js_腾云驾雾",
+    "name": "🎐腾讯TV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"
+}
+
+,
+
+{
+"key": "drpy_js_360影视",
+    "name": " 🎐三六影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
+}
+
+,
+{
+"key": "drpy_js_BD360",
+    "name": " 🎐三六影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/BD360.js"
+}
+
+,
+
+{
+"key": "drpy_js_云播",
+    "name": " 🎐TV云播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/tva云播.js"
+}
+
+,
+{
+"key": "drpy_js_看视界",
+    "name": " 🎐看清视界[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看视界.js"
+}
+
+,
+{
+"key": "drpy_js_追剧达人",
+    "name": " 🎐追剧达人[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧达人.js"
+}
+
+,
+
+{
+"key": "drpy_js_酷云77",
+    "name": " 🎐酷云七七[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
+}
+
+,
+{
+"key": "drpy_js_厂长资源",
+    "name": " 🎐厂长资源[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/厂长资源.js"
+}
+
+,
+{
+"key": "drpy_js_快看",
+    "name": " 🎐快看影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"
+}
+
+,
+{
+"key": "drpy_js_低端",
+    "name": " 🎐低端影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"
+}
+
+,
+{
+"key": "drpy_js_乐猪TV",
+    "name": " 🎐乐猪TV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
+}
+
+,
+
+
+{
+"key": "drpy_js_完美看看",
+    "name": " 🎐完美看看[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"
+}
+
+,
+
+{
+"key": "drpy_js_影视工厂",
+    "name": " 🎐影视工厂[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/影视工厂.js"
+}
+
+,
+{
+"key": "drpy_js_在线之家",
+    "name": " 🎐在线之家[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/在线之家.js"
+}
+
+,
+{
+"key": "drpy_js_兰花影院",
+    "name": " 🎐兰花影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兰花影院.js"
+}
+
+,
+
+{
+"key": "drpy_js_555影视",
+    "name": " 🎐三五影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
+}
+
+,
+
+{
+"key": "drpy_js_007影视",
+    "name": " 🎐零七影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"
+}
+
+,
+{
+"key": "drpy_js_cokemv",
+    "name": " 🎐可乐影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/cokemv.js"
+}
+
+,
+
+{
+"key": "drpy_js_荐片",
+    "name": " 🎐荐片影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/荐片.js"
+}
+
+,
+{
+"key": "drpy_js_真不卡",
+    "name": " 🎐真的不卡[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"
+}
+
+,
+{
+"key": "drpy_js_菜狗",
+    "name": " 🎐菜狗影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"
+}
+
+,
+{
+"key": "drpy_js_酷奇MV",
+    "name": " 🎐酷奇MV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷奇MV.js"
+}
+
+,
+{
+"key": "drpy_js_爱车MV", "name": "🎐爱车MV[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱车MV.js"
+}
+
+,
+{
+"key": "drpy_js_310直播",
+    "name": " 🎐三一直播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"
+}
+
+,
+
+{
+"key": "drpy_js_JRS录像", "name": "🎐JR录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS录像.js"
+}
+
+,
+{
+"key": "drpy_js_学生球赛录像[js1]", "name": "🎐球赛录像[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/学生球赛录像[js1].js"
+}
+
+,
+{
+"key": "drpy_js_JRKAN直播",
+    "name": " 🎐JK直播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRKAN直播.js"
+}
+
+,
+{
+"key": "drpy_js_JRS看直播",
+    "name": " 🎐JR直播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS看直播.js"
+}
+
+,
+{
+"key": "drpy_js_JRS看球网",
+    "name": " 🎐JR看球[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS看球网.js"
+}
+
+,
+{
+"key": "drpy_js_抓饭体育",
+    "name": " 🎐抓饭体育[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/抓饭体育.js"
+}
+
+,
+{
+"key": "drpy_js_子子影视", "name": "🎐子子影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"
+}
+
+,
+{
+"key": "drpy_js_HDmoli",
+    "name": " 🎐HD影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HDmoli.js"
+}
+
+,
+
+{
+"key": "drpy_js_星辰",
+    "name": " 🎐星辰影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/星辰.js"
+}
+
+,
+{
+"key": "drpy_js_来看点播",
+    "name": " 🎐来看点播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/来看点播.js"
+}
+
+,
+{
+"key": "drpy_js_四个圈影视",
+    "name": " 🎐四圈影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/四个圈影视.js"
+}
+
+,
+{
+"key": "drpy_js_斗鱼直播",
+    "name": " 🎐斗鱼直播[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/斗鱼直播.js"
+}
+
+,
+
+{
+"key": "drpy_js_JustLive",
+    "name": " 🎐只是生活[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JustLive.js"
+}
+
+,
+
+
+{
+"key": "drpy_js_蛋蛋赞",
+    "name": " 🎐蛋蛋影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蛋蛋赞.js"
+}
+
+,
+{
+"key": "drpy_js_69美剧",
+    "name": " 🎐六九美剧[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"
+}
+
+,
+{
+"key": "dr_豆芽影院",
+    "name": "🎐豆芽影院(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/豆芽影院.js"
+}
+
+,
+{
+"key": "dr_爱酷影视",
+    "name": "🎐爱酷影视(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/爱酷影视.js"
+}
+
+,
+
+{
+"key": "dr_我爱电影网",
+    "name": "🎐我爱电影(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/我爱电影网.js"
+}
+
+,
+{
+"key": "dr_饭团",
+    "name": "🎐饭团影视(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/饭团.js"
+}
+
+,
+{
+"key": "drpy_js_双十电影",
+    "name": " 🎐双十电影[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
+}
+
+,
+{
+"key": "drpy_js_TV蜂",
+    "name": " 🎐TV蜂影[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/TV蜂.js"
+}
+
+,
+{
+"key": "drpy_js_8号影院",
+    "name": " 🎐八号影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
+}
+
+,
+{
+"key": "drpy_js_爱迪影视",
+    "name": " 🎐爱迪影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱迪影视.js"
+}
+
+,
+{
+"key": "drpy_js_冲TMTV[飞]",
+    "name": " 🎐冲飞TV[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/冲TMTV[飞].js"
+}
+
+,
+{
+"key": "drpy_js_KUBO影视[飞]",
+    "name": " 🎐KU影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/KUBO影视[飞].js"
+}
+
+,
+{
+"key": "drpy_js_尘落影视",
+    "name": " 🎐尘落影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/尘落影视.js"
+}
+
+,
+{
+"key": "drpy_js_短视频",
+    "name": " 🎐短短视频[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/短视频.js"
+}
+
+,
+{
+"key": "drpy_js_麦豆",
+    "name": " 🎐麦豆影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"
+}
+
+,
+{
+"key": "drpy_js_l0l",
+    "name": " 🎐l0影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/l0l.js"
+}
+
+,
+{
+"key": "drpy_js_西红柿影视",
+    "name": " 🎐西红柿影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/西红柿影视.js"
+}
+
+,
+{
+"key": "drpy_js_干饭影视",
+    "name": " 🎐干饭影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/干饭影视.js"
+}
+
+,
+{
+"key": "drpy_js_喵喵",
+    "name": " 🎐喵喵影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"
+}
+
+,
+
+
+{
+"key": "drpy_js_RP影视",
+    "name": " 🎐RP影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/RP影视.js"
+}
+
+,
+
+{
+"key": "drpy_js_人人影视",
+    "name": " 🎐人人影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/人人影视.js"
+}
+
+,
+{
+"key": "drpy_js_万能影视",
+    "name": " 🎐万能影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/万能影视.js"
+}
+
+,
+{
+"key": "drpy_js_鸭奈飞",
+    "name": " 🎐鸭奈影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"
+}
+
+,
+{
+"key": "drpy_js_蓝光影院",
+    "name": " 🎐蓝光影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蓝光影院.js"
+}
+
+,
+{
+"key": "drpy_js_莫扎兔",
+    "name": " 🎐莫扎影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/莫扎兔.js"
+}
+
+,
+{
+"key": "drpy_js_大米星球",
+    "name": " 🎐大米星球[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大米星球.js"
+}
+
+,
+{
+"key": "drpy_js_奇优影院",
+    "name": " 🎐奇优影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇优影院.js"
+}
+
+,
+{
+"key": "drpy_js_麦豆com",
+    "name": " 🎐麦豆影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"
+}
+
+,
+{
+"key": "drpy_js_gaze",
+    "name": " 🎐凝视影院[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/gaze.js"
+}
+
+,
+
+{
+"key": "drpy_js_有声小说吧",
+    "name": " 🎐有声小说[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"
+}
+
+,
+{
+"key": "drpy_js_兔小贝",
+    "name": " 🎐小贝影视[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"
+}
+
+,
+{
+"key": "drpy_js_AGE动漫",
+    "name": " 🎐AG动漫[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"
+}
+
+,
+{
+"key": "drpy_js_异世界动漫",
+    "name": " 🎐世界动漫[DRPY]",
+    "type": 3,
+    "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"
+}
+
+,
+{
+"key": "drpy_js_LIBVIO", "name": "🎐力波影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
+}
+
+,
+{
+"key": "drpy_js_小强迷", "name": "🎐强迷影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小强迷.js"
+}
+
+,
+{
+"key": "drpy_js_追剧喵", "name": "🎐追剧喵喵[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"
+}
+
+,
+{
+"key": "drpy_js_秋霞", "name": "🎐秋霞影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
+}
+
+,
+{
+"key": "drpy_js_AnFuns", "name": "🎐安芬影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
+}
+
+,
+{
+"key": "drpy_js_Fun4K", "name": "🎐4K影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Fun4K.js"
+}
+
+,
+{
+"key": "drpy_js_布雷蓝光", "name": "🎐布雷蓝光[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+}
+
+,
+{
+"key": "drpy_js_vidhub", "name": "🎐微服影视[DRPY]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vidhub.js"
+}
+
+,
+{
+"key": "dr_大师兄影视",
+    "name": "🎐师兄影视(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/大师兄影视.js"
+}
+
+,
+{
+"key": "dr_趣享星趣",
+    "name": "🎐趣享星趣(DRPY)",
+    "type": 3,
+    "api": "http://101.34.67.237/libs/drpy.min.js",
+    "searchable": 2,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "http://101.34.67.237/admin/view/趣享星趣.js"
+}
+
+,
+  {
+            "key": "dr_量子影视",
+            "name": "量子影视(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/量子影视.js"
         },
-            {
-            "key" : "drpy_js_快看",
-            "name" : "快看[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/快看.js"
+           {
+            "key": "dr_爱车MV",
+            "name": "爱车MV(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/爱车MV.js"
         },
-            {
-            "key" : "drpy_js_低端",
-            "name" : "低端[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/ddys.js"
+          {
+            "key": "dr_小白菜电影",
+            "name": "小白菜电影(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/小白菜电影.js"
         },
-            {
-            "key" : "drpy_js_菜狗",
-            "name" : "菜狗[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/菜狗.js"
+          {
+            "key": "dr_TV蜂",
+            "name": "TV蜂(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/TV蜂.js"
         },
-            {
-            "key" : "drpy_js_豆瓣",
-            "name" : "豆瓣[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/豆瓣.js"
+        {
+            "key": "dr_tva云播",
+            "name": "tva云播(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/tva云播.js"
         },
-            {
-            "key" : "drpy_js_69美剧",
-            "name" : "69美剧[DRPY]",
+        {
+            "key" : "drpy_js_8号影院",
+            "name" : "8号影院[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/69美剧.js"
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"
         },
-            {
-            "key" : "drpy_js_小说",
-            "name" : "小说[DRPY]",
+          {
+            "key" : "drpy_js_量子影视",
+            "name" : "量子影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/有声小说吧.js"
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"
         },
-            {
-            "key" : "drpy_js_优酷",
-            "name" : "优酷[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/优酷.js"
-        },
-            {
-            "key" : "drpy_js_酷云77",
-            "name" : "酷云77[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/酷云77.js"
-        },
-            {
-            "key" : "drpy_js_真不卡",
-            "name" : "真不卡[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/真不卡.js"
-        },
-            {
-            "key" : "drpy_js_素白白",
-            "name" : "素白白[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/素白白.js"
-        },
-            {
-            "key" : "drpy_js_短视频",
-            "name" : "短视频[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/短视频.js"
-        },
-            {
-            "key" : "drpy_js_麦豆",
-            "name" : "麦豆[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/麦豆.js"
-        },
-            {
-            "key" : "drpy_js_l0l",
-            "name" : "l0l[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/l0l.js"
-        },
-            {
-            "key" : "drpy_js_LIBVIO",
-            "name" : "LIBVIO[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/LIBVIO.js"
-        },
-            {
-            "key" : "drpy_js_百忙无果",
-            "name" : "百忙无果[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/百忙无果.js"
-        },
-            {
-            "key" : "drpy_js_番茄影视",
-            "name" : "番茄影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "./js/番茄影视.js"
-        },
-            {
-            "key" : "drpy_js_干饭影视",
-            "name" : "干饭影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/干饭影视.js"
-        },
-            {
-            "key" : "drpy_js_喵喵",
-            "name" : "喵喵[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/喵喵.js"
-        },
-            {
-            "key" : "drpy_js_MXONE",
-            "name" : "MXONE[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/MXONE.js"
-        },
-            {
-            "key" : "drpy_js_Nike影视",
-            "name" : "Nike影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/Nike影视.js"
-        },
-            {
-            "key" : "drpy_js_TV云播",
-            "name" : "TV云播[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/TV云播.js"
-        },
-            {
-            "key" : "drpy_js_两个BT",
-            "name" : "两个BT[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/两个BT.js"
-        },
-            {
-            "key" : "drpy_js_乐猪TV",
-            "name" : "乐猪TV[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/乐猪TV.js"
-        },
-            {
-            "key" : "drpy_js_剧荒",
-            "name" : "剧荒[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/剧荒.js"
-        },
-            {
-            "key" : "drpy_js_剧迷",
-            "name" : "剧迷[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/剧迷.js"
-        },
-            {
-            "key" : "drpy_js_大师兄影视",
-            "name" : "大师兄影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/大师兄影视.js"
-        },
-            {
-            "key" : "drpy_js_天空影视",
-            "name" : "天空影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/天空影视.js"
-        },
-            {
-            "key" : "drpy_js_完美看看",
-            "name" : "完美看看[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/完美看看.js"
-        },
-            {
-            "key" : "drpy_js_快云影院",
-            "name" : "快云影院[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/快云影院.js"
-        },
-            {
-            "key" : "drpy_js_爱看影视",
-            "name" : "爱看影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/爱看影视.js"
-        },
-            {
-            "key" : "drpy_js_爱看电影",
-            "name" : "爱看电影[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/爱看电影.js"
-        },
-            {
-            "key" : "drpy_js_特狗影视",
-            "name" : "特狗影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/特狗影视.js"
-        },
-            {
-            "key" : "drpy_js_皮皮泡",
-            "name" : "皮皮泡[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/皮皮泡.js"
-        },
-            {
-            "key" : "drpy_js_RP影视",
-            "name" : "RP影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/RP影视.js"
-        },
-            {
-            "key" : "drpy_js_看了么",
-            "name" : "看了么[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/看了么.js"
-        },
-            {
-            "key" : "drpy_js_胖虎",
-            "name" : "胖虎[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/胖虎影视.js"
-        },
-            {
-            "key" : "drpy_js_牛马TV",
-            "name" : "牛马TV[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/牛马TV.js"
-        },
-            {
-            "key" : "drpy_js_奇珍异兽",
-            "name" : "奇珍异兽[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/奇珍异兽.js"
-        },
-            {
-            "key" : "drpy_js_人人影视",
-            "name" : "人人影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/人人影视.js"
-        },
-            {
-            "key" : "drpy_js_万能影视",
-            "name" : "万能影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/万能影视.js"
-        },
-            {
-            "key" : "drpy_js_小强迷",
-            "name" : "小强迷[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/小强迷.js"
-        },
-            {
-            "key" : "drpy_js_玄天",
-            "name" : "玄天[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/玄天.js"
-        },
-            {
+        {
             "key" : "drpy_js_鸭奈飞",
             "name" : "鸭奈飞[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/鸭奈飞.js"
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"
         },
-            {
-            "key" : "drpy_js_影视工厂",
-            "name" : "影视工厂[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/影视工厂.js"
-        },
-            {
-            "key" : "drpy_js_在线之家",
-            "name" : "在线之家[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/在线之家.js"
-        },
-            {
-            "key" : "drpy_js_瓜皮TV",
-            "name" : "瓜皮TV[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/瓜皮TV.js"
-        },
-            {
+         {
             "key" : "drpy_js_555影视",
             "name" : "555影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/555影视.js"
-        },
-            {
-            "key" : "drpy_js_蓝光影院",
-            "name" : "蓝光影院[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/蓝光影院.js"
-        },
-            {
-            "key" : "drpy_js_莫扎兔",
-            "name" : "莫扎兔[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/莫扎兔.js"
-        },
-            {
-            "key" : "drpy_js_追剧喵",
-            "name" : "追剧喵[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/追剧喵.js"
-        },
-            {
-            "key" : "drpy_js_1080P",
-            "name" : "1080P[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/1080P.js"
-        },
-            {
-            "key" : "drpy_js_007影视",
-            "name" : "007影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/007影视.js"
-        },
-            {
-            "key" : "drpy_js_cokemv",
-            "name" : "cokemv[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/cokemv.js"
-        },
-            {
-            "key" : "drpy_js_大米星球",
-            "name" : "大米星球[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/大米星球.js"
-        },
-            {
-            "key" : "drpy_js_剧白白",
-            "name" : "剧白白[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/剧白白.js"
-        },
-            {
-            "key" : "drpy_js_库马伊",
-            "name" : "库马伊[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/库马伊.js"
-        },
-            {
-            "key" : "drpy_js_看视界",
-            "name" : "看视界[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/看视界.js"
-        },
-            {
-            "key" : "drpy_js_奇优影院",
-            "name" : "奇优影院[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/奇优影院.js"
-        },
-            {
-            "key" : "drpy_js_腾云驾雾",
-            "name" : "腾云驾雾[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/腾云驾雾.js"
-        },
-            {
-            "key" : "drpy_js_凌云影视",
-            "name" : "凌云影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/凌云.js"
-        },
-            {
-            "key" : "drpy_js_麦豆com",
-            "name" : "麦豆com[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/麦豆com.js"
-        },
-           {
-      "key": "drpy_js_秋霞",
-      "name": "秋霞[DRPY]",
-      "type": 3,
-      "api": "https://agit.ai/171448637/17144/raw/branch/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"
-    },
-            {
-            "key" : "drpy_js_兔小贝",
-            "name" : "兔小贝[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/兔小贝.js"
-        },
-            {
-            "key" : "drpy_js_AnFuns",
-            "name" : "AnFuns[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/AnFuns.js"
-        },
-            {
-            "key" : "drpy_js_AGE动漫",
-            "name" : "AGE动漫[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js",
-            "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/AGE动漫.js"
-        },
-            {
-            "key" : "drpy_js_omofun动漫",
-            "name" : "omofun动漫[DRPY]",
-            "type" : 3,
             "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/omofun动漫.js"
+            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
         },
-            {
-            "key" : "drpy_js_异世界动漫",
-            "name" : "异世界动漫[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"
-        },
-            {
-            "key" : "drpy_js_爱车MV",
-            "name" : "爱车MV[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱车MV.js"
-        },
-          {
-            "key" : "drpy_js_AnFuns",
-            "name" : "AnFuns[DRPY]",
-            "type" : 3,
-            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
-        },
+        
+        
 
         //道长
   {"key": "js_drpy","name": "drpy(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=drpy","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -2869,14 +3069,6 @@
         
 
 
-
-
-    //{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Bili/Alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"},
-    {"key":"csp_QXBiubiu_555电影","name":" 🌻555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/QXBiu/555电影.json"},
-
-
-
-
  {
  "key":"csp_xpath_clss",
  "name":"磁力搜索",
@@ -2889,15 +3081,7 @@
  },
 
 	// {"key":"csp_Alist1","name":"Alist(网盘)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"},
-	{
-      "key": "AList",
-      "name": "AList2(网盘)",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar": "https://gitee.com/zzzlllmmm1/a1/raw/master/fongmi.jar"
-    },
+	
     	{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch": 0,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"}
 
         
