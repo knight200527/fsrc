@@ -88,10 +88,37 @@
             "filterable": 1
         },
         {
+            "key": "Panghu",
+            "name": "胖虎(爬虫)",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
             "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马电影院(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -207,6 +234,61 @@
             "filterable": 1
         },
         {
+            "key": "Gitcafe",
+            "name": "小纸条(爬虫)",
+            "type": 3,
+            "api": "csp_Paper",
+            "playerType":2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "zhaozy",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "playerType":1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "AliPS",
+            "name": "盘搜(仅搜索)",
+            "type":3,
+            "api":"csp_PanSou",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "Yisou",
+            "name": "一搜(仅搜索)",
+            "type":3,
+            "api":"csp_YiSo",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "Upyunso",
+            "name": "云搜(仅搜索)",
+            "type":3,
+            "api":"csp_Upyunso",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
             "key": "Dm84",
             "name": "动漫巴士(爬虫)",
             "type": 3,
@@ -229,6 +311,24 @@
             "name": "Anfuns(爬虫)",
             "type": 3,
             "api": "csp_Anfuns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ying",
+            "name": "樱动漫(爬虫)",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异世界(爬虫)",
+            "type": 3,
+            "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -295,56 +395,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Yisou",
-            "name": "一搜(仅搜索)",
-            "type":3,
-            "api":"csp_Yisou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type":3,
-            "api":"csp_Upyunso",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Bili",
@@ -419,10 +469,11 @@
             "key": "推送",
             "name": "推送",
             "type":3,
-            "api":"csp_PushAgent",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
+            "api":"csp_push",
+            "playerType":2,
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
             "ext": "http://ali.饭太硬.ml/tok"
         }
     ],
@@ -694,5 +745,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;53901346b331dcd035a1fd108a4ecac7"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
 }
