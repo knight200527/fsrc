@@ -41,6 +41,15 @@
             "ext": "http://121.205.88.126:7788"
         },
         {
+            "key": "BuLei",
+            "name": "不雷(爬虫)",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key": "csp_Czsapp",
             "name": "厂长(爬虫)",
             "type": 3,
@@ -143,15 +152,6 @@
             "filterable": 1
         },
         {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bdys01",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -184,15 +184,6 @@
             "name": "剧荒(爬虫)",
             "type": 3,
             "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🍎",
-            "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -745,5 +736,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;0d6c8210ceb52eef5d408640aa64c643"
 }
