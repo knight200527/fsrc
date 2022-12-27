@@ -124,15 +124,6 @@
             "filterable": 1
         },
         {
-            "key": "Smdyy",
-            "name": "神马电影院(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
             "type": 3,
