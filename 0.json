@@ -69,15 +69,6 @@
             "filterable": 1
         },
         {
-            "key": "Fantuan",
-            "name": "饭团(爬虫)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -178,43 +169,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        },  
-        {
-            "key": "Juhuang",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Tkys",
-            "name": "天空影视(爬虫)",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Nkdy",
-            "name": "难看电影(爬虫)",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },    
-        {
-            "key": "Dy1010",
-            "name": "电影1010(爬虫)",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        }, 
         {
             "key": "在线之家",
             "name": "在线之家(爬虫)",
@@ -284,42 +239,6 @@
             "name": "动漫巴士(爬虫)",
             "type": 3,
             "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anfuns",
-            "name": "Anfuns(爬虫)",
-            "type": 3,
-            "api": "csp_Anfuns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ying",
-            "name": "樱动漫(爬虫)",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ysj",
-            "name": "异世界(爬虫)",
-            "type": 3,
-            "api": "csp_Ysj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -448,15 +367,6 @@
             "ext": "https://dxawi.github.io/1/json/xx5.json"
         },
         {
-            "key": "Yj1211",
-            "name": "Yj1211(爬虫)",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "推送",
             "name": "推送",
             "type":3,
@@ -477,67 +387,7 @@
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"}, 
-    {
-            "name": "Bt5v",
-            "type": 1,
-            "url": "proxy://do=jx&name=bt5v&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": ""
-                }
-            }
-        },
-        {
-            "name": "PlayMv",
-            "type": 1,
-            "url": "proxy://do=jx&name=playmv&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "leshi",
-                    "LS",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": ""
-                }
-            }
-        },
     {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-    {"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
     ],
     "flags":[
@@ -794,5 +644,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;d47cbda99b05cddb6d4e8bae2e85857e"
 }
