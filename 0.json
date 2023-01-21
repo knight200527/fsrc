@@ -40,8 +40,40 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "图图",
+            "key": "AppTT",
             "name": "图图(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷(爬虫)",
+            "type": 3,
+            "api": "csp_BuLei",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Tian",
+            "name": "天天(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key": "TT",
+            "name": "TT(爬虫)",
             "type": 3,
             "api": "csp_AppTT2",
             "searchable": 1,
@@ -49,15 +81,6 @@
             "filterable": 1,
             "ext": "http://124.248.66.89:7788"
         },
-        {
-            "key": "BuLei",
-            "name": "不雷(爬虫)",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
         {
             "key": "csp_Czsapp",
             "name": "厂长(爬虫)",
@@ -179,6 +202,15 @@
             "filterable": 1
         },
         {
+            "key": "Dm84",
+            "name": "动漫巴士(爬虫)",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
             "type": 3,
@@ -190,57 +222,59 @@
             "ext": "http://ali.饭太硬.ml/tok"
         },
         {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
+            "key": "YiSo",
+            "name": "易搜┃搜索",
             "type": 3,
-            "api": "csp_Zhaozy",
-            "playerType":1,
+            "api": "csp_YiSo",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://ali.饭太硬.ml/tok"
         },
         {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_PanSou",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Yisou",
-            "name": "一搜(仅搜索)",
-            "type":3,
-            "api":"csp_YiSo",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type":3,
-            "api":"csp_Upyunso",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Dm84",
-            "name": "动漫巴士(爬虫)",
+            "key": "PanSou",
+            "name": "盘搜┃搜索",
             "type": 3,
-            "api": "csp_Dm84",
+            "api": "csp_PanSou",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "UpYun",
+            "name": "Up搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "找资源┃搜索",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "push_agent",
+            "name": "手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "playerType": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "IQIYI",
@@ -364,17 +398,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx5.json"
-        },
-        {
-            "key": "推送",
-            "name": "推送",
-            "type":3,
-            "api":"csp_push",
-            "playerType":2,
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext": "http://ali.饭太硬.ml/tok"
         }
     ],
        "lives":[
@@ -394,12 +417,12 @@
             "url": "Web"
         },
         {
-            "name": "ikunfk",
+            "name": "ikunfk1",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
         },
         {
-            "name": "操",
+            "name": "ikunfk2",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
         },
@@ -660,5 +683,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;9978a3b2f0041cec4b17dbca35327bfe"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3924b14f6262105bb2564ff2aacd31c2"
 }
