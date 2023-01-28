@@ -2,7 +2,7 @@
 //Q群：711368232
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A465DBE8F91636BD435C70B399F5C14A",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A4070EDA8DF52C146E51EAF4BC173D8E",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
@@ -20,9 +20,8 @@
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788"},
-{"key":"Tian","name":"🆗天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitee.com/babyisbreath/babyish/raw/master/jar/ts.jar"},
+{"key":"Tian","name":"🆗天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/babyisbreath/babyish/raw/master/jar/ts.jar"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,11 +53,12 @@
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_push","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
@@ -80,7 +80,6 @@
 {"key":"csp_BBB","name":"🅱️bili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/BBB.json"},
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-
 {"key":"csp_xBPQ_98影院","name":"🍀98影院（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 {"key":"csp_xBPQ_干饭","name":"🍀干饭（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 {"key":"csp_xBPQ_番茄","name":"🍀番茄（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"hl-plays-list&&</div>\",\"分类\":\"国产电视剧$13#剧电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5\",\"分类url\":\"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}"},	
@@ -89,10 +88,8 @@
 {"key":"csp_xBPQ_ 热播库","name":"🍀热播库（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/热播库.json"},
 {"key":"csp_xBPQ_ 零零七","name":"🍀零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 {"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
-{"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
-{"key":"csp_xBPQ_素白白","name":"🍀素白白（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/素白白.json"}
+{"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"}
 ],
-
 "parses": [{
 		"name": "Json聚合",
 		"type": 3,
@@ -102,21 +99,25 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "全部",
+		"name": "Q1",
 		"type": 1,
 		"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
-	}, {
-		"name": "刚刚走过",
-		"type": 1,
-		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	}, {
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
 	}, {
+		"name": "万年魂环",
+		"type": 1,
+		"url": "https://jiexi.parses.repl.co/api.php?url="
+	}, {
 		"name": "lgzy",
 		"type": 1,
 		"url": "https://www.1920lgzy.top/json.php?url="
+	}, {
+		"name": "刚刚走过",
+		"type": 1,
+		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	}, {
 		"name": "bozrc",
 		"type": 0,

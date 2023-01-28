@@ -51,37 +51,6 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key": "csp_BuLei",
-            "name": "布雷(爬虫)",
-            "type": 3,
-            "api": "csp_BuLei",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Tian",
-            "name": "天天(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "TT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
-        },
-        {
             "key": "csp_Czsapp",
             "name": "厂长(爬虫)",
             "type": 3,
@@ -118,6 +87,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "Tian",
+            "name": "天天(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key": "TT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.89:7788"
         },
         {
             "key": "LiteApple",
@@ -688,5 +678,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3924b14f6262105bb2564ff2aacd31c2"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;cf5098dbf27d5db9464c927169e5e1c8"
 }
