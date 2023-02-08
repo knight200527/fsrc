@@ -1,11 +1,11 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8329684ff36b27bdf5970adf458e8d1e",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;fb25839a41ad3ce40356acf31920373c",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
     }
   ],
   "sites": [
@@ -16,20 +16,12 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
+      "switchable": 0,
       "ext": {
         "drives": [
           {
-            "name": "9T",
-            "server": "https://drive.9t.ee"
-          },
-          {
             "name": "木偶",
             "server": "https://www.kugutsu.ml"
-          },
-          {
-            "name": "秋雨",
-            "server": "https://share.laowang.me",
-            "password": "s8;K^h[j<b"
           }
         ]
       }
@@ -618,7 +610,8 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "http://我不是.肥猫.love:63/token.php"
     }
   ]
 }
