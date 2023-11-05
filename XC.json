@@ -3,7 +3,7 @@
 //🐧裙：711368232
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;45C37DBC526A44FC0B252B3F4D5B7908",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0443870D9A930376628E29CBECC17041",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -85,6 +85,13 @@
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
+	}, {
+		"name": "qiaoji",
+		"type": 1,
+		"url": "https://www.qiaoji8.com/tvbox/json.php?url=",
+		"ext": {
+			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]
+		}   
 	}, {
 		"name": "777",
 		"type": 0,
