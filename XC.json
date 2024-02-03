@@ -10,7 +10,7 @@
 	<meta name="description" content="TVBox - All content is for learning only, please do not use it for illegal purposes." />
 	<meta name="keywords" content="go,git,self-hosted,gitea">
 	<meta name="referrer" content="no-referrer" />
-	<meta name="_csrf" content="q5HnY3pe-_sHDdZQBFgjTrdYMhM6MTcwNjY5ODY5MzA2NTUyMTcyMA" />
+	<meta name="_csrf" content="N2c0kz-HCFHd_WOvpBDQUe62RR46MTcwNjkyMzA1NTc5NTYyMzc2NQ" />
 	<meta name="_suburl" content="" />
 	
 	
@@ -22,7 +22,7 @@
 			AppSubUrl: '',
 			StaticUrlPrefix: '',
 			UseServiceWorker:  true ,
-			csrf: 'q5HnY3pe-_sHDdZQBFgjTrdYMhM6MTcwNjY5ODY5MzA2NTUyMTcyMA',
+			csrf: 'N2c0kz-HCFHd_WOvpBDQUe62RR46MTcwNjkyMzA1NTc5NTYyMzc2NQ',
 			HighlightJS: false,
 			SimpleMDE: false,
 			Tribute: false,
@@ -187,7 +187,7 @@
 			
 				<div class="repo-buttons">
 					<form method="post" action="/Yoursmile7/TVBox/action/watch?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fXC.json">
-						<input type="hidden" name="_csrf" value="q5HnY3pe-_sHDdZQBFgjTrdYMhM6MTcwNjY5ODY5MzA2NTUyMTcyMA">
+						<input type="hidden" name="_csrf" value="N2c0kz-HCFHd_WOvpBDQUe62RR46MTcwNjkyMzA1NTc5NTYyMzc2NQ">
 						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再关注此仓库" data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="iconfont mr-2xs icon-eye"></i>关注
@@ -198,7 +198,7 @@
 						</div>
 					</form>
 					<form method="post" action="/Yoursmile7/TVBox/action/star?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fXC.json">
-						<input type="hidden" name="_csrf" value="q5HnY3pe-_sHDdZQBFgjTrdYMhM6MTcwNjY5ODY5MzA2NTUyMTcyMA">
+						<input type="hidden" name="_csrf" value="N2c0kz-HCFHd_WOvpBDQUe62RR46MTcwNjkyMzA1NTc5NTYyMzc2NQ">
 						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再点赞此仓库" data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="mr-2xs iconfont icon-star"></i>点赞
@@ -306,7 +306,7 @@
 		<div class="ui two horizontal center link list">
 			
 				<div class="item">
-					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2489</b> 提交</a>
+					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2492</b> 提交</a>
 				</div>
 			
 			
@@ -314,7 +314,7 @@
 					<a class="ui" href="/Yoursmile7/TVBox/branches/"><i class="iconfont icon-branch-down"></i> <b>1</b> 分支</a>
 				</div>
 				<div class="item">
-					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">292 MB</b></span>
+					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">289 MB</b></span>
 				</div>
 			
 		</div>
@@ -395,7 +395,7 @@
 						</div>
 					</a>
 					<form ref="newBranchForm" action="/Yoursmile7/TVBox/branches/_new/branch/master" method="post">
-						<input type="hidden" name="_csrf" value="q5HnY3pe-_sHDdZQBFgjTrdYMhM6MTcwNjY5ODY5MzA2NTUyMTcyMA">
+						<input type="hidden" name="_csrf" value="N2c0kz-HCFHd_WOvpBDQUe62RR46MTcwNjkyMzA1NTc5NTYyMzc2NQ">
 						<input type="hidden" name="new_branch_name" v-model="searchTerm">
 					</form>
 				</div>
@@ -463,7 +463,7 @@
 				<div class="ui buttons">
 					<a class="ui button" href="/Yoursmile7/TVBox/raw/branch/master/XC.json">原始文件</a>
 					
-						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/96ad3a2f9695b3e0017c266319f1a92d702aa17d/XC.json">永久链接</a>
+						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/eec1d82e6d7b97a65545f270400ce2e0d31085a3/XC.json">永久链接</a>
 					
 					
 						<a class="ui button" href="/Yoursmile7/TVBox/blame/branch/master/XC.json">Blame</a>
@@ -540,7 +540,7 @@
 								<span id="L6" data-line-number="6"></span>
 							</td>
 							<td rel="L6" class="lines-code chroma">
-								<code>	<span class="nt">&#34;spider&#34;</span><span class="p">:</span> <span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;925C35B00EFE338558F5C8C57945A5C6&#34;</span><span class="p">,</span></code>
+								<code>	<span class="nt">&#34;spider&#34;</span><span class="p">:</span> <span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09489575C43684DF5ECEC8E675A9E0BA&#34;</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
