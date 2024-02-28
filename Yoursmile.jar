@@ -10,7 +10,7 @@
 	<meta name="description" content="TVBox - All content is for learning only, please do not use it for illegal purposes." />
 	<meta name="keywords" content="go,git,self-hosted,gitea">
 	<meta name="referrer" content="no-referrer" />
-	<meta name="_csrf" content="1Q8nJCil26IWiB-2DzXLAkWZbBU6MTcwODg2MzUzMzI3NDg5NTExMw" />
+	<meta name="_csrf" content="zQef9qZK5YRmTDDL5FguukPDRzc6MTcwOTExNTQ5MDQ0ODg2NzA2Mg" />
 	<meta name="_suburl" content="" />
 	
 	
@@ -22,7 +22,7 @@
 			AppSubUrl: '',
 			StaticUrlPrefix: '',
 			UseServiceWorker:  true ,
-			csrf: '1Q8nJCil26IWiB-2DzXLAkWZbBU6MTcwODg2MzUzMzI3NDg5NTExMw',
+			csrf: 'zQef9qZK5YRmTDDL5FguukPDRzc6MTcwOTExNTQ5MDQ0ODg2NzA2Mg',
 			HighlightJS: false,
 			SimpleMDE: false,
 			Tribute: false,
@@ -187,7 +187,7 @@
 			
 				<div class="repo-buttons">
 					<form method="post" action="/Yoursmile7/TVBox/action/watch?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fYoursmile.jar">
-						<input type="hidden" name="_csrf" value="1Q8nJCil26IWiB-2DzXLAkWZbBU6MTcwODg2MzUzMzI3NDg5NTExMw">
+						<input type="hidden" name="_csrf" value="zQef9qZK5YRmTDDL5FguukPDRzc6MTcwOTExNTQ5MDQ0ODg2NzA2Mg">
 						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再关注此仓库" data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="iconfont mr-2xs icon-eye"></i>关注
@@ -198,7 +198,7 @@
 						</div>
 					</form>
 					<form method="post" action="/Yoursmile7/TVBox/action/star?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fYoursmile.jar">
-						<input type="hidden" name="_csrf" value="1Q8nJCil26IWiB-2DzXLAkWZbBU6MTcwODg2MzUzMzI3NDg5NTExMw">
+						<input type="hidden" name="_csrf" value="zQef9qZK5YRmTDDL5FguukPDRzc6MTcwOTExNTQ5MDQ0ODg2NzA2Mg">
 						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再点赞此仓库" data-position="top center" data-variation="tiny">
 							<button type="submit" class="ui compact basic button" disabled>
 								<i class="mr-2xs iconfont icon-star"></i>点赞
@@ -306,7 +306,7 @@
 		<div class="ui two horizontal center link list">
 			
 				<div class="item">
-					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2530</b> 提交</a>
+					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2533</b> 提交</a>
 				</div>
 			
 			
@@ -314,7 +314,7 @@
 					<a class="ui" href="/Yoursmile7/TVBox/branches/"><i class="iconfont icon-branch-down"></i> <b>1</b> 分支</a>
 				</div>
 				<div class="item">
-					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">255 MB</b></span>
+					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">578 MB</b></span>
 				</div>
 			
 		</div>
@@ -395,7 +395,7 @@
 						</div>
 					</a>
 					<form ref="newBranchForm" action="/Yoursmile7/TVBox/branches/_new/branch/master" method="post">
-						<input type="hidden" name="_csrf" value="1Q8nJCil26IWiB-2DzXLAkWZbBU6MTcwODg2MzUzMzI3NDg5NTExMw">
+						<input type="hidden" name="_csrf" value="zQef9qZK5YRmTDDL5FguukPDRzc6MTcwOTExNTQ5MDQ0ODg2NzA2Mg">
 						<input type="hidden" name="new_branch_name" v-model="searchTerm">
 					</form>
 				</div>
@@ -459,7 +459,7 @@
 				<div class="ui buttons">
 					<a class="ui button" href="/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar">原始文件</a>
 					
-						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/2c03613ea4ea4375001e458864d44e38fd20a516/Yoursmile.jar">永久链接</a>
+						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/a4ad3cb0849ca37b4eb5362281d89e81ccedb1b3/Yoursmile.jar">永久链接</a>
 					
 					
 					<a class="ui button" href="/Yoursmile7/TVBox/commits/branch/master/Yoursmile.jar">文件历史</a>
