@@ -1,108 +1,1763 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-//🐧裙：711368232
+<!DOCTYPE html>
+<html lang="zh-CN" class="theme-">
+<head data-suburl="">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Yoursmile7/TVBox: All content is for learning only, please do not use it for illegal purposes. - XC.json at master - Agit</title>
+	<meta name="theme-color" content="#6cc644">
+	<meta name="author" content="Yoursmile7" />
+	<meta name="description" content="TVBox - All content is for learning only, please do not use it for illegal purposes." />
+	<meta name="keywords" content="go,git,self-hosted,gitea">
+	<meta name="referrer" content="no-referrer" />
+	<meta name="_csrf" content="qSU3FmNbiW8w-z_FU3-Auo1h6Zs6MTcxMjM4OTI0MDY0NjA4NzgwOQ" />
+	<meta name="_suburl" content="" />
+	
+	
+	
 
-{
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	<script>
+		window.config = {
+			AppVer: 'gitea模板还原\u002b138-g943c8c71f',
+			AppSubUrl: '',
+			StaticUrlPrefix: '',
+			UseServiceWorker:  true ,
+			csrf: 'qSU3FmNbiW8w-z_FU3-Auo1h6Zs6MTcxMjM4OTI0MDY0NjA4NzgwOQ',
+			HighlightJS: false,
+			SimpleMDE: false,
+			Tribute: false,
+			U2F: false,
+			Heatmap: false,
+			heatmapUser: null,
+			NotificationSettings: {
+				MinTimeout:  10000 ,
+				TimeoutStep:   10000 ,
+				MaxTimeout:  60000 ,
+				EventSourceUpdateTime:  10000 ,
+			},
+			PageIsProjects: false,
+      
+		};
+	</script>
+	<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="/img/favicon.png" type="image/png">
+	<link rel="mask-icon" href="/img/agit-safari.svg" color="#609926">
+	<link rel="fluid-icon" href="/img/agit-lg.png" title="Agit">
 
-	"sites":[
-{"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy77.com/"},
-{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
-{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
-{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
-{"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
-{"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
-{"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
-{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
-{"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ying","name":"🌸樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kanqiu","name":"⚽88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"PanSou","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"csp_QuarkPanso","name":"🐺夸搜","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"},
-{"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
-{"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
-{"key":"奇优","name":"️💢奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"},
-{"key":"云播","name":"💢云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
-{"key":"drpy_js_斗鱼直播","name":"🐠斗鱼直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"},
-{"key":"drpy_js_有声小说吧","name":"有声小说吧","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"},
-{"key":"drpy_js_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
-{"key":"短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://www.sharenice.net","直接播放":"1","嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive","分类":"抖音&快手&微视&火山&场库&美拍&秒拍&全民&梨&好兔&开眼&美女&搞笑&社会&音乐&娱乐&影视&正能量&生活&动漫&萌系&美食&体育&游戏&明星&旅游&时尚","分类值":"douyin&kuaishou&weishi&huoshan&changku&meipai&miaopai&quanmin&lishipin&haotu&kaiyan&t-576O5aWz&t-5pCe56yR&t-56S+5Lya&t-6Z+z5LmQ&t-5aix5LmQ&t-5b2x6KeG&t-5q2j6IO96YeP&t-55Sf5rS7&t-5Yqo5ryr&t-6JCM57O7&t-576O6aOf&t-5L2T6IKy&t-5ri45oiP&t-5piO5pif&t-5peF5ri4&t-5pe25bCa","分类url":"http://www.sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&</ul>","数组":"<li&&</li>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\""}},
-{"key":"酷奇MV","name":"🎸酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
-{"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
-{"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
-{"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-{"key":"少儿","name":"🅱️少儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/少儿教育.json"},
-{"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/小学课堂.json"},
-{"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json"},
-{"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
-],
-"parses": [{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, {
-		"name": "Json聚合",
-		"type": 3,
-		"url": "Demo"
-	}, {
-		"name": "777",
-		"type": 0,
-		"url": "https://jx.777jiexi.com/player/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-	}, {
-		"name": "jsonplayer",
-		"type": 0,
-		"url": "https://jx.jsonplayer.com/player/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-	}, {
-		"name": "xmflv",
-		"type": 0,
-		"url": "https://jx.xmflv.com/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}  
-	}, {
-		"name": "剖云",
-		"type": 0,
-		"url": "https://www.pouyun.com/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}  
-	}],
-   "lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-   "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-   "rules":[{"name":"wp","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"索尼","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"海外看","hosts":["haiwaikan"],"regex":["8.1748","10.0099","10.3333"]},{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"农民","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"kk","hosts":["kuaikan"],"regex":["5","20.123","20.167","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"]},{"name":"yqk","hosts":["yqk"],"regex":["18.4","15.1666","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]},{"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"量子","hosts":["vip.lz","v.cdnlz","hd.lz","yzzy1.play"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"暴风","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
-   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],
-   "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-   "ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+	<link rel="stylesheet" href="/css/index.css?v=220846678a86246c9d7e7c46c21f20c2">
+	<noscript>
+		<style>
+      .dropdown:hover > .menu { display: block; }
+      .ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		</style>
+	</noscript>
+	<style class="list-search-style"></style>
+
+	
+		<meta property="og:title" content="TVBox" />
+		<meta property="og:url" content="https://agit.ai/Yoursmile7/TVBox" />
+		
+			<meta property="og:description" content="All content is for learning only, please do not use it for illegal purposes." />
+		
+	
+	<meta property="og:type" content="object" />
+	
+		<meta property="og:image" content="https://agit.ai/user/avatar/Yoursmile7/-1" />
+	
+
+<meta property="og:site_name" content="Agit" />
+
+
+<link rel="stylesheet" href="/vendor/plugins/xterm/xterm.css?v=220846678a86246c9d7e7c46c21f20c2" />
+
+
+</head>
+<body>
+	
+
+	<div class="full height">
+		<noscript>使用 JavaScript能使本网站更好的工作。</noscript>
+
+		
+
+		
+			
+			<div class="ui top secondary stackable main menu following bar light" style="background: #242628; height: 52px;">
+				
+<div class="ui container z-max" id="navbar" v-cloak style="position:fixed;">
+	<div class="i-flex i-align-center i-justify-between logo-img" style="margin-right:26px;height:52px;">
+		<a href="/">
+			<img class="share-nav-logo" src="/img/logo/nav-logo.svg">
+		</a>
+		<div class="ui basic icon button mobile-only" id="navbar-expand-toggle">
+			<i class="sidebar icon"></i>
+		</div>
+	</div>
+
+	
+		<a class="item " href="/">首页</a>
+		<a class="item" href="http://help.agit.ai" id="help-header-a" target="_blank">帮助</a>
+		<a class="mobile-only item " href="/explore/repos">探索</a>
+		<div class="ui input d-relative navbar-search not-mobile" :class="{active:menuVisible}">
+			<i class="icon iconfont icon-search"></i>
+			<input v-model="searchName" placeholder="搜索" type="text" autocomplete="off"  @focus="menuVisible = true">
+			<div v-show="searchName.trim() && menuVisible" class="ui segment transition z-menu" @focus="menuVisible = true">
+				<div class="ui list" @click="handleSearch('repos')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">仓库</span>
+				</div>
+				<div class="ui list" @click="handleSearch('users')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">用户</span>
+				</div>
+				<div class="ui list" @click="handleSearch('organizations')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">组织</span>
+				</div>
+			</div>
+
+		</div>
+	
+	
+
+	
+
+
+	
+
+<div class="right stackable menu header-right">
+	
+	<div class="ui dropdown jump item poping up active visible">
+		<i class="iconfont mr-3xs font-size-2xl" :class='{"icon-lang-zh2en":lan!=="en-US","icon-lang-en2zh":lan==="en-US"}'></i>
+		<span id="footerLang" class="hidden">简体中文</span>
+		<i class="caret down icon font-size-sm"></i>
+		<div class="menu">
+			
+			<span lang="zh-CN" class="item active selected" onclick="handleLanguage(&#34;zh-CN&#34;)">简体中文</span>
+			
+			<span lang="en-US" class="item " onclick="handleLanguage(&#34;en-US&#34;)">English</span>
+			
+		</div>
+	</div>
+
+	
+	<a class="item" rel="nofollow" href="/user/login?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fXC.json">
+		<svg viewBox="0 0 16 16" class="svg octicon-sign-in" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm6.56 4.5l1.97-1.97a.75.75 0 10-1.06-1.06L6.22 7.47a.75.75 0 000 1.06l3.25 3.25a.75.75 0 101.06-1.06L8.56 8.75h5.69a.75.75 0 000-1.5H8.56z"/></svg> 登录
+	</a>
+</div>
+
+
+</div>
+
+			</div>
+		
+
+
+<div id="repoHome" class="repository file list ">
+	<div class="header-wrapper">
+
+	<div class="ui container">
+		<div class="repo-header">
+			<div class="ui huge breadcrumb repo-title">
+				
+					<div class="repo-header-icon">
+	
+		
+			<svg viewBox="0 0 16 16" class="svg octicon-repo" width="32" height="32" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+			
+		
+	
+</div>
+
+				
+				<a href="/Yoursmile7">Yoursmile7</a>
+				<div class="divider"> / </div>
+				<a href="/Yoursmile7/TVBox">TVBox</a>
+
+				<i class="iconfont icon-ai"></i>
+
+				
+					
+						
+					
+				
+				
+				
+				
+				
+			</div>
+			
+				<div class="repo-buttons">
+					<form method="post" action="/Yoursmile7/TVBox/action/watch?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fXC.json">
+						<input type="hidden" name="_csrf" value="qSU3FmNbiW8w-z_FU3-Auo1h6Zs6MTcxMjM4OTI0MDY0NjA4NzgwOQ">
+						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再关注此仓库" data-position="top center" data-variation="tiny">
+							<button type="submit" class="ui compact basic button" disabled>
+								<i class="iconfont mr-2xs icon-eye"></i>关注
+							</button>
+							<a class="ui basic label" href="/Yoursmile7/TVBox/watchers">
+								73
+							</a>
+						</div>
+					</form>
+					<form method="post" action="/Yoursmile7/TVBox/action/star?redirect_to=%2fYoursmile7%2fTVBox%2fsrc%2fbranch%2fmaster%2fXC.json">
+						<input type="hidden" name="_csrf" value="qSU3FmNbiW8w-z_FU3-Auo1h6Zs6MTcxMjM4OTI0MDY0NjA4NzgwOQ">
+						<div class="ui labeled button poping up" tabindex="0" data-content="请登录后再点赞此仓库" data-position="top center" data-variation="tiny">
+							<button type="submit" class="ui compact basic button" disabled>
+								<i class="mr-2xs iconfont icon-star"></i>点赞
+							</button>
+							<a class="ui basic label" href="/Yoursmile7/TVBox/stars">
+								44
+							</a>
+						</div>
+					</form>
+					
+						<div class="ui labeled button " tabindex="0">
+							<a class="ui compact basic button
+								poping up"
+								 data-content="登录并 派生 这个仓库。" rel="nofollow"
+									href="/user/login?redirect_to=/repo/fork/3702"
+								 data-position="top center" data-variation="tiny">
+								<i class="mr-2xs iconfont icon-fork"></i>派生
+							</a>
+							<a class="ui basic label" href="/Yoursmile7/TVBox/forks">
+								135
+							</a>
+						</div>
+					
+				</div>
+			
+		</div>
+	</div>
+
+	<div class="ui tabs container">
+		
+			<div class="ui tabular stackable menu navbar">
+				
+				<a class="active item" href="/Yoursmile7/TVBox">
+					<i class="iconfont icon-code"></i> 代码
+				</a>
+				
+
+				
+					<a class=" item" href="/Yoursmile7/TVBox/issues">
+						<i class="iconfont icon-open"></i> 讨论 <span class="ui primary tiny label circular">1</span>
+					</a>
+				
+
+				
+
+				
+					<a class=" item" href="/Yoursmile7/TVBox/pulls">
+						<i class="iconfont icon-merge-request"></i> 合并请求 <span class="ui primary tiny label circular">2</span>
+					</a>
+				
+
+				
+					<a class=" item" href="/Yoursmile7/TVBox/wiki" >
+						<i class="iconfont icon-wiki"></i> 百科
+					</a>
+				
+
+				
+					<a class=" item" href="/Yoursmile7/TVBox/activity">
+						<i class="iconfont icon-activity"></i> 动态
+					</a>
+				
+
+				
+
+
+				
+			</div>
+		
+	</div>
+	<div class="ui tabs divider"></div>
+</div>
+
+	<span class="repo-url hidden">/Yoursmile7/TVBox</span>
+	<span class="repo-id hidden">3702</span>
+	<div class="ui container">
+		
+
+
+
+		<div class="ui repo-description">
+			<div id="repo-desc">
+				
+					<span class="description">All content is for learning only, please do not use it for illegal purposes.</span>
+				
+				<a class="link" href=""></a>
+			</div>
+			
+		</div>
+		<div class="ui" id="repo-topics">
+		
+		
+		</div>
+		
+		<div class="hide" id="validate_prompt">
+			<span id="count_prompt">您最多选择25个主题</span>
+			<span id="format_prompt">主题必须以字母或数字开头，可以包含连字符 (-)，并且长度不得超过35个字符</span>
+		</div>
+		
+		
+		
+
+		<div class="ui segments repository-summary shadow-0 is-lang-stats">
+	<div class="ui segment sub-menu repository-menu">
+		<div class="ui two horizontal center link list">
+			
+				<div class="item">
+					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2573</b> 提交</a>
+				</div>
+			
+			
+				<div class="item">
+					<a class="ui" href="/Yoursmile7/TVBox/branches/"><i class="iconfont icon-branch-down"></i> <b>1</b> 分支</a>
+				</div>
+				<div class="item">
+					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">265 MB</b></span>
+				</div>
+			
+		</div>
+	</div>
+	
+	<div class="ui segment sub-menu language-stats-details" style="display: none">
+		<div class="ui horizontal center link list">
+			
+			<div class="item">
+				<span class="ui">
+				<i class="color-icon" style="background-color: #f1e05a"></i>
+				<b>
+					JavaScript
+				
+				</b> 100%</span>
+			</div>
+			
+		</div>
+	</div>
+	<a class="ui segment language-stats">
+		
+		<div class="bar" style="width: 100%; background-color: #f1e05a">&nbsp;</div>
+		
+	</a>
+	
+</div>
+
+		<div class="ui stackable secondary menu mobile--margin-between-items mobile--no-negative-margins">
+			<div class="fitted item choose reference">
+	<div class="ui floating filter dropdown custom" data-can-create-branch="false" data-no-results="未找到结果">
+		<div id="branchSelect" class="ui basic small compact button" data-mode="branches" @click="menuVisible = !menuVisible" @keyup.enter="menuVisible = !menuVisible">
+			<span class="text">
+				<i class="iconfont icon-branch-down"></i>
+				分支:
+				<strong>master</strong>
+			</span>
+			<i class="dropdown icon"></i>
+		</div>
+		<div class="data" style="display: none" data-mode="branches">
+			
+				<div class="item branch selected" data-url="/Yoursmile7/TVBox/src/branch/master/XC.json">master</div>
+			
+			
+		</div>
+		<div class="menu transition" :class="{visible: menuVisible}" v-if="menuVisible" v-cloak>
+			<div class="ui icon search input">
+				<i class="filter icon"></i>
+				<input name="search" ref="searchField" v-model="searchTerm" @keydown="keydown($event)" placeholder="过滤分支或标签...">
+			</div>
+			<div class="header branch-tag-choice">
+				<div class="ui grid">
+					<div class="two column row">
+						<a class="reference column" href="#" @click="mode = 'branches'; focusSearchField()">
+							<span class="text" :class="{black: mode !== 'branches'}">
+								<i class="iconfont icon-branch-down"></i> 分支列表
+							</span>
+						</a>
+						<a class="reference column" href="#" @click="mode = 'tags'; focusSearchField()">
+							<span class="text" :class="{black: mode !== 'tags'}">
+								<i class="reference tags icon"></i> 标签列表
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="scrolling menu" ref="scrollContainer">
+				<div v-for="(item, index) in filteredItems" :key="item.name" class="item" :class="{selected: item.selected, active: active == index}" @click="selectItem(item)" :ref="'listItem' + index">${ item.name }</div>
+				<div class="item" v-if="showCreateNewBranch" :class="{active: active == filteredItems.length}" :ref="'listItem' + filteredItems.length">
+					<a href="#" @click="createNewBranch()">
+						<div>
+							<i class="iconfont icon-branch-down"></i>
+							创建分支 <strong>${ searchTerm }</strong>
+						</div>
+						<div class="text small">
+							
+								从 &#39;master&#39;
+							
+						</div>
+					</a>
+					<form ref="newBranchForm" action="/Yoursmile7/TVBox/branches/_new/branch/master" method="post">
+						<input type="hidden" name="_csrf" value="qSU3FmNbiW8w-z_FU3-Auo1h6Zs6MTcxMjM4OTI0MDY0NjA4NzgwOQ">
+						<input type="hidden" name="new_branch_name" v-model="searchTerm">
+					</form>
+				</div>
+			</div>
+			<div class="message" v-if="showNoResults">${ noResults }</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+			
+			
+				<div class="fitted item">
+					<span class="ui breadcrumb repo-path">
+						<a class="section" href="/Yoursmile7/TVBox/src/branch/master" title="TVBox">TVBox</a>
+						
+							<span class="divider">/</span>
+							
+								<span class="active section" title="XC.json">XC.json</span>
+							
+						</span></div>
+			
+			<div class="right fitted item" id="file-buttons">
+				<div>
+					
+						
+						
+					
+
+					
+					
+				</div>
+			</div>
+
+			<div class="fitted item">
+				
+				
+			</div>
+		</div>
+		
+			<div class="tab-size-8 non-diff-file-content">
+	<h4 class="file-header ui top attached header">
+		<div class="file-header-left df ac">
+			
+				<div class="file-info text grey normal mono">
+					
+					
+						<div class="file-info-entry">
+							107 行
+						</div>
+					
+					
+						<div class="file-info-entry">
+							20 KB
+						</div>
+					
+					
+				</div>
+			
+		</div>
+		
+		<div class="file-header-right df ac">
+			<div class="ui right file-actions">
+				<div class="ui buttons">
+					<a class="ui button" href="/Yoursmile7/TVBox/raw/branch/master/XC.json">原始文件</a>
+					
+						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/b31527ba0dafac9b99b61ef3dd1cd2bd43760e28/XC.json">永久链接</a>
+					
+					
+						<a class="ui button" href="/Yoursmile7/TVBox/blame/branch/master/XC.json">Blame</a>
+					
+					<a class="ui button" href="/Yoursmile7/TVBox/commits/branch/master/XC.json">文件历史</a>
+				</div>
+				
+					
+						<span class="btn-octicon poping up disabled" data-content="您必须在派生这个仓库才能对此文件进行修改操作" data-position="bottom center" data-variation="tiny inverted"><svg viewBox="0 0 16 16" class="svg octicon-pencil" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"/></svg></span>
+					
+					
+						<span class="btn-octicon poping up disabled" data-content="您必须具有写权限才能对此文件进行修改操作。" data-position="bottom center" data-variation="tiny inverted"><svg viewBox="0 0 16 16" class="svg octicon-trashcan" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"/></svg></span>
+					
+				
+			</div>
+		</div>
+		
+	</h4>
+	<div class="ui attached table unstackable segment">
+		<div class="file-view code-view">
+			
+				
+				<table>
+					<tbody>
+						
+						<tr>
+							<td id="L1" class="lines-num">
+								<span id="L1" data-line-number="1"></span>
+							</td>
+							<td rel="L1" class="lines-code chroma">
+								<code><span class="err">/</span><span class="err">/</span><span class="err">以</span><span class="err">下</span><span class="err">全</span><span class="err">部</span><span class="err">出</span><span class="err">自</span><span class="err">网</span><span class="err">络</span><span class="err">和</span><span class="err">大</span><span class="err">佬</span><span class="err">资</span><span class="err">源</span><span class="err">，</span><span class="err">如</span><span class="err">有</span><span class="err">冒</span><span class="err">犯</span><span class="err">请</span><span class="err">联</span><span class="err">系</span><span class="err">删</span><span class="err">除</span><span class="err">。</span><span class="p">[</span><span class="err">所</span><span class="err">有</span><span class="err">内</span><span class="err">容</span><span class="err">仅</span><span class="err">供</span><span class="err">学</span><span class="err">习</span><span class="err">使</span><span class="err">用</span><span class="err">，</span><span class="err">请</span><span class="err">勿</span><span class="err">用</span><span class="err">于</span><span class="err">违</span><span class="err">法</span><span class="err">用</span><span class="err">途</span><span class="p">]</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L2" class="lines-num">
+								<span id="L2" data-line-number="2"></span>
+							</td>
+							<td rel="L2" class="lines-code chroma">
+								<code><span class="err">/</span><span class="err">/</span><span class="err">本</span><span class="err">接</span><span class="err">口</span><span class="err">无</span><span class="err">公</span><span class="err">众</span><span class="err">号</span><span class="err">、</span><span class="err">无</span><span class="err">盈</span><span class="err">利</span><span class="err">、</span><span class="err">无</span><span class="err">引</span><span class="err">流</span><span class="err">、</span><span class="err">免</span><span class="err">费</span><span class="err">分</span><span class="err">享</span><span class="err">给</span><span class="err">小</span><span class="err">白</span><span class="err">使</span><span class="err">用</span><span class="err">，</span><span class="err">请</span><span class="err">勿</span><span class="err">轻</span><span class="err">信</span><span class="err">他</span><span class="err">人</span><span class="err">，</span><span class="err">谨</span><span class="err">防</span><span class="err">上</span><span class="err">当</span><span class="err">受</span><span class="err">骗</span><span class="err">。</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L3" class="lines-num">
+								<span id="L3" data-line-number="3"></span>
+							</td>
+							<td rel="L3" class="lines-code chroma">
+								<code><span class="err">/</span><span class="err">/</span><span class="err">🐧</span><span class="err">裙</span><span class="err">：</span><span class="mi">711368232</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L4" class="lines-num">
+								<span id="L4" data-line-number="4"></span>
+							</td>
+							<td rel="L4" class="lines-code chroma">
+								<code>
+</code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L5" class="lines-num">
+								<span id="L5" data-line-number="5"></span>
+							</td>
+							<td rel="L5" class="lines-code chroma">
+								<code><span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L6" class="lines-num">
+								<span id="L6" data-line-number="6"></span>
+							</td>
+							<td rel="L6" class="lines-code chroma">
+								<code>	<span class="nt">&#34;spider&#34;</span><span class="p">:</span> <span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6B6A8129F2B7C49A67167575FF1933BE&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L7" class="lines-num">
+								<span id="L7" data-line-number="7"></span>
+							</td>
+							<td rel="L7" class="lines-code chroma">
+								<code>	<span class="nt">&#34;wallpaper&#34;</span><span class="p">:</span> <span class="s2">&#34;https://tuapi.eees.cc/api.php?category=fengjing&amp;type=302&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L8" class="lines-num">
+								<span id="L8" data-line-number="8"></span>
+							</td>
+							<td rel="L8" class="lines-code chroma">
+								<code>
+</code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L9" class="lines-num">
+								<span id="L9" data-line-number="9"></span>
+							</td>
+							<td rel="L9" class="lines-code chroma">
+								<code>	<span class="nt">&#34;sites&#34;</span><span class="p">:</span><span class="p">[</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L10" class="lines-num">
+								<span id="L10" data-line-number="10"></span>
+							</td>
+							<td rel="L10" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🔍豆瓣┃本接口免费-🈲贩卖&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L11" class="lines-num">
+								<span id="L11" data-line-number="11"></span>
+							</td>
+							<td rel="L11" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Czsapp&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🏭厂长&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Czsapp&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.czzy77.com/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L12" class="lines-num">
+								<span id="L12" data-line-number="12"></span>
+							</td>
+							<td rel="L12" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_AppTT&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;💥萌米&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_AppTT&#34;</span><span class="p">,</span><span class="nt">&#34;playerType&#34;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;AO7TcBkd8Jqf5UgA7xXA6dVlLcc=&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L13" class="lines-num">
+								<span id="L13" data-line-number="13"></span>
+							</td>
+							<td rel="L13" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NanGua&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🎃南瓜&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NanGua&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L14" class="lines-num">
+								<span id="L14" data-line-number="14"></span>
+							</td>
+							<td rel="L14" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kkys&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;💡酷看&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kkys&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L15" class="lines-num">
+								<span id="L15" data-line-number="15"></span>
+							</td>
+							<td rel="L15" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_LiteApple&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🍎小苹果&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_LiteApple&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L16" class="lines-num">
+								<span id="L16" data-line-number="16"></span>
+							</td>
+							<td rel="L16" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_YCyz&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;☀原创&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_YCyz&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L17" class="lines-num">
+								<span id="L17" data-line-number="17"></span>
+							</td>
+							<td rel="L17" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_BaiPiao&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;👻白嫖&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_BaiPiao&#34;</span><span class="p">,</span><span class="nt">&#34;playerType&#34;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.baipiaoys.com:9092/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L18" class="lines-num">
+								<span id="L18" data-line-number="18"></span>
+							</td>
+							<td rel="L18" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Jianpian&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🧲荐片&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Jianpian&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;http://api2.rinhome.com&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L19" class="lines-num">
+								<span id="L19" data-line-number="19"></span>
+							</td>
+							<td rel="L19" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DiDuan&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;📺低端&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Ddrk&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L20" class="lines-num">
+								<span id="L20" data-line-number="20"></span>
+							</td>
+							<td rel="L20" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Auete&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🐼奥特&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Auete&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://auete.pro/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L21" class="lines-num">
+								<span id="L21" data-line-number="21"></span>
+							</td>
+							<td rel="L21" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_MLYS&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🐴毛驴&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_MLYS&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.maolvys.com/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L22" class="lines-num">
+								<span id="L22" data-line-number="22"></span>
+							</td>
+							<td rel="L22" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Zxzj&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🏚️在线&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Zxzj&#34;</span><span class="p">,</span><span class="nt">&#34;timeout&#34;</span><span class="p">:</span><span class="mi">15</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.zxzja.com/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L23" class="lines-num">
+								<span id="L23" data-line-number="23"></span>
+							</td>
+							<td rel="L23" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Xinsj&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;✨新视觉&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Xinsj&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.80yy3.com/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L24" class="lines-num">
+								<span id="L24" data-line-number="24"></span>
+							</td>
+							<td rel="L24" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bttwoo&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;✌比特&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bttwoo&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L25" class="lines-num">
+								<span id="L25" data-line-number="25"></span>
+							</td>
+							<td rel="L25" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Lib&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🔷LibVio&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Libvio&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.libvio.pw/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L26" class="lines-num">
+								<span id="L26" data-line-number="26"></span>
+							</td>
+							<td rel="L26" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kuaikan&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;👀快看&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kuaikan&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L27" class="lines-num">
+								<span id="L27" data-line-number="27"></span>
+							</td>
+							<td rel="L27" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kunyu77&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;👒酷云七七&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kunyu77&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L28" class="lines-num">
+								<span id="L28" data-line-number="28"></span>
+							</td>
+							<td rel="L28" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_YQKan&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🌎一起看&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_YQKan&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L29" class="lines-num">
+								<span id="L29" data-line-number="29"></span>
+							</td>
+							<td rel="L29" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_SixV&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🧲新6V&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_SixV&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.xb6v.com/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L30" class="lines-num">
+								<span id="L30" data-line-number="30"></span>
+							</td>
+							<td rel="L30" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Anime1&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🌸动漫&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Anime1&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L31" class="lines-num">
+								<span id="L31" data-line-number="31"></span>
+							</td>
+							<td rel="L31" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Dm84&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🚌动漫巴士&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Dm84&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L32" class="lines-num">
+								<span id="L32" data-line-number="32"></span>
+							</td>
+							<td rel="L32" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;Ying&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🌸樱花动漫&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Ying&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L33" class="lines-num">
+								<span id="L33" data-line-number="33"></span>
+							</td>
+							<td rel="L33" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Ysj&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;📮异世界&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Ysj&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L34" class="lines-num">
+								<span id="L34" data-line-number="34"></span>
+							</td>
+							<td rel="L34" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Yj1211&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;📽️在线直播&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Yj1211&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L35" class="lines-num">
+								<span id="L35" data-line-number="35"></span>
+							</td>
+							<td rel="L35" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kanqiu&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;⚽88看球&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Kanqiu&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L36" class="lines-num">
+								<span id="L36" data-line-number="36"></span>
+							</td>
+							<td rel="L36" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;Aid&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🚑急救教学&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_FirstAid&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L37" class="lines-num">
+								<span id="L37" data-line-number="37"></span>
+							</td>
+							<td rel="L37" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_WoGG&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;👽玩偶哥哥&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_WoGG&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L38" class="lines-num">
+								<span id="L38" data-line-number="38"></span>
+							</td>
+							<td rel="L38" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;YiSo&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🆎易搜&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_YiSo&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L39" class="lines-num">
+								<span id="L39" data-line-number="39"></span>
+							</td>
+							<td rel="L39" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;PanSou&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;📀盘搜&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_PanSou&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L40" class="lines-num">
+								<span id="L40" data-line-number="40"></span>
+							</td>
+							<td rel="L40" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;UpYun&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;☁️UP云搜&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_UpYun&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L41" class="lines-num">
+								<span id="L41" data-line-number="41"></span>
+							</td>
+							<td rel="L41" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;PanSearch&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🙀盘搜索&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_PanSearch&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L42" class="lines-num">
+								<span id="L42" data-line-number="42"></span>
+							</td>
+							<td rel="L42" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_QuarkPanso&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🐺夸搜&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_QuarkPanso&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L43" class="lines-num">
+								<span id="L43" data-line-number="43"></span>
+							</td>
+							<td rel="L43" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;push_agent&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🍭推送&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Push&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="s2">&#34;http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L44" class="lines-num">
+								<span id="L44" data-line-number="44"></span>
+							</td>
+							<td rel="L44" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Nbys&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;👑泥巴(墙外)&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NiNi&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L45" class="lines-num">
+								<span id="L45" data-line-number="45"></span>
+							</td>
+							<td rel="L45" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_trj&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🛫唐人街(墙外)&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Tangrenjie&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L46" class="lines-num">
+								<span id="L46" data-line-number="46"></span>
+							</td>
+							<td rel="L46" class="lines-code chroma">
+								<code>
+</code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L47" class="lines-num">
+								<span id="L47" data-line-number="47"></span>
+							</td>
+							<td rel="L47" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;农民&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🥝农民&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L48" class="lines-num">
+								<span id="L48" data-line-number="48"></span>
+							</td>
+							<td rel="L48" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;骚火&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;💢骚火&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;playerType&#34;</span><span class="p">:</span><span class="s2">&#34;2&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;嗅探词&#34;</span><span class="p">:</span><span class="s2">&#34;.m3u8#.mp4#.m3u8?#freeok.mp4&#34;</span><span class="p">,</span><span class="nt">&#34;分类url&#34;</span><span class="p">:</span><span class="s2">&#34;https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0&#34;</span><span class="p">,</span><span class="nt">&#34;分类&#34;</span><span class="p">:</span><span class="s2">&#34;电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4&#34;</span><span class="p">,</span><span class="nt">&#34;数组二次截取&#34;</span><span class="p">:</span><span class="s2">&#34;class=\&#34;v_list\&#34;&gt;&amp;&amp;&lt;/ul&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;数组&#34;</span><span class="p">:</span><span class="s2">&#34;\&#34;v_img\&#34;&amp;&amp;/div&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;标题&#34;</span><span class="p">:</span><span class="s2">&#34;title=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;副标题&#34;</span><span class="p">:</span><span class="s2">&#34;v_note\&#34;&amp;&amp;&lt;/div&#34;</span><span class="p">,</span><span class="nt">&#34;跳转播放链接&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;iframe*src=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;二次跳转播放链接&#34;</span><span class="p">:</span><span class="s2">&#34;https://hhjx.hhplayer.com/api.php;post;url=+var url*\&#34;&amp;&amp;\&#34;+&amp;t=+var t*\&#34;&amp;&amp;\&#34;+&amp;key=+var key*\&#34;&amp;&amp;\&#34;+&amp;act=0+&amp;play=1&#34;</span><span class="p">,</span><span class="nt">&#34;三次跳转播放链接&#34;</span><span class="p">:</span><span class="s2">&#34;\&#34;url\&#34;*\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">}</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L49" class="lines-num">
+								<span id="L49" data-line-number="49"></span>
+							</td>
+							<td rel="L49" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;奇优&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;️💢奇优&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L50" class="lines-num">
+								<span id="L50" data-line-number="50"></span>
+							</td>
+							<td rel="L50" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;云播&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;💢云播&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;changeable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;影片类型&#34;</span><span class="p">:</span><span class="s2">&#34;分类：&amp;&amp;主演&#34;</span><span class="p">,</span><span class="nt">&#34;导演&#34;</span><span class="p">:</span><span class="s2">&#34;导演：&lt;/span&gt;&amp;&amp;&lt;/p&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;主演&#34;</span><span class="p">:</span><span class="s2">&#34;主演：&lt;/span&gt;&amp;&amp;&lt;/p&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;简介&#34;</span><span class="p">:</span><span class="s2">&#34;class=\&#34;sketch content\&#34;&gt;&amp;&amp;&lt;/span&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;数组&#34;</span><span class="p">:</span><span class="s2">&#34;myui-vodlist__thumb&amp;&amp;&lt;/a&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;标题&#34;</span><span class="p">:</span><span class="s2">&#34;title=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;副标题&#34;</span><span class="p">:</span><span class="s2">&#34;pic-tag pic-tag-top\&#34;&gt;&amp;&amp;&lt;/span&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;图片&#34;</span><span class="p">:</span><span class="s2">&#34;data-original=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;链接&#34;</span><span class="p">:</span><span class="s2">&#34;href=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;搜索模式&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">,</span><span class="nt">&#34;搜索url&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.hktvyun.com/index.php/ajax/suggest?mid=1&amp;wd={wd}&amp;limit=500&#34;</span><span class="p">,</span><span class="nt">&#34;搜索二次截取&#34;</span><span class="p">:</span><span class="s2">&#34;\&#34;list\&#34;:[&amp;&amp;]&#34;</span><span class="p">,</span><span class="nt">&#34;搜索数组&#34;</span><span class="p">:</span><span class="s2">&#34;{&amp;&amp;}&#34;</span><span class="p">,</span><span class="nt">&#34;搜索标题&#34;</span><span class="p">:</span><span class="s2">&#34;\&#34;name\&#34;:\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;搜索图片&#34;</span><span class="p">:</span><span class="s2">&#34;\&#34;pic\&#34;:\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;搜索链接&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.hktvyun.com/vod/detail/id/+\&#34;id\&#34;:&amp;&amp;,+html&#34;</span><span class="p">,</span><span class="nt">&#34;嗅探词&#34;</span><span class="p">:</span><span class="s2">&#34;.m3u8#mp4&#34;</span><span class="p">,</span><span class="nt">&#34;线路数组&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;/a&gt;&lt;h3&amp;&amp;/h3&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;线路标题&#34;</span><span class="p">:</span><span class="s2">&#34;title\&#34;&gt;&amp;&amp;&lt;&#34;</span><span class="p">,</span><span class="nt">&#34;播放数组&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;ul class=\&#34;myui-content__list scrollbar&amp;&amp;&lt;/ul&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;播放标题&#34;</span><span class="p">:</span><span class="s2">&#34;&gt;&amp;&amp;&lt;&#34;</span><span class="p">,</span><span class="nt">&#34;播放列表&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;a&amp;&amp;/a&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;分类url&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a&#34;</span><span class="p">,</span><span class="nt">&#34;分类&#34;</span><span class="p">:</span><span class="s2">&#34;电影$1#电视剧$2#综艺$3#动漫$4&#34;</span><span class="p">}</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L51" class="lines-num">
+								<span id="L51" data-line-number="51"></span>
+							</td>
+							<td rel="L51" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;drpy_js_虎牙直播&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🐯虎牙直播&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L52" class="lines-num">
+								<span id="L52" data-line-number="52"></span>
+							</td>
+							<td rel="L52" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;drpy_js_斗鱼直播&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🐠斗鱼直播&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L53" class="lines-num">
+								<span id="L53" data-line-number="53"></span>
+							</td>
+							<td rel="L53" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;drpy_js_有声小说吧&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;有声小说吧&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js&#34;</span><span class="p">,</span><span class="nt">&#34;playerType&#34;</span><span class="p">:</span><span class="s2">&#34;2&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L54" class="lines-num">
+								<span id="L54" data-line-number="54"></span>
+							</td>
+							<td rel="L54" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;drpy_js_JRKAN直播&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;JRKAN直播&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L55" class="lines-num">
+								<span id="L55" data-line-number="55"></span>
+							</td>
+							<td rel="L55" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;短视频&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;☘️短视频&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;主页url&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.sharenice.net&#34;</span><span class="p">,</span><span class="nt">&#34;直接播放&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">,</span><span class="nt">&#34;嗅探词&#34;</span><span class="p">:</span><span class="s2">&#34;.m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive&#34;</span><span class="p">,</span><span class="nt">&#34;分类&#34;</span><span class="p">:</span><span class="s2">&#34;抖音&amp;快手&amp;微视&amp;火山&amp;场库&amp;美拍&amp;秒拍&amp;全民&amp;梨&amp;好兔&amp;开眼&amp;美女&amp;搞笑&amp;社会&amp;音乐&amp;娱乐&amp;影视&amp;正能量&amp;生活&amp;动漫&amp;萌系&amp;美食&amp;体育&amp;游戏&amp;明星&amp;旅游&amp;时尚&#34;</span><span class="p">,</span><span class="nt">&#34;分类值&#34;</span><span class="p">:</span><span class="s2">&#34;douyin&amp;kuaishou&amp;weishi&amp;huoshan&amp;changku&amp;meipai&amp;miaopai&amp;quanmin&amp;lishipin&amp;haotu&amp;kaiyan&amp;t-576O5aWz&amp;t-5pCe56yR&amp;t-56S+5Lya&amp;t-6Z+z5LmQ&amp;t-5aix5LmQ&amp;t-5b2x6KeG&amp;t-5q2j6IO96YeP&amp;t-55Sf5rS7&amp;t-5Yqo5ryr&amp;t-6JCM57O7&amp;t-576O6aOf&amp;t-5L2T6IKy&amp;t-5ri45oiP&amp;t-5piO5pif&amp;t-5peF5ri4&amp;t-5pe25bCa&#34;</span><span class="p">,</span><span class="nt">&#34;分类url&#34;</span><span class="p">:</span><span class="s2">&#34;http://www.sharenice.net/{cateId}?page={catePg}&#34;</span><span class="p">,</span><span class="nt">&#34;二次截取&#34;</span><span class="p">:</span><span class="s2">&#34;class=\&#34;item-box\&#34;&gt;&amp;&amp;&lt;/ul&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;数组&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;li&amp;&amp;&lt;/li&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;图片&#34;</span><span class="p">:</span><span class="s2">&#34;data-original=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;标题&#34;</span><span class="p">:</span><span class="s2">&#34;title=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;链接&#34;</span><span class="p">:</span><span class="s2">&#34;href=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">}</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L56" class="lines-num">
+								<span id="L56" data-line-number="56"></span>
+							</td>
+							<td rel="L56" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;酷奇MV&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🎸酷奇MV&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_XBPQ&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;主页url&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.kuqimv.com&#34;</span><span class="p">,</span><span class="nt">&#34;直接播放&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">,</span><span class="nt">&#34;短视频&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">,</span><span class="nt">&#34;分类&#34;</span><span class="p">:</span><span class="s2">&#34;华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10&#34;</span><span class="p">,</span><span class="nt">&#34;分类url&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z&#34;</span><span class="p">,</span><span class="nt">&#34;数组&#34;</span><span class="p">:</span><span class="s2">&#34;&lt;li&gt;&amp;&amp;&lt;/li&gt;&#34;</span><span class="p">,</span><span class="nt">&#34;标题&#34;</span><span class="p">:</span><span class="s2">&#34;title=\&#34;&amp;&amp;\&#34;&#34;</span><span class="p">,</span><span class="nt">&#34;副标题&#34;</span><span class="p">:</span><span class="s2">&#34;target=\&#34;play\&#34;&gt;&amp;&amp;&lt;&#34;</span><span class="p">,</span><span class="nt">&#34;搜索模式&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">,</span><span class="nt">&#34;搜索url&#34;</span><span class="p">:</span><span class="s2">&#34;https://www.kuqimv.com/search.php?key={wd}&#34;</span><span class="p">}</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L57" class="lines-num">
+								<span id="L57" data-line-number="57"></span>
+							</td>
+							<td rel="L57" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️哔哩哔哩&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L58" class="lines-num">
+								<span id="L58" data-line-number="58"></span>
+							</td>
+							<td rel="L58" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;相声小品&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️相声小品&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L59" class="lines-num">
+								<span id="L59" data-line-number="59"></span>
+							</td>
+							<td rel="L59" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;戏曲&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️戏曲&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L60" class="lines-num">
+								<span id="L60" data-line-number="60"></span>
+							</td>
+							<td rel="L60" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;少儿&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️少儿&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/少儿教育.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L61" class="lines-num">
+								<span id="L61" data-line-number="61"></span>
+							</td>
+							<td rel="L61" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;小学&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️小学&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/小学课堂.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L62" class="lines-num">
+								<span id="L62" data-line-number="62"></span>
+							</td>
+							<td rel="L62" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;初中&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️初中&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L63" class="lines-num">
+								<span id="L63" data-line-number="63"></span>
+							</td>
+							<td rel="L63" class="lines-code chroma">
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;高中&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🅱️高中&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Bili&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json&#34;</span><span class="p">}</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L64" class="lines-num">
+								<span id="L64" data-line-number="64"></span>
+							</td>
+							<td rel="L64" class="lines-code chroma">
+								<code><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L65" class="lines-num">
+								<span id="L65" data-line-number="65"></span>
+							</td>
+							<td rel="L65" class="lines-code chroma">
+								<code><span class="nt">&#34;parses&#34;</span><span class="p">:</span> <span class="p">[</span><span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L66" class="lines-num">
+								<span id="L66" data-line-number="66"></span>
+							</td>
+							<td rel="L66" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Web聚合&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L67" class="lines-num">
+								<span id="L67" data-line-number="67"></span>
+							</td>
+							<td rel="L67" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">3</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L68" class="lines-num">
+								<span id="L68" data-line-number="68"></span>
+							</td>
+							<td rel="L68" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;Web&#34;</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L69" class="lines-num">
+								<span id="L69" data-line-number="69"></span>
+							</td>
+							<td rel="L69" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">,</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L70" class="lines-num">
+								<span id="L70" data-line-number="70"></span>
+							</td>
+							<td rel="L70" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;Json聚合&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L71" class="lines-num">
+								<span id="L71" data-line-number="71"></span>
+							</td>
+							<td rel="L71" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">3</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L72" class="lines-num">
+								<span id="L72" data-line-number="72"></span>
+							</td>
+							<td rel="L72" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;Demo&#34;</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L73" class="lines-num">
+								<span id="L73" data-line-number="73"></span>
+							</td>
+							<td rel="L73" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">,</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L74" class="lines-num">
+								<span id="L74" data-line-number="74"></span>
+							</td>
+							<td rel="L74" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;777&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L75" class="lines-num">
+								<span id="L75" data-line-number="75"></span>
+							</td>
+							<td rel="L75" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L76" class="lines-num">
+								<span id="L76" data-line-number="76"></span>
+							</td>
+							<td rel="L76" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;https://jx.777jiexi.com/player/?url=&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L77" class="lines-num">
+								<span id="L77" data-line-number="77"></span>
+							</td>
+							<td rel="L77" class="lines-code chroma">
+								<code>		<span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L78" class="lines-num">
+								<span id="L78" data-line-number="78"></span>
+							</td>
+							<td rel="L78" class="lines-code chroma">
+								<code>			<span class="nt">&#34;flag&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;qq&#34;</span><span class="p">,</span> <span class="s2">&#34;腾讯&#34;</span><span class="p">,</span> <span class="s2">&#34;qiyi&#34;</span><span class="p">,</span> <span class="s2">&#34;爱奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;youku&#34;</span><span class="p">,</span> <span class="s2">&#34;优酷&#34;</span><span class="p">,</span> <span class="s2">&#34;mgtv&#34;</span><span class="p">,</span> <span class="s2">&#34;芒果&#34;</span><span class="p">,</span> <span class="s2">&#34;letv&#34;</span><span class="p">,</span> <span class="s2">&#34;乐视&#34;</span><span class="p">,</span> <span class="s2">&#34;pptv&#34;</span><span class="p">,</span> <span class="s2">&#34;PPTV&#34;</span><span class="p">,</span> <span class="s2">&#34;sohu&#34;</span><span class="p">,</span> <span class="s2">&#34;bilibili&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩哔哩&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;header&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;User-Agent&#34;</span><span class="p">:</span><span class="s2">&#34;okhttp/4.1.0&#34;</span><span class="p">}</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L79" class="lines-num">
+								<span id="L79" data-line-number="79"></span>
+							</td>
+							<td rel="L79" class="lines-code chroma">
+								<code>		<span class="p">}</span>   </code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L80" class="lines-num">
+								<span id="L80" data-line-number="80"></span>
+							</td>
+							<td rel="L80" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">,</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L81" class="lines-num">
+								<span id="L81" data-line-number="81"></span>
+							</td>
+							<td rel="L81" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;jsonplayer&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L82" class="lines-num">
+								<span id="L82" data-line-number="82"></span>
+							</td>
+							<td rel="L82" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L83" class="lines-num">
+								<span id="L83" data-line-number="83"></span>
+							</td>
+							<td rel="L83" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;https://jx.jsonplayer.com/player/?url=&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L84" class="lines-num">
+								<span id="L84" data-line-number="84"></span>
+							</td>
+							<td rel="L84" class="lines-code chroma">
+								<code>		<span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L85" class="lines-num">
+								<span id="L85" data-line-number="85"></span>
+							</td>
+							<td rel="L85" class="lines-code chroma">
+								<code>			<span class="nt">&#34;flag&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;qq&#34;</span><span class="p">,</span> <span class="s2">&#34;腾讯&#34;</span><span class="p">,</span> <span class="s2">&#34;qiyi&#34;</span><span class="p">,</span> <span class="s2">&#34;爱奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;youku&#34;</span><span class="p">,</span> <span class="s2">&#34;优酷&#34;</span><span class="p">,</span> <span class="s2">&#34;mgtv&#34;</span><span class="p">,</span> <span class="s2">&#34;芒果&#34;</span><span class="p">,</span> <span class="s2">&#34;letv&#34;</span><span class="p">,</span> <span class="s2">&#34;乐视&#34;</span><span class="p">,</span> <span class="s2">&#34;pptv&#34;</span><span class="p">,</span> <span class="s2">&#34;PPTV&#34;</span><span class="p">,</span> <span class="s2">&#34;sohu&#34;</span><span class="p">,</span> <span class="s2">&#34;bilibili&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩哔哩&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;header&#34;</span><span class="p">:</span><span class="p">{</span><span class="nt">&#34;User-Agent&#34;</span><span class="p">:</span><span class="s2">&#34;okhttp/4.1.0&#34;</span><span class="p">}</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L86" class="lines-num">
+								<span id="L86" data-line-number="86"></span>
+							</td>
+							<td rel="L86" class="lines-code chroma">
+								<code>		<span class="p">}</span>   </code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L87" class="lines-num">
+								<span id="L87" data-line-number="87"></span>
+							</td>
+							<td rel="L87" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">,</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L88" class="lines-num">
+								<span id="L88" data-line-number="88"></span>
+							</td>
+							<td rel="L88" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;xmflv&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L89" class="lines-num">
+								<span id="L89" data-line-number="89"></span>
+							</td>
+							<td rel="L89" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L90" class="lines-num">
+								<span id="L90" data-line-number="90"></span>
+							</td>
+							<td rel="L90" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;https://jx.xmflv.com/?url=&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L91" class="lines-num">
+								<span id="L91" data-line-number="91"></span>
+							</td>
+							<td rel="L91" class="lines-code chroma">
+								<code>		<span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L92" class="lines-num">
+								<span id="L92" data-line-number="92"></span>
+							</td>
+							<td rel="L92" class="lines-code chroma">
+								<code>			<span class="nt">&#34;flag&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;qq&#34;</span><span class="p">,</span> <span class="s2">&#34;腾讯&#34;</span><span class="p">,</span> <span class="s2">&#34;qiyi&#34;</span><span class="p">,</span> <span class="s2">&#34;爱奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;youku&#34;</span><span class="p">,</span> <span class="s2">&#34;优酷&#34;</span><span class="p">,</span> <span class="s2">&#34;mgtv&#34;</span><span class="p">,</span> <span class="s2">&#34;芒果&#34;</span><span class="p">,</span> <span class="s2">&#34;letv&#34;</span><span class="p">,</span> <span class="s2">&#34;乐视&#34;</span><span class="p">,</span> <span class="s2">&#34;pptv&#34;</span><span class="p">,</span> <span class="s2">&#34;PPTV&#34;</span><span class="p">,</span> <span class="s2">&#34;sohu&#34;</span><span class="p">,</span> <span class="s2">&#34;bilibili&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩哔哩&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩&#34;</span><span class="p">]</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L93" class="lines-num">
+								<span id="L93" data-line-number="93"></span>
+							</td>
+							<td rel="L93" class="lines-code chroma">
+								<code>		<span class="p">}</span>  </code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L94" class="lines-num">
+								<span id="L94" data-line-number="94"></span>
+							</td>
+							<td rel="L94" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">,</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L95" class="lines-num">
+								<span id="L95" data-line-number="95"></span>
+							</td>
+							<td rel="L95" class="lines-code chroma">
+								<code>		<span class="nt">&#34;name&#34;</span><span class="p">:</span> <span class="s2">&#34;剖云&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L96" class="lines-num">
+								<span id="L96" data-line-number="96"></span>
+							</td>
+							<td rel="L96" class="lines-code chroma">
+								<code>		<span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L97" class="lines-num">
+								<span id="L97" data-line-number="97"></span>
+							</td>
+							<td rel="L97" class="lines-code chroma">
+								<code>		<span class="nt">&#34;url&#34;</span><span class="p">:</span> <span class="s2">&#34;https://www.pouyun.com/?url=&#34;</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L98" class="lines-num">
+								<span id="L98" data-line-number="98"></span>
+							</td>
+							<td rel="L98" class="lines-code chroma">
+								<code>		<span class="nt">&#34;ext&#34;</span><span class="p">:</span> <span class="p">{</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L99" class="lines-num">
+								<span id="L99" data-line-number="99"></span>
+							</td>
+							<td rel="L99" class="lines-code chroma">
+								<code>			<span class="nt">&#34;flag&#34;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&#34;qq&#34;</span><span class="p">,</span> <span class="s2">&#34;腾讯&#34;</span><span class="p">,</span> <span class="s2">&#34;qiyi&#34;</span><span class="p">,</span> <span class="s2">&#34;爱奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;奇艺&#34;</span><span class="p">,</span> <span class="s2">&#34;youku&#34;</span><span class="p">,</span> <span class="s2">&#34;优酷&#34;</span><span class="p">,</span> <span class="s2">&#34;mgtv&#34;</span><span class="p">,</span> <span class="s2">&#34;芒果&#34;</span><span class="p">,</span> <span class="s2">&#34;letv&#34;</span><span class="p">,</span> <span class="s2">&#34;乐视&#34;</span><span class="p">,</span> <span class="s2">&#34;pptv&#34;</span><span class="p">,</span> <span class="s2">&#34;PPTV&#34;</span><span class="p">,</span> <span class="s2">&#34;sohu&#34;</span><span class="p">,</span> <span class="s2">&#34;bilibili&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩哔哩&#34;</span><span class="p">,</span> <span class="s2">&#34;哔哩&#34;</span><span class="p">]</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L100" class="lines-num">
+								<span id="L100" data-line-number="100"></span>
+							</td>
+							<td rel="L100" class="lines-code chroma">
+								<code>		<span class="p">}</span>  </code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L101" class="lines-num">
+								<span id="L101" data-line-number="101"></span>
+							</td>
+							<td rel="L101" class="lines-code chroma">
+								<code>	<span class="p">}</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L102" class="lines-num">
+								<span id="L102" data-line-number="102"></span>
+							</td>
+							<td rel="L102" class="lines-code chroma">
+								<code>   <span class="nt">&#34;lives&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;live&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&#34;</span><span class="p">,</span><span class="nt">&#34;playerType&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ua&#34;</span><span class="p">:</span><span class="s2">&#34;okhttp/3.15&#34;</span><span class="p">,</span><span class="nt">&#34;epg&#34;</span><span class="p">:</span><span class="s2">&#34;http://diyp.112114.xyz/?ch={name}&amp;date={date}&#34;</span><span class="p">,</span><span class="nt">&#34;logo&#34;</span><span class="p">:</span><span class="s2">&#34;https://epg.112114.xyz/logo/{name}.png&#34;</span><span class="p">}</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L103" class="lines-num">
+								<span id="L103" data-line-number="103"></span>
+							</td>
+							<td rel="L103" class="lines-code chroma">
+								<code>   <span class="nt">&#34;doh&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;Google&#34;</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://dns.google/dns-query&#34;</span><span class="p">,</span><span class="nt">&#34;ips&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;8.8.4.4&#34;</span><span class="p">,</span><span class="s2">&#34;8.8.8.8&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;Cloudflare&#34;</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://cloudflare-dns.com/dns-query&#34;</span><span class="p">,</span><span class="nt">&#34;ips&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;1.1.1.1&#34;</span><span class="p">,</span><span class="s2">&#34;1.0.0.1&#34;</span><span class="p">,</span><span class="s2">&#34;2606:4700:4700::1111&#34;</span><span class="p">,</span><span class="s2">&#34;2606:4700:4700::1001&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;AdGuard&#34;</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://dns.adguard.com/dns-query&#34;</span><span class="p">,</span><span class="nt">&#34;ips&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;94.140.14.140&#34;</span><span class="p">,</span><span class="s2">&#34;94.140.14.141&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;DNSWatch&#34;</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://resolver2.dns.watch/dns-query&#34;</span><span class="p">,</span><span class="nt">&#34;ips&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;84.200.69.80&#34;</span><span class="p">,</span><span class="s2">&#34;84.200.70.40&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;Quad9&#34;</span><span class="p">,</span><span class="nt">&#34;url&#34;</span><span class="p">:</span><span class="s2">&#34;https://dns.quad9.net/dns-quer&#34;</span><span class="p">,</span><span class="nt">&#34;ips&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;9.9.9.9&#34;</span><span class="p">,</span><span class="s2">&#34;149.112.112.112&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L104" class="lines-num">
+								<span id="L104" data-line-number="104"></span>
+							</td>
+							<td rel="L104" class="lines-code chroma">
+								<code>   <span class="nt">&#34;rules&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;wp&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;vip.123pan.cn&#34;</span><span class="p">,</span><span class="s2">&#34;rescdn.wuxivlog.cn&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;索尼&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;suonizy&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;海外看&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;haiwaikan&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;8.1748&#34;</span><span class="p">,</span><span class="s2">&#34;10.0099&#34;</span><span class="p">,</span><span class="s2">&#34;10.3333&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;星星&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;aws.ulivetv.net&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;农民&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;toutiaovod.com&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;video/tos/cn&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;kk&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;kuaikan&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;5&#34;</span><span class="p">,</span><span class="s2">&#34;20.123&#34;</span><span class="p">,</span><span class="s2">&#34;20.167&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;yqk&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;yqk&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;18.4&#34;</span><span class="p">,</span><span class="s2">&#34;15.1666&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;sn&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;suonizy&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;15.1666&#34;</span><span class="p">,</span><span class="s2">&#34;15.2666&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;xx&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;aws.ulivetv.net&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;量子&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;vip.lz&#34;</span><span class="p">,</span><span class="s2">&#34;v.cdnlz&#34;</span><span class="p">,</span><span class="s2">&#34;hd.lz&#34;</span><span class="p">,</span><span class="s2">&#34;yzzy1.play&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;非凡&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;vip.ffzy&#34;</span><span class="p">,</span><span class="s2">&#34;hd.ffzy&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;暴风&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;bfzy&#34;</span><span class="p">,</span><span class="s2">&#34;s5.bfzycdn&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY&#34;</span><span class="p">,</span><span class="s2">&#34;#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;火山&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;huoshan.com&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;item_id=&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;抖音&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;douyin.com&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;is_play_url=&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;cl&#34;</span><span class="p">,</span><span class="nt">&#34;hosts&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;magnet&#34;</span><span class="p">]</span><span class="p">,</span><span class="nt">&#34;regex&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;最 新&#34;</span><span class="p">,</span><span class="s2">&#34;直 播&#34;</span><span class="p">,</span><span class="s2">&#34;更 新&#34;</span><span class="p">]</span><span class="p">}</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L105" class="lines-num">
+								<span id="L105" data-line-number="105"></span>
+							</td>
+							<td rel="L105" class="lines-code chroma">
+								<code>   <span class="nt">&#34;flags&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;youku&#34;</span><span class="p">,</span><span class="s2">&#34;qq&#34;</span><span class="p">,</span><span class="s2">&#34;QQ&#34;</span><span class="p">,</span><span class="s2">&#34;iqiyi&#34;</span><span class="p">,</span><span class="s2">&#34;qiyi&#34;</span><span class="p">,</span><span class="s2">&#34;letv&#34;</span><span class="p">,</span><span class="s2">&#34;sohu&#34;</span><span class="p">,</span><span class="s2">&#34;tudou&#34;</span><span class="p">,</span><span class="s2">&#34;pptv&#34;</span><span class="p">,</span><span class="s2">&#34;PPTV&#34;</span><span class="p">,</span><span class="s2">&#34;mgtv&#34;</span><span class="p">,</span><span class="s2">&#34;ltnb&#34;</span><span class="p">,</span><span class="s2">&#34;rx&#34;</span><span class="p">,</span><span class="s2">&#34;SLYS4k&#34;</span><span class="p">,</span><span class="s2">&#34;BYGA&#34;</span><span class="p">,</span><span class="s2">&#34;BYGB&#34;</span><span class="p">,</span><span class="s2">&#34;luanzi&#34;</span><span class="p">,</span><span class="s2">&#34;dxzy&#34;</span><span class="p">,</span><span class="s2">&#34;QEYSS&#34;</span><span class="p">,</span><span class="s2">&#34;aliyun&#34;</span><span class="p">,</span><span class="s2">&#34;AliS&#34;</span><span class="p">,</span><span class="s2">&#34;122&#34;</span><span class="p">,</span><span class="s2">&#34;chuangying&#34;</span><span class="p">,</span><span class="s2">&#34;CL4K&#34;</span><span class="p">,</span><span class="s2">&#34;xfyun&#34;</span><span class="p">,</span><span class="s2">&#34;wuduzy&#34;</span><span class="p">,</span><span class="s2">&#34;wasu&#34;</span><span class="p">,</span><span class="s2">&#34;bilibili&#34;</span><span class="p">,</span><span class="s2">&#34;renrenmi&#34;</span><span class="p">,</span><span class="s2">&#34;xmm&#34;</span><span class="p">,</span><span class="s2">&#34;xigua&#34;</span><span class="p">,</span><span class="s2">&#34;m1905&#34;</span><span class="p">,</span><span class="s2">&#34;funshion&#34;</span><span class="p">,</span><span class="s2">&#34;优酷&#34;</span><span class="p">,</span><span class="s2">&#34;芒果&#34;</span><span class="p">,</span><span class="s2">&#34;腾讯&#34;</span><span class="p">,</span><span class="s2">&#34;爱奇艺&#34;</span><span class="p">,</span><span class="s2">&#34;奇艺&#34;</span><span class="p">,</span><span class="s2">&#34;哔哩哔哩&#34;</span><span class="p">,</span><span class="s2">&#34;哔哩&#34;</span><span class="p">,</span><span class="s2">&#34;西瓜视频&#34;</span><span class="p">,</span><span class="s2">&#34;腾讯视频&#34;</span><span class="p">,</span><span class="s2">&#34;奇艺视频&#34;</span><span class="p">,</span><span class="s2">&#34;优酷视频&#34;</span><span class="p">,</span><span class="s2">&#34;芒果视频&#34;</span><span class="p">,</span><span class="s2">&#34;乐视视频&#34;</span><span class="p">,</span><span class="s2">&#34;FY&#34;</span><span class="p">,</span><span class="s2">&#34;fy&#34;</span><span class="p">,</span><span class="s2">&#34;FeiYun&#34;</span><span class="p">,</span><span class="s2">&#34;feiyun&#34;</span><span class="p">,</span><span class="s2">&#34;飞云&#34;</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L106" class="lines-num">
+								<span id="L106" data-line-number="106"></span>
+							</td>
+							<td rel="L106" class="lines-code chroma">
+								<code>   <span class="nt">&#34;ijk&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;group&#34;</span><span class="p">:</span><span class="s2">&#34;软解码&#34;</span><span class="p">,</span><span class="nt">&#34;options&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;opensles&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;overlay-format&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;842225234&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;framedrop&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;soundtouch&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;start-on-prepared&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;http-detect-rangeupport&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;fflags&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;fastseek&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;skip_loop_filter&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;48&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;reconnect&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;enable-accurateeek&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-auto-rotate&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-handle-resolution-change&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-hevc&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;dns_cache_timeout&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;600000000&#34;</span><span class="p">}</span><span class="p">]</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;group&#34;</span><span class="p">:</span><span class="s2">&#34;硬解码&#34;</span><span class="p">,</span><span class="nt">&#34;options&#34;</span><span class="p">:</span><span class="p">[</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;opensles&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;overlay-format&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;842225234&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;framedrop&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;soundtouch&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;start-on-prepared&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;http-detect-rangeupport&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;fflags&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;fastseek&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;skip_loop_filter&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;48&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;reconnect&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;enable-accurateeek&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;0&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-auto-rotate&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-handle-resolution-change&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;mediacodec-hevc&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;1&#34;</span><span class="p">}</span><span class="p">,</span><span class="p">{</span><span class="nt">&#34;category&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;dns_cache_timeout&#34;</span><span class="p">,</span><span class="nt">&#34;value&#34;</span><span class="p">:</span><span class="s2">&#34;600000000&#34;</span><span class="p">}</span><span class="p">]</span><span class="p">}</span><span class="p">]</span><span class="p">,</span></code>
+							</td>
+						</tr>
+						
+						<tr>
+							<td id="L107" class="lines-num">
+								<span id="L107" data-line-number="107"></span>
+							</td>
+							<td rel="L107" class="lines-code chroma">
+								<code>   <span class="nt">&#34;ads&#34;</span><span class="p">:</span><span class="p">[</span><span class="s2">&#34;iqiyi.hbuioo.com&#34;</span><span class="p">,</span><span class="s2">&#34;vip.ffzyad.com&#34;</span><span class="p">,</span><span class="s2">&#34;wan.51img1.com&#34;</span><span class="p">,</span><span class="s2">&#34;https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd&#34;</span><span class="p">,</span><span class="s2">&#34;mimg.0c1q0l.cn&#34;</span><span class="p">,</span><span class="s2">&#34;www.googletagmanager.com&#34;</span><span class="p">,</span><span class="s2">&#34;www.google-analytics.com&#34;</span><span class="p">,</span><span class="s2">&#34;mc.usihnbcq.cn&#34;</span><span class="p">,</span><span class="s2">&#34;mg.g1mm3d.cn&#34;</span><span class="p">,</span><span class="s2">&#34;mscs.svaeuzh.cn&#34;</span><span class="p">,</span><span class="s2">&#34;cnzz.hhttm.top&#34;</span><span class="p">,</span><span class="s2">&#34;tp.vinuxhome.com&#34;</span><span class="p">,</span><span class="s2">&#34;cnzz.mmstat.com&#34;</span><span class="p">,</span><span class="s2">&#34;www.baihuillq.com&#34;</span><span class="p">,</span><span class="s2">&#34;s23.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;z3.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;c.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;stj.v1vo.top&#34;</span><span class="p">,</span><span class="s2">&#34;z12.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;img.mosflower.cn&#34;</span><span class="p">,</span><span class="s2">&#34;tips.gamevvip.com&#34;</span><span class="p">,</span><span class="s2">&#34;ehwe.yhdtns.com&#34;</span><span class="p">,</span><span class="s2">&#34;xdn.cqqc3.com&#34;</span><span class="p">,</span><span class="s2">&#34;www.jixunkyy.cn&#34;</span><span class="p">,</span><span class="s2">&#34;sp.chemacid.cn&#34;</span><span class="p">,</span><span class="s2">&#34;hm.baidu.com&#34;</span><span class="p">,</span><span class="s2">&#34;s9.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;z6.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;um.cavuc.com&#34;</span><span class="p">,</span><span class="s2">&#34;mav.mavuz.com&#34;</span><span class="p">,</span><span class="s2">&#34;wofwk.aoidf3.com&#34;</span><span class="p">,</span><span class="s2">&#34;z5.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;xc.hubeijieshikj.cn&#34;</span><span class="p">,</span><span class="s2">&#34;tj.tianwenhu.com&#34;</span><span class="p">,</span><span class="s2">&#34;xg.gars57.cn&#34;</span><span class="p">,</span><span class="s2">&#34;k.jinxiuzhilv.com&#34;</span><span class="p">,</span><span class="s2">&#34;cdn.bootcss.com&#34;</span><span class="p">,</span><span class="s2">&#34;ppl.xunzhuo123.com&#34;</span><span class="p">,</span><span class="s2">&#34;xomk.jiangjunmh.top&#34;</span><span class="p">,</span><span class="s2">&#34;img.xunzhuo123.com&#34;</span><span class="p">,</span><span class="s2">&#34;z1.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;s13.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;xg.huataisangao.cn&#34;</span><span class="p">,</span><span class="s2">&#34;z7.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;xg.huataisangao.cn&#34;</span><span class="p">,</span><span class="s2">&#34;z2.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;s96.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;q11.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;thy.dacedsfa.cn&#34;</span><span class="p">,</span><span class="s2">&#34;xg.whsbpw.cn&#34;</span><span class="p">,</span><span class="s2">&#34;s19.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;z8.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;s4.cnzz.com&#34;</span><span class="p">,</span><span class="s2">&#34;f5w.as12df.top&#34;</span><span class="p">,</span><span class="s2">&#34;ae01.alicdn.com&#34;</span><span class="p">,</span><span class="s2">&#34;www.92424.cn&#34;</span><span class="p">,</span><span class="s2">&#34;k.wudejia.com&#34;</span><span class="p">,</span><span class="s2">&#34;vivovip.mmszxc.top&#34;</span><span class="p">,</span><span class="s2">&#34;qiu.xixiqiu.com&#34;</span><span class="p">,</span><span class="s2">&#34;cdnjs.hnfenxun.com&#34;</span><span class="p">,</span><span class="s2">&#34;cms.qdwght.com&#34;</span><span class="p">]</span><span class="p">}</span>
+</code>
+							</td>
+						</tr>
+						
+					</tbody>
+				</table>
+				
+			
+		</div>
+	</div>
+</div>
+
+
+	<div class="i-text-center">
+		
+				
+		
+	</div>
+
+
+<script>
+function submitDeleteForm() {
+    var message = prompt("delete_confirm_message\n\ndelete_commit_summary", "Delete ''");
+    if (message != null) {
+        $("#delete-message").val(message);
+        $("#delete-file-form").submit()
+    }
+}
+</script>
+
+		
+	</div>
+	<div id="toListModel">
+		<div class="ui modal" id="toShare">
+			<i class="close icon black"></i>
+			<div class="header">共享</div>
+			<div class="content">
+				<form autocomplete="off" class="ui form training ignore-dirty">
+					
+					<div class="fields">
+						<p class="px-sm py-none mb-sm">共享页面将在匿名链接下呈现所选的代码和训练结果，不会显示项目的原始链接地址。但Agit系统不会自动处理代码和训练结果，因此如果需要为匿名盲审等场景提供匿名内容，还需要您自行保证代码内容和训练结果的匿名化。</p>
+					</div>
+
+					<div class="fields">
+						<div class="two wide field required">
+							<label>代码分支</label>
+						</div>
+						<div id="branchField" class="fourteen wide field">
+
+							<div class="fitted item choose">
+								<div class="ui floating filter dropdown custom">
+
+									<div class="ui basic small compact button" style="min-width: 200px;" @click="menuVisible = !menuVisible">
+										<span class="text">
+											<i class="iconfont icon-branch-down"></i>
+											<span v-text='isViewBranch?"分支":"目录树"'></span>:
+                      <strong v-text='isViewBranch?(selectedBranch?selectedBranch:"请选择"):(selectedTag?selectedTag:"请选择")'></strong>
+										</span>
+										<i class="dropdown icon" tabIndex="-1"></i>
+									</div>
+
+									<div tabindex="-1"  id="scrolling" class="menu transition menu-share" :class="{visible: menuVisible}" v-show="menuVisible" @blur="menuVisible = false">
+
+										<div class="ui icon search input" style="width: 200px;">
+											<i class="filter icon"></i>
+											<input name="search" v-model="searchTerm" @keydown="keydown($event)" placeholder="过滤分支或标签...">
+										</div>
+
+										<div class="header branch-tag-choice">
+											<div class="ui grid">
+												<div class="two column row">
+													<a class="reference column" href="javascript:;" @click="handleBranchTab(true)">
+														<span class="text" :class="{black: !isViewBranch}">
+															<i class="iconfont icon-branch-down"></i>
+															分支列表
+														</span>
+													</a>
+													<a class="reference column" href="javascript:;" @click="handleBranchTab(false)">
+														<span class="text" :class="{black: isViewBranch}">
+															<i class="reference tags icon"></i>
+															标签列表
+														</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div v-show="isViewBranch" class="scrolling menu" ref="scrollContainer">
+											<div v-for="(item, index) in branches" v-show="item.name.includes(searchTerm)" :key="item.name" class="item" @click="handleBranchOrTag(item)">
+												<span v-text="item.name"></span>
+											</div>
+										</div>
+										<div v-show="!isViewBranch" class="scrolling menu" ref="scrollContainer">
+											<div v-for="(item, index) in tags" v-show="item.name.includes(searchTerm)" :key="item.name" class="item" @click="handleBranchOrTag(item)">
+												<span v-text="item.name"></span>
+											</div>
+										</div>
+
+										<div class="message" v-if="(isViewBranch && branches.length==0) || (!isViewBranch && tags.length==0)">未找到结果</div>
+									</div>
+
+									<div class="ui pointing red basic label" style="display:none;">
+										请选择分支或标签
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="fields" v-show="selectedBranch">
+						<div class="two wide field">
+							<label>提交</label>
+						</div>
+						<div id="commitWrap" class="fourteen wide field">
+							<select class="ui search selection dropdown commit-wrap" name="commit">
+								<option value=""></option>
+							</select>
+						</div>
+					</div>
+					<div class="fields">
+						<label class="two wide field  required">共享标题</label>
+						<div class="fourteen wide field trainName-filed">
+							<input v-model="shareName" type="text" name="shareName"  class="form-trainName" :maxlength="16"  placeholder="请输入标题内容，最多16个字符">
+						</div>
+					</div>
+					<div class="ui grid uioption">
+						<label class="required">链接有效期</label>
+					</div>
+					<div class="ui grid fields">
+						<div class="thirteen wide column">
+							<div class="ui four item stackable tabs menu ui-link-bg">
+								<a v-for="(item, index) in shareTimeList" :key="index" :class="['item', activeIdx === item.shareTimeId ? 'active' : '']" data-tab="oneday" @click="handleMenuChange(item)">
+									<span v-text="formatLinkTime(item.shareTimeName)"></span></a>
+							</div>
+						</div>
+						<div class="right aligned three wide column action mt-3xs">
+							<button class="ui primary button" @click="handleLink">
+								生成链接</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="ui modal" id="toCopyShareLink">
+			<i class="close icon black"></i>
+			<div class="header">共享链接已生成</div>
+			<div class="content ui form">
+				<div class="fields">
+					<div class="two wide field">
+						<label>链接地址:</label>
+					</div>
+					<div  class="fourteen wide field">
+						<p v-text="linkAddress" id="share_url"></p>
+					</div>
+				</div>
+				<div class="fields uioption">
+					<div class="two wide field">
+					<label>链接有效期:</label>
+					</div>
+					<div class="fourteen wide field">
+						<p v-text="linkExDate"></p>
+					</div>
+				</div>
+				<div class="fields uioption">
+							<div class="sixteen wide field" style="text-align: right">
+								<button class="ui basic icon button poping primary up clipboard share-button" id="share-button" data-original="复制链接" data-success="已复制链接" data-error="请按下 ⌘-C 或 Ctrl-C 复制" data-content="复制链接" data-variation="inverted tiny"  data-clipboard-target="#share_url">
+									复制
+								</button>
+							</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+<div class="content">
+	<p></p>
+</div>
+</div>
+</div>
+
+
+
+
+		
+
+		</div>
+
+		
+
+		<footer>
+	<div class="base-footer-content i-footer mx-auto">
+		<div class="ui left">
+			<div class="p-logo i-flex i-align-center">
+				<img class="logo-icon" src="/img/logo/logo.svg">
+				<i class="logo-text">&copy; 2023 Agit Cloud Computing, Ltd.</i>
+				<a  id="version-a" style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="https://agit.ai/AgitDeveloper/AgitPythonExamples/wiki"></a>
+			</div>
+		</div>
+		<div class="ui right links p-logo">
+			<a style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="/agreement/terms">服务协议</a>
+<a style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="/agreement/privacy">隐私政策</a>
+<a style="text-decoration: underline; font-size: 12px; margin-right: 16px;" target="_blank" href="/opensource">开源软件</a>
+<a style="text-decoration: underline; font-size: 12px;" target="_blank" id="help-a" target="_blank" href="http://help.agit.ai/">帮助</a>
+
+		</div>
+	</div>
+</footer>
+
+
+
+		
+
+		
+		
+		
+		<script src="/js/index.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+		<script src="/vendor/plugins/vue/vue.min.js"></script>
+<script src="/minifyjs/head_navbar.base.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/minifyjs/footer_content.base.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+
+<script src="/vendor/plugins/promise-polyfill/polyfill.min.js"></script>
+<script src="/vendor/plugins/cssrelpreload/loadCSS.min.js"></script>
+<script src="/vendor/plugins/cssrelpreload/cssrelpreload.min.js"></script>
+<script src="/vendor/plugins/vue-infinite-loading/vue-infinite-loading.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/Qrcode/qrcode.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/i-components/i.components.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+<script src="/vendor/plugins/vue-node-spec/node-spec.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/jquery-migrate/jquery-migrate.min.js?v=3.0.1"></script>
+<script src="/vendor/plugins/jquery.areyousure/jquery.are-you-sure.js"></script>
+<script src="/vendor/plugins/emojify/emojify.custom.js"></script>
+<script src="/vendor/plugins/xterm/xterm.js"></script>
+
+
+
+
+
+
+
+
+
+	</body>
+	</html>
+
+<script>
+$("#createTraining").click(function(){
+
+	$api.trainReachUpperLimit({repoId:Number($('.repo-id').text())}).then(data => {
+        if (!data) return;
+		if(data.isUpperLimit){
+			$ITools.handleToast('error', $i18n.tr('code', 'trainCountLimit'))
+			return
+		}
+
+		const mode = $("#branchSelect").attr("data-mode"),
+	      	branch = $("#branchSelect").find("strong").text();
+		let path = ""
+		$(".repo-path a").each(function(index,item){
+			if(index === 0){
+				return
+			}
+			path += path === ""?$(this).attr("title"):("/"+$(this).attr("title"))
+		})
+		const params={
+			scriptPath: $(".repo-path").find(".active.section").attr("title"),
+			workSpace: path,
+			branchName: mode === "branches" ? branch : "",
+			tagName: mode === "branches" ? "" : branch
+		}
+		window.location.href = window.location.origin + $('.repo-url').text() + '/training/create?scriptFile=' + escapePound(JSON.stringify(params))
+      })
+
+
+})
+function toUpload(el) {
+
+const tempSplit = $("#RepoSize").text().split("GB")
+
+
+if (tempSplit.length === 2 && tempSplit[0] >= 1) {
+	$ITools.handleToast('error', $i18n.tr('valid', 'fileSizeLimit'))
+	return
+}
+window.location.href = $(el).attr("data-href")
+}
+function handleShare() {
+$('#toShare').modal('show')
+}
+function shareLink() {
+$('#toCopyShareLink').modal('show')
+}
+function escapePound(str){
+	let res=""
+	res=str.replaceAll("%","%25")
+	res=res.replaceAll("#","%23")
+	res=res.replaceAll(" ","%20")
+	res=res.replaceAll("?","%3F")
+	return res
+}
+</script>
+
+<script src="/minifyjs/auth.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/minifyjs/repo_home.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
