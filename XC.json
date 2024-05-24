@@ -306,7 +306,7 @@
 		<div class="ui two horizontal center link list">
 			
 				<div class="item">
-					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2665</b> 提交</a>
+					<a class="ui" href="/Yoursmile7/TVBox/commits/branch/master"><i class="iconfont icon-commit"></i> <b>2671</b> 提交</a>
 				</div>
 			
 			
@@ -463,7 +463,7 @@
 				<div class="ui buttons">
 					<a class="ui button" href="/Yoursmile7/TVBox/raw/branch/master/XC.json">原始文件</a>
 					
-						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/a1eda340112a835afd688ee77a8af9399728c6c2/XC.json">永久链接</a>
+						<a class="ui button" href="/Yoursmile7/TVBox/src/commit/fe56e1879a1acd37adf0c6c21833de226a5c4a39/XC.json">永久链接</a>
 					
 					
 						<a class="ui button" href="/Yoursmile7/TVBox/blame/branch/master/XC.json">Blame</a>
@@ -531,8 +531,7 @@
 								<span id="L5" data-line-number="5"></span>
 							</td>
 							<td rel="L5" class="lines-code chroma">
-								<code>
-</code>
+								<code><span class="p">{</span></code>
 							</td>
 						</tr>
 						
@@ -541,7 +540,7 @@
 								<span id="L6" data-line-number="6"></span>
 							</td>
 							<td rel="L6" class="lines-code chroma">
-								<code><span class="p">{</span></code>
+								<code>	<span class="nt">&#34;spider&#34;</span><span class="p">:</span> <span class="s2">&#34;http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F217C35DBB1F8C326A5491CD1AD92774&#34;</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
@@ -550,7 +549,7 @@
 								<span id="L7" data-line-number="7"></span>
 							</td>
 							<td rel="L7" class="lines-code chroma">
-								<code>	<span class="nt">&#34;spider&#34;</span><span class="p">:</span> <span class="s2">&#34;http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;06B7C4683CA5EB07029A8042C0CFC35F&#34;</span><span class="p">,</span></code>
+								<code>	<span class="nt">&#34;wallpaper&#34;</span><span class="p">:</span> <span class="s2">&#34;https://tuapi.eees.cc/api.php?category=fengjing&amp;type=302&#34;</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
@@ -559,7 +558,8 @@
 								<span id="L8" data-line-number="8"></span>
 							</td>
 							<td rel="L8" class="lines-code chroma">
-								<code>	<span class="nt">&#34;wallpaper&#34;</span><span class="p">:</span> <span class="s2">&#34;https://tuapi.eees.cc/api.php?category=fengjing&amp;type=302&#34;</span><span class="p">,</span></code>
+								<code>
+</code>
 							</td>
 						</tr>
 						
@@ -568,8 +568,7 @@
 								<span id="L9" data-line-number="9"></span>
 							</td>
 							<td rel="L9" class="lines-code chroma">
-								<code>
-</code>
+								<code>	<span class="nt">&#34;sites&#34;</span><span class="p">:</span><span class="p">[</span></code>
 							</td>
 						</tr>
 						
@@ -578,7 +577,7 @@
 								<span id="L10" data-line-number="10"></span>
 							</td>
 							<td rel="L10" class="lines-code chroma">
-								<code>	<span class="nt">&#34;sites&#34;</span><span class="p">:</span><span class="p">[</span></code>
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🔍豆瓣┃本接口免费-🈲贩卖&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
@@ -587,7 +586,7 @@
 								<span id="L11" data-line-number="11"></span>
 							</td>
 							<td rel="L11" class="lines-code chroma">
-								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🔍豆瓣┃本接口免费-🈲贩卖&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_DouDou&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">}</span><span class="p">,</span></code>
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NewCz&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🏭厂长&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NewCz&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://czzy.top/&#34;</span><span class="p">}</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
@@ -596,7 +595,7 @@
 								<span id="L12" data-line-number="12"></span>
 							</td>
 							<td rel="L12" class="lines-code chroma">
-								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NewCz&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🏭厂长&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_NewCz&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">0</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;https://czzy.top/&#34;</span><span class="p">}</span><span class="p">,</span></code>
+								<code><span class="p">{</span><span class="nt">&#34;key&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Nmys&#34;</span><span class="p">,</span><span class="nt">&#34;name&#34;</span><span class="p">:</span><span class="s2">&#34;🥝农民&#34;</span><span class="p">,</span><span class="nt">&#34;type&#34;</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span><span class="nt">&#34;api&#34;</span><span class="p">:</span><span class="s2">&#34;csp_Nmys&#34;</span><span class="p">,</span><span class="nt">&#34;searchable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;quickSearch&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;filterable&#34;</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span><span class="nt">&#34;ext&#34;</span><span class="p">:</span><span class="s2">&#34;http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/sub/nmys.json&#34;</span><span class="p">}</span><span class="p">,</span></code>
 							</td>
 						</tr>
 						
