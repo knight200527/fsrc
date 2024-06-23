@@ -37,7 +37,7 @@
   
 
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_smell_icebreaker_ux","copilot_implicit_context","copilot_stop_response","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","repository_suggester_elastic_search","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","kb_source_repos","filter_prefetch_suggestions"]}</script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_smell_icebreaker_ux","copilot_implicit_context","copilot_stop_response","failbot_handle_non_errors","geojson_azure_maps","ghost_pilot_vnext","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","repository_suggester_elastic_search","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","kb_source_repos","filter_prefetch_suggestions"]}</script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-24f41857dca8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-810e4b1b9abd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-4ac41d0a76fd.js"></script>
@@ -120,7 +120,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="C70B:340EF8:44ECB1:4D77FC:66768DDE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="8590a49d36c302027fb97bec54475fd403484da5b3262dd7ccb66dc26e789e80" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS95b3Vyc21pbGU2Ni9UVkJveCIsInJlcXVlc3RfaWQiOiJDNzBCOjM0MEVGODo0NEVDQjE6NEQ3N0ZDOjY2NzY4RERFIiwidmlzaXRvcl9pZCI6Ijg5MzE1MzQ5MTg4NjY0Mjc1MyIsInJlZ2lvbl9lZGdlIjoic291dGhlYXN0YXNpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="f9e36bdeea5decaeaf4550ebe253d5f40ef6fe60b572b970fd644140f5248145" data-turbo-transient="true" />
+  <meta name="request-id" content="C555:1DE139:A74FA5:BD739B:6677718C" data-turbo-transient="true" /><meta name="html-safe-nonce" content="8590a49d36c302027fb97bec54475fd403484da5b3262dd7ccb66dc26e789e80" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS95b3Vyc21pbGU2Ni9UVkJveCIsInJlcXVlc3RfaWQiOiJDNTU1OjFERTEzOTpBNzRGQTU6QkQ3MzlCOjY2Nzc3MThDIiwidmlzaXRvcl9pZCI6Ijg5MzE1MzQ5MTg4NjY0Mjc1MyIsInJlZ2lvbl9lZGdlIjoic291dGhlYXN0YXNpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="fc79ec5881017b6717a92490b31affb8475e7c43e4ef75d713357811fb5b73f1" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:807571568" data-turbo-transient>
@@ -159,12 +159,12 @@
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/yoursmile66/TVBox/blob/main/Yoursmile.jar" />
 
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/ee86055de4e788a28e08b2acdafe283a72fc62c80265eea75c661ba1743c088e/yoursmile66/TVBox" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TVBox/Yoursmile.jar at main · yoursmile66/TVBox" /><meta name="twitter:description" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." />
-  <meta property="og:image" content="https://opengraph.githubassets.com/ee86055de4e788a28e08b2acdafe283a72fc62c80265eea75c661ba1743c088e/yoursmile66/TVBox" /><meta property="og:image:alt" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="TVBox/Yoursmile.jar at main · yoursmile66/TVBox" /><meta property="og:url" content="https://github.com/yoursmile66/TVBox/blob/main/Yoursmile.jar" /><meta property="og:description" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/732fc8edd864377f85518998c2e02d421b92220efd99de9e21be896ea55d351e/yoursmile66/TVBox" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TVBox/Yoursmile.jar at main · yoursmile66/TVBox" /><meta name="twitter:description" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." />
+  <meta property="og:image" content="https://opengraph.githubassets.com/732fc8edd864377f85518998c2e02d421b92220efd99de9e21be896ea55d351e/yoursmile66/TVBox" /><meta property="og:image:alt" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="TVBox/Yoursmile.jar at main · yoursmile66/TVBox" /><meta property="og:url" content="https://github.com/yoursmile66/TVBox/blob/main/Yoursmile.jar" /><meta property="og:description" content="Contribute to yoursmile66/TVBox development by creating an account on GitHub." />
   
 
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/107245139/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDcyNDUxMzksInMiOjEzMTMzMTM5NzEsImMiOjQwOTk3ODY2NjQsInQiOjE3MTkwNDU2MDB9--30dfb2cede8d6974891a3ebd31d55bf53ef25a84d5fbbf67635a191eb31d1f73" data-refresh-url="/_alive" data-session-id="0a4a446a9921544d0b7ac49846f23b154f5d9f3bcab11f280b1b7ea3e811e505">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/107245139/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDcyNDUxMzksInMiOjEzMTMzMTM5NzEsImMiOjMwODQ5Nzg2NTMsInQiOjE3MTkxMDM4ODh9--095a0eb35d0b72c2afdd5e122185c87e475186d68718fd14c21284f70a123c31" data-refresh-url="/_alive" data-session-id="0a4a446a9921544d0b7ac49846f23b154f5d9f3bcab11f280b1b7ea3e811e505">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-1a9b1a7a6108.js">
 
 
@@ -264,17 +264,17 @@
       <div class="AppHeader-globalBar-start">
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
-      <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355" id="dialog-show-dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+      <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f" id="dialog-show-dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>
 
 <dialog-helper>
-  <dialog data-target="deferred-side-panel.panel" id="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355" aria-modal="true" aria-labelledby="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355-title" aria-describedby="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade Overlay--placement-left SidePanel">
+  <dialog data-target="deferred-side-panel.panel" id="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f" aria-modal="true" aria-labelledby="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f-title" aria-describedby="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade Overlay--placement-left SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355-title">
+      <h1 class="Overlay-title sr-only" id="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -285,14 +285,14 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
   </div>
   
 </div>
-      <scrollable-region data-labelled-by="dialog-bc0ec170-4fb9-4f0c-9159-cda5b463c355-title">
+      <scrollable-region data-labelled-by="dialog-1efe5111-c35b-43d6-bab0-f449cd13d60f-title">
         <div data-view-component="true" class="Overlay-body d-flex flex-column px-2">    <div data-view-component="true" class="d-flex flex-column mb-3">
         <nav aria-label="Site navigation" data-view-component="true" class="ActionList">
   
@@ -303,7 +303,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-ea84f54f-26a2-4536-afdc-9c3a4df35dda" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-ec0b99af-cc58-4288-be9b-08306bb46c3b" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -321,7 +321,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-8739a3ce-9a71-494f-9a92-ac9f1b3b7108" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-c03915a3-62b0-4570-89ee-90853dbe45ed" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -339,7 +339,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-2a15952e-81a2-4f29-9231-9aff38acfb4c" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-62408363-a3f1-425b-a8b1-3c97f0241e61" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -357,7 +357,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-item-id="projects" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROJECTS&quot;,&quot;label&quot;:null}" id="item-9800575c-fbdb-491f-a189-6dc683498e3b" href="/projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROJECTS&quot;,&quot;label&quot;:null}" id="item-45f4d1e5-3c5e-452b-917e-f2061fe7b273" href="/projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -375,7 +375,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-5cd373be-0815-48f6-927e-313d205c9967" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-dfd22e21-6f4a-4edb-8d57-5e6204547133" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -393,7 +393,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;CODESPACES&quot;,&quot;label&quot;:null}" id="item-02e357ad-11e1-4fa2-b22e-c4c4f8d49c2e" href="https://github.com/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;CODESPACES&quot;,&quot;label&quot;:null}" id="item-98f79caa-ed83-4275-b1eb-c0567e0c36dc" href="https://github.com/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -413,7 +413,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-4152a424-5e5b-4039-9118-d8d7007ca4eb" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-cdf011dd-720f-4fca-b1d9-abdd4357e163" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -431,7 +431,7 @@
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-b70107e7-a53e-4720-b1fc-8b7bc0248c64" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-1446e8fa-5cc9-44cc-ad63-a4ca0666a7b4" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -591,7 +591,7 @@
               
 
 
-<qbsearch-input class="search-input" data-scope="repo:yoursmile66/TVBox" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="LmReXzBGP016lZCI2sVJ8LDUoiIsYDjqblyKCFv2HY8rb_ESz-wpev8fxxqw-hYTdKgI9yvTzTeXehCgbBz6kg" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="yoursmile66/TVBox" data-current-org="" data-current-owner="yoursmile66" data-logged-in="true" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;JkGIE_7GcgEOr0gWgL4KBBktQjV69KgL33KjxENqb1qwXyQSW2bixT-DVOUd4yQcQ5HtIAvurB1INBdzdJ3KZQ&quot; data-csrf=&quot;true&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:yoursmile66/TVBox" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="e_ZTnkTzA1CDbvPBzeDnUUd8KUeCb4zm_iQm0pvU6fN-_fzTu1kVZwbkpFOn37iygwCDkoXceTsHArx6rD4O7g" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="yoursmile66/TVBox" data-current-org="" data-current-owner="yoursmile66" data-logged-in="true" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;wbnIe0c-FGQgQNWp3jMnCbHVy4c4GtCCA5IkicokIVRXp2R64p6EoBFsyVpDbgkR62lkkkkA1JSU1JA-_dOEaw&quot; data-csrf=&quot;true&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -642,7 +642,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-4aeef621-f3ca-4fb9-8087-361c374fb7bb" for="AppHeader-commandPalette-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-d946ae93-3dbb-4486-9f39-0c2062c7f04d" for="AppHeader-commandPalette-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -682,7 +682,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-3e877f6b-dc1c-4ed8-8ddb-6190c0dcd167" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-29ed76c5-fda1-48c0-a661-3d45a2da9626" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -913,7 +913,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-3e877f6b-dc1c-4ed8-8ddb-6190c0dcd167" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-29ed76c5-fda1-48c0-a661-3d45a2da9626" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -960,7 +960,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mn0dhLI_TNF9Zv8l9t5CzbwDiFUSP2eDUD-XC8zZUfj36Ms2KKKA_UgxTiGMnB8mYn_EfBVBx1ILxeQfGdGeYA" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d-R-y-qDJHYjKkSqYzGRQxRkOzVTelasQ12qf7Nk1Uwacah5cB7oWhZ99a4Zc8yoyhh3HFQE9n0Yp9lrZmwa1A" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -998,7 +998,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="om2gm06pL7n3EEdCmiPjQv05MK-pU7xhA1aNKYC-YjIDklw55Atvi04OylCQUe6uTyHqR_IxKeDPcQs9GsgBfw" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZbTnX79g50gJdYbLmtPiWoXaQRHqteloDx85dkrQu1LESxv9FcKnerBrC9mQoe-2N8Kb-bHXfOnDOL9i0KbYHw" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1016,7 +1016,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="aR7MHSGKCZCU6UojNOCTrZEyyitm4rgqHDgwit5TdwA4wx2v5d8bvYRsFl9bxxDA3zCpL9LNftlr2Au_gBFvZA" data-csrf="true" />
+              <input type="hidden" value="Fwj3KxWYV_5Dzs1naDyYsv3Vh1d6RTa-wGd36Q9FOGFG1SaZ0c1F01NLkRsHGxvfs9fkU85q8E23h0zcUQcgBQ" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -1053,7 +1053,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="8NT9cXTcWG1h4GpwcAg5XU_pxZcfy2M0FYouFYjke9wXrx83dgfogHpXE5MJmsH7-DrUoAFtAO10IdhOht0hhA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="iP5Y574NkRpAN0ckdgTpoPUHqTV8LOjSIjDLroPFsaNvhbqhvNYh91uAPscPlhEGQtS4AmKKiwtDmz31jfzr-w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -1069,7 +1069,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
   </span>
-</button><tool-tip id="tooltip-8683c716-ff57-4f6d-8aa2-97cfcf95f92e" for="global-create-menu-anchor" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button><tool-tip id="tooltip-5c176a32-169f-4e3e-823d-fa0646ed729d" for="global-create-menu-anchor" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         
@@ -1099,19 +1099,19 @@
     </react-partial-anchor>
 
 
-          <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-964feaba-5b89-4254-b373-c608bfccb391" aria-labelledby="tooltip-aa71cf8c-37c0-4a5b-9f84-3544a1e3e9b6" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+          <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-da2beaab-85a4-4a02-b1c9-ffa36a8af8e8" aria-labelledby="tooltip-59d7faae-168c-4055-aa47-e132caff6c83" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a><tool-tip id="tooltip-aa71cf8c-37c0-4a5b-9f84-3544a1e3e9b6" for="icon-button-964feaba-5b89-4254-b373-c608bfccb391" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a><tool-tip id="tooltip-59d7faae-168c-4055-aa47-e132caff6c83" for="icon-button-da2beaab-85a4-4a02-b1c9-ffa36a8af8e8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 
-          <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-5dcfff33-f826-49cb-8dd6-72185a4ea5fa" aria-labelledby="tooltip-b5b49139-729e-493d-9e47-4cca6c68bd2f" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+          <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-6152b28e-65d1-4cc1-8054-a916f594e57c" aria-labelledby="tooltip-18933830-42fc-4658-8682-2e9518d18f71" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a><tool-tip id="tooltip-b5b49139-729e-493d-9e47-4cca6c68bd2f" for="icon-button-5dcfff33-f826-49cb-8dd6-72185a4ea5fa" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a><tool-tip id="tooltip-18933830-42fc-4658-8682-2e9518d18f71" for="icon-button-6152b28e-65d1-4cc1-8054-a916f594e57c" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 
         </div>
 
-        <notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA3MjQ1MTM5IiwidCI6MTcxOTA0NTYwMH0=--56a0b7508ed491f73e24804586b959dd21c5e952ffe209554e028145237df772" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+        <notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA3MjQ1MTM5IiwidCI6MTcxOTEwMzg4OH0=--775eb86501401ad1a1d0de913478d0032e6eb3b57b3d008e42313063ef85f5ef" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
     <a id="AppHeader-notifications-button" href="/notifications" aria-labelledby="notification-indicator-tooltip" data-hotkey="g n" data-target="notification-indicator.link" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;NOTIFICATIONS_HEADER&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button  color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-inbox Button-visual">
     <path d="M2.8 2.06A1.75 1.75 0 0 1 4.41 1h7.18c.7 0 1.333.417 1.61 1.06l2.74 6.395c.04.093.06.194.06.295v4.5A1.75 1.75 0 0 1 14.25 15H1.75A1.75 1.75 0 0 1 0 13.25v-4.5c0-.101.02-.202.06-.295Zm1.61.44a.25.25 0 0 0-.23.152L1.887 8H4.75a.75.75 0 0 1 .6.3L6.625 10h2.75l1.275-1.7a.75.75 0 0 1 .6-.3h2.863L11.82 2.652a.25.25 0 0 0-.23-.152Zm10.09 7h-2.875l-1.275 1.7a.75.75 0 0 1-.6.3h-3.5a.75.75 0 0 1-.6-.3L4.375 9.5H1.5v3.75c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Z"></path>
 </svg>
@@ -1263,22 +1263,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-button" popovertarget="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-overlay" aria-controls="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-list" aria-haspopup="true" aria-labelledby="tooltip-f27de470-cf00-4b05-aea7-730e65cd8004" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-button" popovertarget="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-overlay" aria-controls="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-list" aria-haspopup="true" aria-labelledby="tooltip-23d2945d-464a-47b0-88d4-0174f1c34b0c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-f27de470-cf00-4b05-aea7-730e65cd8004" for="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-23d2945d-464a-47b0-88d4-0174f1c34b0c" for="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-overlay" anchor="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-overlay" anchor="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-button" id="action-menu-8ac443e9-2a24-4f08-b15c-474c184c828b-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-button" id="action-menu-9d8e8634-73f3-40c1-9900-55a696ddebd3-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-8fd9f4ac-9d3a-4274-b65d-cdd3bc6e4bfc" href="/yoursmile66/TVBox" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-f11f4e84-4040-44d4-be69-dd5bc54daf12" href="/yoursmile66/TVBox" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1293,7 +1293,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-1a446ade-f986-4db2-aacd-07f7437ebb5e" href="/yoursmile66/TVBox/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-eb65ceba-4d96-44ea-8997-cf7a45ddd77c" href="/yoursmile66/TVBox/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1308,7 +1308,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-8896c8dd-88b3-4174-aa69-5d1dade53139" href="/yoursmile66/TVBox/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-1fe60fb8-d8a5-47af-be83-c634ad4da10f" href="/yoursmile66/TVBox/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1323,7 +1323,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-b018f086-37c0-4a8f-82c1-aa2936e74431" href="/yoursmile66/TVBox/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0b62a087-b0fc-4350-93e3-66492e4aa021" href="/yoursmile66/TVBox/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1338,7 +1338,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-315794f7-1243-4593-9495-70f8ee87907e" href="/yoursmile66/TVBox/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-fdf49a07-b9c0-4f66-b3fa-d174fc086f71" href="/yoursmile66/TVBox/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1353,7 +1353,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cdfbb5c9-65f3-4d70-ab0e-7508830cf087" href="/yoursmile66/TVBox/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-3c54c2f3-dfce-4e18-b8f1-77f3fb90b4ee" href="/yoursmile66/TVBox/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1368,7 +1368,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-9951640a-b366-4bfd-a2b3-5991e0060aa0" href="/yoursmile66/TVBox/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-b5f4c9ee-62d1-451d-9ba4-4d33bd5572dc" href="/yoursmile66/TVBox/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1402,10 +1402,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-8ee59052-0c9e-4b23-82fb-0b9405dfe874" aria-labelledby="tooltip-431bfe1a-fea9-4243-ae9a-f86cb994e0c9" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-29c90bf1-4fb2-464e-9bcd-f2a1124820a2" aria-labelledby="tooltip-e77edda5-548c-450b-8c2c-4bc1bc4aecec" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-431bfe1a-fea9-4243-ae9a-f86cb994e0c9" for="icon-button-8ee59052-0c9e-4b23-82fb-0b9405dfe874" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-e77edda5-548c-450b-8c2c-4bc1bc4aecec" for="icon-button-29c90bf1-4fb2-464e-9bcd-f2a1124820a2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1449,7 +1449,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA3MjQ1MTM5IiwidCI6MTcxOTA0NTYwMH0=--56a0b7508ed491f73e24804586b959dd21c5e952ffe209554e028145237df772" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA3MjQ1MTM5IiwidCI6MTcxOTEwMzg4OH0=--775eb86501401ad1a1d0de913478d0032e6eb3b57b3d008e42313063ef85f5ef" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1622,7 +1622,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-3af6da8a-927e-4ba8-bec0-c3f173c34671" for="command-palette-clear-button" popover="manual" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-0a784d66-2fac-4d7c-b8eb-764a73d0fe24" for="command-palette-clear-button" popover="manual" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -2430,7 +2430,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"js","path":"js","contentType":"directory"},{"name":"sub","path":"sub","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"XC.json","path":"XC.json","contentType":"file"},{"name":"Yoursmile.jar","path":"Yoursmile.jar","contentType":"file"},{"name":"live.txt","path":"live.txt","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":1.707485,"foldersToFetch":[],"repo":{"id":807571568,"defaultBranch":"main","name":"TVBox","ownerLogin":"yoursmile66","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-05-29T19:04:07.000+08:00","ownerAvatar":"https://avatars.githubusercontent.com/u/171142938?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1716980647.0","canEdit":true,"refType":"branch","currentOid":"43deb623f5dbdfe23e0f6c48dfdd8ddc6266661e"},"path":"Yoursmile.jar","currentUser":{"id":107245139,"login":"knight200527","userEmail":"49038093@qq.com"},"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/yoursmile66/TVBox/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false},"displayName":"Yoursmile.jar","displayUrl":"https://github.com/yoursmile66/TVBox/blob/main/Yoursmile.jar?raw=true","headerInfo":{"blobSize":"1.36 MB","deleteTooltip":"Fork this repository and delete the file","editTooltip":"Fork this repository and edit the file","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"4f31d8a","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fyoursmile66%2FTVBox%2Fblob%2Fmain%2FYoursmile.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/yoursmile66/TVBox/blob/main/Yoursmile.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/yoursmile66/TVBox/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/yoursmile66/TVBox/raw/main/Yoursmile.jar","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":{"documentationUrl":"https://docs.github.com/copilot/overview-of-github-copilot/about-github-copilot-for-individuals","notices":{"codeViewPopover":{"dismissed":false,"dismissPath":"/settings/dismiss-notice/code_view_copilot_popover"}},"userAccess":{"hasSubscriptionEnded":false,"orgHasCFBAccess":false,"userHasCFIAccess":false,"userHasOrgs":false,"userIsOrgAdmin":false,"userIsOrgMember":false,"business":null,"featureRequestInfo":null}},"copilotAccessAllowed":false,"csrf_tokens":{"/yoursmile66/TVBox/branches":{"post":"sZqGajVBNyAu-asuaOQ7UgXIs_HjTRe86JiEfhxmJRdFHI66mXyAkMhui7LM_7D3qeveBCc_kMHXlvhnHk5I8w"},"/repos/preferences":{"post":"RXvebQSUukmEf6ca-5JCOVmKTrJrAagj43v8hbdKlav887ALZxuqEGAzeVRPveo4k8XqtXol7az6M2qS_aKK3A"}}},"title":"TVBox/Yoursmile.jar at main · yoursmile66/TVBox","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":true,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"js","path":"js","contentType":"directory"},{"name":"sub","path":"sub","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"XC.json","path":"XC.json","contentType":"file"},{"name":"Yoursmile.jar","path":"Yoursmile.jar","contentType":"file"},{"name":"live.txt","path":"live.txt","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":2.276034,"foldersToFetch":[],"repo":{"id":807571568,"defaultBranch":"main","name":"TVBox","ownerLogin":"yoursmile66","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-05-29T19:04:07.000+08:00","ownerAvatar":"https://avatars.githubusercontent.com/u/171142938?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1716980647.0","canEdit":true,"refType":"branch","currentOid":"348695f6034313cf2ed51d368864fa969a1197c6"},"path":"Yoursmile.jar","currentUser":{"id":107245139,"login":"knight200527","userEmail":"49038093@qq.com"},"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/yoursmile66/TVBox/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false},"displayName":"Yoursmile.jar","displayUrl":"https://github.com/yoursmile66/TVBox/blob/main/Yoursmile.jar?raw=true","headerInfo":{"blobSize":"1.36 MB","deleteTooltip":"Fork this repository and delete the file","editTooltip":"Fork this repository and edit the file","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"4f31d8a","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fyoursmile66%2FTVBox%2Fblob%2Fmain%2FYoursmile.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/yoursmile66/TVBox/blob/main/Yoursmile.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/yoursmile66/TVBox/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/yoursmile66/TVBox/raw/main/Yoursmile.jar","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":{"documentationUrl":"https://docs.github.com/copilot/overview-of-github-copilot/about-github-copilot-for-individuals","notices":{"codeViewPopover":{"dismissed":false,"dismissPath":"/settings/dismiss-notice/code_view_copilot_popover"}},"userAccess":{"hasSubscriptionEnded":false,"orgHasCFBAccess":false,"userHasCFIAccess":false,"userHasOrgs":false,"userIsOrgAdmin":false,"userIsOrgMember":false,"business":null,"featureRequestInfo":null}},"copilotAccessAllowed":false,"csrf_tokens":{"/yoursmile66/TVBox/branches":{"post":"TDaN7tP7GyZoC-Rn7pThC0tjkOunCErtIeQDcCNA6aW4sIU-f8aslo6cxPtKj2qu50D9HmN6zZAe6n9pIWiEQQ"},"/repos/preferences":{"post":"9MI_HHiDIRuOXNI3PUGAMDEC6XZdQ2J7rj77CVNheklNSlF6GwwxQmoQDHmJbigx-01NcUxnJ_S3dm0eGYllPg"}}},"title":"TVBox/Yoursmile.jar at main · yoursmile66/TVBox","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-1583894afd38.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-3a63a487027b.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":true,"copilot_conversational_ux_embedding_update":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
   <div data-target="react-app.reactRoot"><style data-styled="true" data-styled-version="5.3.6">.jUriTl{font-weight:600;font-size:32px;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;font-size:14px;}/*!sc*/
 .imcwCi{font-weight:600;font-size:32px;margin:0;font-size:16px;margin-left:8px;}/*!sc*/
 .cgQnMS{font-weight:600;font-size:32px;margin:0;}/*!sc*/
